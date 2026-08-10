@@ -579,7 +579,26 @@
             "y": -220
           },
           "locationNameKey": "宜蘭頭城",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "house.and.flag",
+              "narrativeKey": "perspective.wushaOpensKavalan.kavalan.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.wushaOpensKavalan.kavalan.label"
+            },
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.wushaOpensKavalan.settlers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.wushaOpensKavalan.settlers.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.wushaOpensKavalan.qing.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.wushaOpensKavalan.qing.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.wushaOpensKavalan.title"
         },
         {
@@ -1102,7 +1121,26 @@
             "y": -25
           },
           "locationNameKey": "中央山脈",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.takasagoVolunteers.recruits.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.takasagoVolunteers.recruits.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.takasagoVolunteers.command.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.takasagoVolunteers.command.label"
+            },
+            {
+              "iconName": "house.and.flag",
+              "narrativeKey": "perspective.takasagoVolunteers.villages.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.takasagoVolunteers.villages.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.takasagoVolunteers.title"
         },
         {
