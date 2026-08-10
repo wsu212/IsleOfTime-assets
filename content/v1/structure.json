@@ -1642,6 +1642,7 @@
           "titleKey": "volume.silentIsland.militaryInternalPurge.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/kinmenArtilleryBattle.png",
           "descriptionKey": "volume.silentIsland.kinmenArtilleryBattle.description",
           "images": [],
           "key": "silentIsland.kinmenArtilleryBattle",
@@ -1694,6 +1695,7 @@
           "titleKey": "volume.silentIsland.institutionalIndependenceDeclaration.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/redLeafLittleLeague.png",
           "descriptionKey": "volume.silentIsland.redLeafLittleLeague.description",
           "images": [],
           "key": "silentIsland.redLeafLittleLeague",
@@ -1725,6 +1727,7 @@
           "titleKey": "volume.silentIsland.redLeafLittleLeague.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/nineYearCompulsoryEducation.png",
           "descriptionKey": "volume.silentIsland.nineYearCompulsoryEducation.description",
           "images": [],
           "key": "silentIsland.nineYearCompulsoryEducation",
@@ -1756,6 +1759,7 @@
           "titleKey": "volume.silentIsland.nineYearCompulsoryEducation.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/taiyuanIncident.png",
           "descriptionKey": "volume.silentIsland.taiyuanIncident.description",
           "images": [],
           "key": "silentIsland.taiyuanIncident",
@@ -1787,6 +1791,7 @@
           "titleKey": "volume.silentIsland.taiyuanIncident.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/withdrawalFromUnitedNations.png",
           "descriptionKey": "volume.silentIsland.withdrawalFromUnitedNations.description",
           "images": [],
           "key": "silentIsland.withdrawalFromUnitedNations",
@@ -1818,6 +1823,7 @@
           "titleKey": "volume.silentIsland.withdrawalFromUnitedNations.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/zhongliIncident.png",
           "descriptionKey": "volume.silentIsland.zhongliIncident.description",
           "images": [],
           "key": "silentIsland.zhongliIncident",
