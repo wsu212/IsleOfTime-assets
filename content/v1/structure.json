@@ -1642,6 +1642,32 @@
           "titleKey": "volume.silentIsland.militaryInternalPurge.title"
         },
         {
+          "descriptionKey": "volume.silentIsland.kinmenArtilleryBattle.description",
+          "images": [],
+          "key": "silentIsland.kinmenArtilleryBattle",
+          "perspectives": [
+            {
+              "iconName": "house.and.flag",
+              "narrativeKey": "perspective.kinmen.islanders.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kinmen.islanders.label"
+            },
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.kinmen.beijing.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kinmen.beijing.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.kinmen.washington.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kinmen.washington.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.kinmenArtilleryBattle.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/crossProvincialDemocracyAlliance.png",
           "descriptionKey": "volume.silentIsland.crossProvincialDemocracyAlliance.description",
           "images": [],
@@ -1666,6 +1692,161 @@
           "locationNameKey": "台北",
           "perspectives": [],
           "titleKey": "volume.silentIsland.institutionalIndependenceDeclaration.title"
+        },
+        {
+          "descriptionKey": "volume.silentIsland.redLeafLittleLeague.description",
+          "images": [],
+          "key": "silentIsland.redLeafLittleLeague",
+          "location": {
+            "x": 17.3,
+            "y": 121.6
+          },
+          "locationNameKey": "台東延平",
+          "perspectives": [
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.redLeaf.players.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.redLeaf.players.label"
+            },
+            {
+              "iconName": "house.and.flag",
+              "narrativeKey": "perspective.redLeaf.village.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.redLeaf.village.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.redLeaf.state.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.redLeaf.state.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.redLeafLittleLeague.title"
+        },
+        {
+          "descriptionKey": "volume.silentIsland.nineYearCompulsoryEducation.description",
+          "images": [],
+          "key": "silentIsland.nineYearCompulsoryEducation",
+          "location": {
+            "x": 92,
+            "y": -248
+          },
+          "locationNameKey": "台北",
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.nineYearEducation.students.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.nineYearEducation.students.label"
+            },
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.nineYearEducation.teachers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.nineYearEducation.teachers.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.nineYearEducation.planners.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.nineYearEducation.planners.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.nineYearCompulsoryEducation.title"
+        },
+        {
+          "descriptionKey": "volume.silentIsland.taiyuanIncident.description",
+          "images": [],
+          "key": "silentIsland.taiyuanIncident",
+          "location": {
+            "x": 40.4,
+            "y": 107.6
+          },
+          "locationNameKey": "台東東河",
+          "perspectives": [
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.taiyuan.five.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taiyuan.five.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.taiyuan.guards.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taiyuan.guards.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.taiyuan.authorities.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taiyuan.authorities.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.taiyuanIncident.title"
+        },
+        {
+          "descriptionKey": "volume.silentIsland.withdrawalFromUnitedNations.description",
+          "images": [],
+          "key": "silentIsland.withdrawalFromUnitedNations",
+          "location": {
+            "x": 88,
+            "y": -251
+          },
+          "locationNameKey": "台北",
+          "perspectives": [
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.unWithdrawal.delegation.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.unWithdrawal.delegation.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.unWithdrawal.washington.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.unWithdrawal.washington.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.unWithdrawal.youth.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.unWithdrawal.youth.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.withdrawalFromUnitedNations.title"
+        },
+        {
+          "descriptionKey": "volume.silentIsland.zhongliIncident.description",
+          "images": [],
+          "key": "silentIsland.zhongliIncident",
+          "location": {
+            "x": 37.1,
+            "y": -237.1
+          },
+          "locationNameKey": "桃園中壢",
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.zhongli.crowd.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.zhongli.crowd.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.zhongli.police.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.zhongli.police.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.zhongli.party.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.zhongli.party.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.zhongliIncident.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/economicTransformation.png",
