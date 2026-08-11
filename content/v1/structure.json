@@ -1932,7 +1932,32 @@
             "y": 169.75
           },
           "locationNameKey": "高雄鼓山",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.formosa.dangwai.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.formosa.dangwai.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.formosa.garrison.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.formosa.garrison.label"
+            },
+            {
+              "iconName": "text.quote",
+              "narrativeKey": "perspective.formosa.lawyers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.formosa.lawyers.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.formosa.international.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.formosa.international.label"
+            }
+          ],
           "titleKey": "volume.breakingTheSilence.kaohsiungIncident.title"
         },
         {
