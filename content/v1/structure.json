@@ -1183,7 +1183,32 @@
             }
           ],
           "key": "lightAndShadow.cairoToTaipeiTreaty",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.cairo.roc.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.cairo.roc.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.cairo.allies.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.cairo.allies.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.cairo.islanders.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.cairo.islanders.label"
+            },
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.cairo.japan.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.cairo.japan.label"
+            }
+          ],
           "titleKey": "volume.lightAndShadow.cairoToTaipeiTreaty.title"
         },
         {
@@ -1245,7 +1270,32 @@
             }
           ],
           "key": "lightAndShadow.shibuyaIncidentAndNationalityStatus",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.shibuya.formosans.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.shibuya.formosans.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.shibuya.roc.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.shibuya.roc.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.shibuya.ghq.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.shibuya.ghq.label"
+            },
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.shibuya.japan.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.shibuya.japan.label"
+            }
+          ],
           "titleKey": "volume.lightAndShadow.shibuyaIncidentAndNationalityStatus.title"
         },
         {
@@ -1264,7 +1314,32 @@
             "y": -258
           },
           "locationNameKey": "基隆港",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.repatriation.soldiers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.repatriation.soldiers.label"
+            },
+            {
+              "iconName": "book.closed",
+              "narrativeKey": "perspective.repatriation.exiles.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.repatriation.exiles.label"
+            },
+            {
+              "iconName": "house.and.flag",
+              "narrativeKey": "perspective.repatriation.mainland.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.repatriation.mainland.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.repatriation.authorities.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.repatriation.authorities.label"
+            }
+          ],
           "titleKey": "volume.lightAndShadow.overseasTaiwaneseRepatriation.title"
         },
         {
@@ -1272,7 +1347,32 @@
           "descriptionKey": "volume.lightAndShadow.deJapanization.description",
           "images": [],
           "key": "lightAndShadow.deJapanization",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.dejapanization.government.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dejapanization.government.label"
+            },
+            {
+              "iconName": "text.quote",
+              "narrativeKey": "perspective.dejapanization.writers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dejapanization.writers.label"
+            },
+            {
+              "iconName": "graduationcap",
+              "narrativeKey": "perspective.dejapanization.schools.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dejapanization.schools.label"
+            },
+            {
+              "iconName": "book.closed",
+              "narrativeKey": "perspective.dejapanization.translators.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dejapanization.translators.label"
+            }
+          ],
           "titleKey": "volume.lightAndShadow.deJapanization.title"
         },
         {
@@ -1280,7 +1380,32 @@
           "descriptionKey": "volume.lightAndShadow.parliamentarySystemSetup.description",
           "images": [],
           "key": "lightAndShadow.parliamentarySystemSetup",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.assembly1946.councilors.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.assembly1946.councilors.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.assembly1946.executive.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.assembly1946.executive.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.assembly1946.voters.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.assembly1946.voters.label"
+            },
+            {
+              "iconName": "text.bubble",
+              "narrativeKey": "perspective.assembly1946.banshan.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.assembly1946.banshan.label"
+            }
+          ],
           "titleKey": "volume.lightAndShadow.parliamentarySystemSetup.title"
         },
         {
@@ -1288,7 +1413,32 @@
           "descriptionKey": "volume.lightAndShadow.constitutionConvention.description",
           "images": [],
           "key": "lightAndShadow.constitutionConvention",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.constitution.delegates.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.constitution.delegates.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.constitution.government.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.constitution.government.label"
+            },
+            {
+              "iconName": "printer",
+              "narrativeKey": "perspective.constitution.press.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.constitution.press.label"
+            },
+            {
+              "iconName": "clock",
+              "narrativeKey": "perspective.constitution.afterlife.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.constitution.afterlife.label"
+            }
+          ],
           "titleKey": "volume.lightAndShadow.constitutionConvention.title"
         },
         {
@@ -1296,7 +1446,32 @@
           "descriptionKey": "volume.lightAndShadow.economicCrisis.description",
           "images": [],
           "key": "lightAndShadow.economicCrisis",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.economy1946.monopoly.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.economy1946.monopoly.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.economy1946.households.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.economy1946.households.label"
+            },
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.economy1946.unemployed.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.economy1946.unemployed.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.economy1946.nanjing.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.economy1946.nanjing.label"
+            }
+          ],
           "titleKey": "volume.lightAndShadow.economicCrisis.title"
         },
         {
@@ -1406,7 +1581,32 @@
           "descriptionKey": "volume.lightAndShadow.dilemmaOfElites.description",
           "images": [],
           "key": "lightAndShadow.dilemmaOfElites",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.elites.reformers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.elites.reformers.label"
+            },
+            {
+              "iconName": "printer",
+              "narrativeKey": "perspective.elites.critics.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.elites.critics.label"
+            },
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.elites.silence.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.elites.silence.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.elites.security.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.elites.security.label"
+            }
+          ],
           "titleKey": "volume.lightAndShadow.dilemmaOfElites.title"
         },
         {
@@ -1419,7 +1619,32 @@
             "y": -260
           },
           "locationNameKey": "台北行政長官公署",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "text.quote",
+              "narrativeKey": "perspective.chiangdiary.chiang.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chiangdiary.chiang.label"
+            },
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.chiangdiary.archive.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chiangdiary.archive.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.chiangdiary.readers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chiangdiary.readers.label"
+            },
+            {
+              "iconName": "magnifyingglass",
+              "narrativeKey": "perspective.chiangdiary.historians.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chiangdiary.historians.label"
+            }
+          ],
           "record": {
             "entries": [
               {
@@ -1504,7 +1729,32 @@
           "descriptionKey": "volume.lightAndShadow.eliteDiaries.description",
           "images": [],
           "key": "lightAndShadow.eliteDiaries",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "book.closed",
+              "narrativeKey": "perspective.diaries.lin.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.diaries.lin.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.diaries.wu.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.diaries.wu.label"
+            },
+            {
+              "iconName": "printer",
+              "narrativeKey": "perspective.diaries.huang.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.diaries.huang.label"
+            },
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.diaries.silence.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.diaries.silence.label"
+            }
+          ],
           "record": {
             "entries": [
               {
@@ -1529,7 +1779,32 @@
           "descriptionKey": "volume.lightAndShadow.usPerspectives.description",
           "images": [],
           "key": "lightAndShadow.usPerspectives",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.usview.consulate.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.usview.consulate.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.usview.statedept.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.usview.statedept.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.usview.military.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.usview.military.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.usview.roc.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.usview.roc.label"
+            }
+          ],
           "titleKey": "volume.lightAndShadow.usPerspectives.title"
         }
       ]
