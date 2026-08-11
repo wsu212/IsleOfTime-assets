@@ -1903,7 +1903,32 @@
             "y": 166
           },
           "locationNameKey": "高雄美麗島",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.dangwai.candidate.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dangwai.candidate.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.dangwai.censor.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dangwai.censor.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.dangwai.kmt.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dangwai.kmt.label"
+            },
+            {
+              "iconName": "book.closed",
+              "narrativeKey": "perspective.dangwai.reader.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dangwai.reader.label"
+            }
+          ],
           "titleKey": "volume.breakingTheSilence.dangwaiMovement.title"
         },
         {
@@ -1970,7 +1995,32 @@
             "y": -250.25
           },
           "locationNameKey": "台北信義",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.linfamily.family.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.linfamily.family.label"
+            },
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.linfamily.watchers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.linfamily.watchers.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.linfamily.overseas.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.linfamily.overseas.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.linfamily.public.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.linfamily.public.label"
+            }
+          ],
           "titleKey": "volume.breakingTheSilence.linFamilyMassacre.title"
         },
         {
@@ -1983,7 +2033,32 @@
             "y": -246.75
           },
           "locationNameKey": "台北台灣大學",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.chenwencheng.family.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chenwencheng.family.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.chenwencheng.garrison.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chenwencheng.garrison.label"
+            },
+            {
+              "iconName": "magnifyingglass",
+              "narrativeKey": "perspective.chenwencheng.forensics.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chenwencheng.forensics.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.chenwencheng.america.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chenwencheng.america.label"
+            }
+          ],
           "titleKey": "volume.breakingTheSilence.chenWenchengIncident.title"
         },
         {
@@ -2002,7 +2077,32 @@
             "y": -263
           },
           "locationNameKey": "台北圓山",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.dpp.founders.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dpp.founders.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.dpp.chiang.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dpp.chiang.label"
+            },
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.dpp.prisoners.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dpp.prisoners.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.dpp.exiles.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dpp.exiles.label"
+            }
+          ],
           "titleKey": "volume.breakingTheSilence.oppositionPartyFormation.title"
         },
         {
@@ -2021,7 +2121,32 @@
             "y": -257
           },
           "locationNameKey": "台北總統府",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.martiallaw.chiang.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.martiallaw.chiang.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.martiallaw.garrison.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.martiallaw.garrison.label"
+            },
+            {
+              "iconName": "airplane",
+              "narrativeKey": "perspective.martiallaw.blacklist.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.martiallaw.blacklist.label"
+            },
+            {
+              "iconName": "antenna.radiowaves.left.and.right",
+              "narrativeKey": "perspective.martiallaw.everyday.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.martiallaw.everyday.label"
+            }
+          ],
           "titleKey": "volume.breakingTheSilence.liftingMartialLaw.title"
         },
         {
@@ -2040,7 +2165,32 @@
             "y": -243
           },
           "locationNameKey": "台北中正紀念堂",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "leaf",
+              "narrativeKey": "perspective.movements.farmers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.movements.farmers.label"
+            },
+            {
+              "iconName": "wrench.and.screwdriver",
+              "narrativeKey": "perspective.movements.labour.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.movements.labour.label"
+            },
+            {
+              "iconName": "text.bubble",
+              "narrativeKey": "perspective.movements.language.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.movements.language.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.movements.state.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.movements.state.label"
+            }
+          ],
           "titleKey": "volume.breakingTheSilence.socialMovements.title"
         },
         {
@@ -2053,7 +2203,32 @@
             "y": -255.5
           },
           "locationNameKey": "台北民權東路",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "flame",
+              "narrativeKey": "perspective.chengnanjung.cheng.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chengnanjung.cheng.label"
+            },
+            {
+              "iconName": "printer",
+              "narrativeKey": "perspective.chengnanjung.staff.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chengnanjung.staff.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.chengnanjung.police.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chengnanjung.police.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.chengnanjung.after.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chengnanjung.after.label"
+            }
+          ],
           "titleKey": "volume.breakingTheSilence.chengNanjungSelfImmolation.title"
         },
         {
@@ -2066,7 +2241,32 @@
             "y": -243
           },
           "locationNameKey": "台北中正紀念堂",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "graduationcap",
+              "narrativeKey": "perspective.wildlily.students.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.wildlily.students.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.wildlily.lee.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.wildlily.lee.label"
+            },
+            {
+              "iconName": "clock",
+              "narrativeKey": "perspective.wildlily.deputies.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.wildlily.deputies.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.wildlily.city.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.wildlily.city.label"
+            }
+          ],
           "titleKey": "volume.breakingTheSilence.wildLilyMovement.title"
         },
         {
@@ -2079,7 +2279,32 @@
             "y": -254
           },
           "locationNameKey": "台北總統府",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "checkmark.seal",
+              "narrativeKey": "perspective.election1996.voter.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.election1996.voter.label"
+            },
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.election1996.beijing.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.election1996.beijing.label"
+            },
+            {
+              "iconName": "airplane",
+              "narrativeKey": "perspective.election1996.exile.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.election1996.exile.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.election1996.washington.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.election1996.washington.label"
+            }
+          ],
           "titleKey": "volume.breakingTheSilence.firstPresidentialDirectElection.title"
         }
       ]
