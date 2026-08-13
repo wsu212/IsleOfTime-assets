@@ -2337,6 +2337,43 @@
           "titleKey": "volume.breakingTheSilence.chenWenchengIncident.title"
         },
         {
+          "descriptionKey": "volume.breakingTheSilence.jiangNanIncident.description",
+          "images": [],
+          "key": "breakingTheSilence.jiangNanIncident",
+          "location": {
+            "x": 90.6,
+            "y": -259.2
+          },
+          "locationNameKey": "台北大直",
+          "perspectives": [
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.jiangnan.bureau.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.jiangnan.bureau.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.jiangnan.washington.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.jiangnan.washington.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.jiangnan.family.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.jiangnan.family.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.jiangnan.depositors.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.jiangnan.depositors.label"
+            }
+          ],
+          "titleKey": "volume.breakingTheSilence.jiangNanIncident.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/oppositionPartyFormation.png",
           "descriptionKey": "volume.breakingTheSilence.oppositionPartyFormation.description",
           "images": [
@@ -2469,6 +2506,43 @@
           "titleKey": "volume.breakingTheSilence.socialMovements.title"
         },
         {
+          "descriptionKey": "volume.breakingTheSilence.february28Redress.description",
+          "images": [],
+          "key": "breakingTheSilence.february28Redress",
+          "location": {
+            "x": 85,
+            "y": -252.1
+          },
+          "locationNameKey": "台北二二八公園",
+          "perspectives": [
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.redress228.family.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.redress228.family.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.redress228.street.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.redress228.street.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.redress228.commission.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.redress228.commission.label"
+            },
+            {
+              "iconName": "house.and.flag",
+              "narrativeKey": "perspective.redress228.objection.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.redress228.objection.label"
+            }
+          ],
+          "titleKey": "volume.breakingTheSilence.february28Redress.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/chengNanjungSelfImmolation.png",
           "descriptionKey": "volume.breakingTheSilence.chengNanjungSelfImmolation.description",
           "images": [],
@@ -2505,6 +2579,43 @@
             }
           ],
           "titleKey": "volume.breakingTheSilence.chengNanjungSelfImmolation.title"
+        },
+        {
+          "descriptionKey": "volume.breakingTheSilence.leeTenghuiSuccession.description",
+          "images": [],
+          "key": "breakingTheSilence.leeTenghuiSuccession",
+          "location": {
+            "x": 98,
+            "y": -257
+          },
+          "locationNameKey": "台北總統府",
+          "perspectives": [
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.succession.president.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.succession.president.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.succession.nonmainstream.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.succession.nonmainstream.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.succession.elders.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.succession.elders.label"
+            },
+            {
+              "iconName": "antenna.radiowaves.left.and.right",
+              "narrativeKey": "perspective.succession.television.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.succession.television.label"
+            }
+          ],
+          "titleKey": "volume.breakingTheSilence.leeTenghuiSuccession.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/wildLilyMovement.png",
@@ -2545,6 +2656,80 @@
           "titleKey": "volume.breakingTheSilence.wildLilyMovement.title"
         },
         {
+          "descriptionKey": "volume.breakingTheSilence.endOfMobilizationPeriod.description",
+          "images": [],
+          "key": "breakingTheSilence.endOfMobilizationPeriod",
+          "location": {
+            "x": 90.4,
+            "y": -272.1
+          },
+          "locationNameKey": "台北陽明山",
+          "perspectives": [
+            {
+              "iconName": "clock",
+              "narrativeKey": "perspective.mobilization.seniors.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mobilization.seniors.label"
+            },
+            {
+              "iconName": "book.closed",
+              "narrativeKey": "perspective.mobilization.justices.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mobilization.justices.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.mobilization.opposition.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mobilization.opposition.label"
+            },
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.mobilization.premier.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mobilization.premier.label"
+            }
+          ],
+          "titleKey": "volume.breakingTheSilence.endOfMobilizationPeriod.title"
+        },
+        {
+          "descriptionKey": "volume.breakingTheSilence.article100Movement.description",
+          "images": [],
+          "key": "breakingTheSilence.article100Movement",
+          "location": {
+            "x": 85.3,
+            "y": -253.4
+          },
+          "locationNameKey": "台北車站",
+          "perspectives": [
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.article100.defendants.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.article100.defendants.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.article100.bureau.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.article100.bureau.label"
+            },
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.article100.professors.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.article100.professors.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.article100.legislature.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.article100.legislature.label"
+            }
+          ],
+          "titleKey": "volume.breakingTheSilence.article100Movement.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/firstPresidentialDirectElection.png",
           "descriptionKey": "volume.breakingTheSilence.firstPresidentialDirectElection.description",
           "images": [],
@@ -2581,6 +2766,43 @@
             }
           ],
           "titleKey": "volume.breakingTheSilence.firstPresidentialDirectElection.title"
+        },
+        {
+          "descriptionKey": "volume.breakingTheSilence.chichiEarthquake.description",
+          "images": [],
+          "key": "breakingTheSilence.chichiEarthquake",
+          "location": {
+            "x": -35.4,
+            "y": -40.2
+          },
+          "locationNameKey": "南投集集",
+          "perspectives": [
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.chichi.survivors.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chichi.survivors.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.chichi.responders.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chichi.responders.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.chichi.volunteers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chichi.volunteers.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.chichi.state.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chichi.state.label"
+            }
+          ],
+          "titleKey": "volume.breakingTheSilence.chichiEarthquake.title"
         }
       ]
     },
@@ -7326,10 +7548,13 @@
         "breakingTheSilence.kaohsiungIncident",
         "breakingTheSilence.linFamilyMassacre",
         "breakingTheSilence.chenWenchengIncident",
+        "breakingTheSilence.jiangNanIncident",
         "breakingTheSilence.oppositionPartyFormation",
         "breakingTheSilence.liftingMartialLaw",
+        "breakingTheSilence.february28Redress",
         "breakingTheSilence.chengNanjungSelfImmolation",
         "breakingTheSilence.wildLilyMovement",
+        "breakingTheSilence.article100Movement",
         "newFormosa.firstPartyTurnover",
         "newFormosa.sunflowerMovement"
       ]
@@ -7352,6 +7577,7 @@
         "lightAndShadow.usPerspectives",
         "silentIsland.coldWarAndUSAid",
         "silentIsland.institutionalIndependenceDeclaration",
+        "breakingTheSilence.endOfMobilizationPeriod",
         "newFormosa.crossStraitRelations"
       ]
     },
