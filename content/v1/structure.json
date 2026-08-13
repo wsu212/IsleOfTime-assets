@@ -2337,6 +2337,7 @@
           "titleKey": "volume.breakingTheSilence.chenWenchengIncident.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/jiangNanIncident.png",
           "descriptionKey": "volume.breakingTheSilence.jiangNanIncident.description",
           "images": [],
           "key": "breakingTheSilence.jiangNanIncident",
@@ -2506,6 +2507,7 @@
           "titleKey": "volume.breakingTheSilence.socialMovements.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/february28Redress.png",
           "descriptionKey": "volume.breakingTheSilence.february28Redress.description",
           "images": [],
           "key": "breakingTheSilence.february28Redress",
@@ -2581,6 +2583,7 @@
           "titleKey": "volume.breakingTheSilence.chengNanjungSelfImmolation.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/leeTenghuiSuccession.png",
           "descriptionKey": "volume.breakingTheSilence.leeTenghuiSuccession.description",
           "images": [],
           "key": "breakingTheSilence.leeTenghuiSuccession",
@@ -2656,6 +2659,7 @@
           "titleKey": "volume.breakingTheSilence.wildLilyMovement.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/endOfMobilizationPeriod.png",
           "descriptionKey": "volume.breakingTheSilence.endOfMobilizationPeriod.description",
           "images": [],
           "key": "breakingTheSilence.endOfMobilizationPeriod",
@@ -2693,6 +2697,7 @@
           "titleKey": "volume.breakingTheSilence.endOfMobilizationPeriod.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/article100Movement.png",
           "descriptionKey": "volume.breakingTheSilence.article100Movement.description",
           "images": [],
           "key": "breakingTheSilence.article100Movement",
@@ -2768,6 +2773,7 @@
           "titleKey": "volume.breakingTheSilence.firstPresidentialDirectElection.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/chichiEarthquake.png",
           "descriptionKey": "volume.breakingTheSilence.chichiEarthquake.description",
           "images": [],
           "key": "breakingTheSilence.chichiEarthquake",
