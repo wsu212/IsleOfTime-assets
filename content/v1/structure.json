@@ -2860,6 +2860,43 @@
           "titleKey": "volume.newFormosa.sarsHepingHospital.title"
         },
         {
+          "descriptionKey": "volume.newFormosa.march19Shooting.description",
+          "images": [],
+          "key": "newFormosa.march19Shooting",
+          "location": {
+            "x": -133.6,
+            "y": 106.6
+          },
+          "locationNameKey": "台南金華路",
+          "perspectives": [
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.march19.street.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.march19.street.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.march19.doubters.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.march19.doubters.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.march19.state.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.march19.state.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.march19.family.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.march19.family.label"
+            }
+          ],
+          "titleKey": "volume.newFormosa.march19Shooting.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/taipei101Completion.png",
           "descriptionKey": "volume.newFormosa.taipei101Completion.description",
           "images": [],
@@ -2871,6 +2908,337 @@
           "locationNameKey": "台北信義",
           "perspectives": [],
           "titleKey": "volume.newFormosa.taipei101Completion.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/redShirtsAndTheTrial.png",
+          "descriptionKey": "volume.newFormosa.redShirtsAndTheTrial.description",
+          "images": [],
+          "key": "newFormosa.redShirtsAndTheTrial",
+          "location": {
+            "x": 85,
+            "y": -252
+          },
+          "locationNameKey": "台北凱達格蘭大道",
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.redShirts.redshirts.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.redShirts.redshirts.label"
+            },
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.redShirts.supporters.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.redShirts.supporters.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.redShirts.state.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.redShirts.state.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.redShirts.shih.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.redShirts.shih.label"
+            }
+          ],
+          "titleKey": "volume.newFormosa.redShirtsAndTheTrial.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/highSpeedRailOpening.png",
+          "descriptionKey": "volume.newFormosa.highSpeedRailOpening.description",
+          "images": [],
+          "key": "newFormosa.highSpeedRailOpening",
+          "location": {
+            "x": -62.7,
+            "y": -89.25
+          },
+          "locationNameKey": "台中烏日",
+          "perspectives": [],
+          "titleKey": "volume.newFormosa.highSpeedRailOpening.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/capeNo7FilmRevival.png",
+          "descriptionKey": "volume.newFormosa.capeNo7FilmRevival.description",
+          "images": [],
+          "key": "newFormosa.capeNo7FilmRevival",
+          "location": {
+            "x": -42.07,
+            "y": 279.48
+          },
+          "locationNameKey": "屏東恆春",
+          "perspectives": [],
+          "titleKey": "volume.newFormosa.capeNo7FilmRevival.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/morakotTyphoon.png",
+          "descriptionKey": "volume.newFormosa.morakotTyphoon.description",
+          "images": [],
+          "key": "newFormosa.morakotTyphoon",
+          "location": {
+            "x": -58.2,
+            "y": 70.5
+          },
+          "locationNameKey": "高雄甲仙小林村",
+          "perspectives": [
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.morakot.survivors.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.morakot.survivors.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.morakot.aircrew.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.morakot.aircrew.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.morakot.state.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.morakot.state.label"
+            },
+            {
+              "iconName": "mountain.2",
+              "narrativeKey": "perspective.morakot.relocated.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.morakot.relocated.label"
+            }
+          ],
+          "titleKey": "volume.newFormosa.morakotTyphoon.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/whiteShirtsMovement.png",
+          "descriptionKey": "volume.newFormosa.whiteShirtsMovement.description",
+          "images": [],
+          "key": "newFormosa.whiteShirtsMovement",
+          "location": {
+            "x": 24.1,
+            "y": -228.8
+          },
+          "locationNameKey": "桃園楊梅",
+          "perspectives": [
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.whiteShirts.family.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.whiteShirts.family.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.whiteShirts.organizers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.whiteShirts.organizers.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.whiteShirts.state.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.whiteShirts.state.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.whiteShirts.conscripts.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.whiteShirts.conscripts.label"
+            }
+          ],
+          "titleKey": "volume.newFormosa.whiteShirtsMovement.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/seeingTaiwanFromAbove.png",
+          "descriptionKey": "volume.newFormosa.seeingTaiwanFromAbove.description",
+          "images": [],
+          "key": "newFormosa.seeingTaiwanFromAbove",
+          "location": {
+            "x": 85.2,
+            "y": 0.8
+          },
+          "locationNameKey": "花蓮豐濱",
+          "perspectives": [
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.seeingTaiwan.chi.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.seeingTaiwan.chi.label"
+            },
+            {
+              "iconName": "building.2",
+              "narrativeKey": "perspective.seeingTaiwan.ground.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.seeingTaiwan.ground.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.seeingTaiwan.state.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.seeingTaiwan.state.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.seeingTaiwan.audience.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.seeingTaiwan.audience.label"
+            }
+          ],
+          "titleKey": "volume.newFormosa.seeingTaiwanFromAbove.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/sunflowerMovement.png",
+          "descriptionKey": "volume.newFormosa.sunflowerMovement.description",
+          "images": [],
+          "key": "newFormosa.sunflowerMovement",
+          "location": {
+            "x": 85.64,
+            "y": -252.7
+          },
+          "locationNameKey": "台北立法院",
+          "perspectives": [],
+          "titleKey": "volume.newFormosa.sunflowerMovement.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/palaceMuseumSouthernBranch.png",
+          "descriptionKey": "volume.newFormosa.palaceMuseumSouthernBranch.description",
+          "images": [],
+          "key": "newFormosa.palaceMuseumSouthernBranch",
+          "location": {
+            "x": -110.55,
+            "y": 15.75
+          },
+          "locationNameKey": "嘉義太保",
+          "perspectives": [],
+          "titleKey": "volume.newFormosa.palaceMuseumSouthernBranch.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/firstWomanPresident.png",
+          "descriptionKey": "volume.newFormosa.firstWomanPresident.description",
+          "images": [],
+          "key": "newFormosa.firstWomanPresident",
+          "location": {
+            "x": 84.5,
+            "y": -252
+          },
+          "locationNameKey": "台北總統府",
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.tsai2016.women.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.tsai2016.women.label"
+            },
+            {
+              "iconName": "mountain.2",
+              "narrativeKey": "perspective.tsai2016.indigenous.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.tsai2016.indigenous.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.tsai2016.state.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.tsai2016.state.label"
+            },
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.tsai2016.skeptics.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.tsai2016.skeptics.label"
+            }
+          ],
+          "titleKey": "volume.newFormosa.firstWomanPresident.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/sameSexMarriageLegalization.png",
+          "descriptionKey": "volume.newFormosa.sameSexMarriageLegalization.description",
+          "images": [],
+          "key": "newFormosa.sameSexMarriageLegalization",
+          "location": {
+            "x": 84.98,
+            "y": -252
+          },
+          "locationNameKey": "台北立法院",
+          "perspectives": [],
+          "titleKey": "volume.newFormosa.sameSexMarriageLegalization.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/pandemicYears.png",
+          "descriptionKey": "volume.newFormosa.pandemicYears.description",
+          "images": [],
+          "key": "newFormosa.pandemicYears",
+          "location": {
+            "x": 82.5,
+            "y": -251.6
+          },
+          "locationNameKey": "台北萬華",
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.pandemic.queue.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.pandemic.queue.label"
+            },
+            {
+              "iconName": "cross.case",
+              "narrativeKey": "perspective.pandemic.medical.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.pandemic.medical.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.pandemic.state.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.pandemic.state.label"
+            },
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.pandemic.confined.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.pandemic.confined.label"
+            }
+          ],
+          "titleKey": "volume.newFormosa.pandemicYears.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/siliconShield.png",
+          "descriptionKey": "volume.newFormosa.siliconShield.description",
+          "images": [],
+          "key": "newFormosa.siliconShield",
+          "location": {
+            "x": 0.5,
+            "y": -205.5
+          },
+          "locationNameKey": "新竹科學園區",
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.siliconShield.engineers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.siliconShield.engineers.label"
+            },
+            {
+              "iconName": "cpu",
+              "narrativeKey": "perspective.siliconShield.foundry.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.siliconShield.foundry.label"
+            },
+            {
+              "iconName": "drop",
+              "narrativeKey": "perspective.siliconShield.farmers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.siliconShield.farmers.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.siliconShield.state.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.siliconShield.state.label"
+            }
+          ],
+          "titleKey": "volume.newFormosa.siliconShield.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/crossStraitRelations.png",
@@ -2900,71 +3268,6 @@
           "locationNameKey": "台北立法院",
           "perspectives": [],
           "titleKey": "volume.newFormosa.crossStraitRelations.title"
-        },
-        {
-          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/highSpeedRailOpening.png",
-          "descriptionKey": "volume.newFormosa.highSpeedRailOpening.description",
-          "images": [],
-          "key": "newFormosa.highSpeedRailOpening",
-          "location": {
-            "x": -62.7,
-            "y": -89.25
-          },
-          "locationNameKey": "台中烏日",
-          "perspectives": [],
-          "titleKey": "volume.newFormosa.highSpeedRailOpening.title"
-        },
-        {
-          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/capeNo7FilmRevival.png",
-          "descriptionKey": "volume.newFormosa.capeNo7FilmRevival.description",
-          "images": [],
-          "key": "newFormosa.capeNo7FilmRevival",
-          "location": {
-            "x": -42.07,
-            "y": 279.48
-          },
-          "locationNameKey": "屏東恆春",
-          "perspectives": [],
-          "titleKey": "volume.newFormosa.capeNo7FilmRevival.title"
-        },
-        {
-          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/sunflowerMovement.png",
-          "descriptionKey": "volume.newFormosa.sunflowerMovement.description",
-          "images": [],
-          "key": "newFormosa.sunflowerMovement",
-          "location": {
-            "x": 85.64,
-            "y": -252.7
-          },
-          "locationNameKey": "台北立法院",
-          "perspectives": [],
-          "titleKey": "volume.newFormosa.sunflowerMovement.title"
-        },
-        {
-          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/palaceMuseumSouthernBranch.png",
-          "descriptionKey": "volume.newFormosa.palaceMuseumSouthernBranch.description",
-          "images": [],
-          "key": "newFormosa.palaceMuseumSouthernBranch",
-          "location": {
-            "x": -110.55,
-            "y": 15.75
-          },
-          "locationNameKey": "嘉義太保",
-          "perspectives": [],
-          "titleKey": "volume.newFormosa.palaceMuseumSouthernBranch.title"
-        },
-        {
-          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/sameSexMarriageLegalization.png",
-          "descriptionKey": "volume.newFormosa.sameSexMarriageLegalization.description",
-          "images": [],
-          "key": "newFormosa.sameSexMarriageLegalization",
-          "location": {
-            "x": 84.98,
-            "y": -252
-          },
-          "locationNameKey": "台北立法院",
-          "perspectives": [],
-          "titleKey": "volume.newFormosa.sameSexMarriageLegalization.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/transitionalJustice.png",
@@ -7459,7 +7762,9 @@
         "underTheRisingSun.treatyOfShimonoseki",
         "lightAndShadow.postWarOccupationAndTransfer",
         "lightAndShadow.deJapanization",
-        "newFormosa.transitionalJustice"
+        "newFormosa.transitionalJustice",
+        "newFormosa.morakotTyphoon",
+        "newFormosa.seeingTaiwanFromAbove"
       ]
     },
     {
@@ -7478,7 +7783,9 @@
         "underTheRisingSun.seediqBale",
         "underTheRisingSun.takasagoVolunteers",
         "silentIsland.indigenousElitePurge",
-        "newFormosa.identityAndCulture"
+        "newFormosa.identityAndCulture",
+        "newFormosa.morakotTyphoon",
+        "newFormosa.firstWomanPresident"
       ]
     },
     {
@@ -7522,7 +7829,8 @@
         "silentIsland.coldWarAndUSAid",
         "silentIsland.economicTransformation",
         "newFormosa.taipei101Completion",
-        "newFormosa.highSpeedRailOpening"
+        "newFormosa.highSpeedRailOpening",
+        "newFormosa.siliconShield"
       ]
     },
     {
@@ -7562,7 +7870,9 @@
         "breakingTheSilence.wildLilyMovement",
         "breakingTheSilence.article100Movement",
         "newFormosa.firstPartyTurnover",
-        "newFormosa.sunflowerMovement"
+        "newFormosa.sunflowerMovement",
+        "newFormosa.redShirtsAndTheTrial",
+        "newFormosa.whiteShirtsMovement"
       ]
     },
     {
@@ -7598,6 +7908,7 @@
         "underTheRisingSun.wartimeMobilization",
         "lightAndShadow.twentySevenBrigade",
         "silentIsland.economicTransformation",
+        "newFormosa.firstWomanPresident",
         "newFormosa.sameSexMarriageLegalization"
       ]
     }
