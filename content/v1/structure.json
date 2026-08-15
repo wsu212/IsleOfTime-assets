@@ -2860,6 +2860,7 @@
           "titleKey": "volume.newFormosa.sarsHepingHospital.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/march19Shooting.png",
           "descriptionKey": "volume.newFormosa.march19Shooting.description",
           "images": [],
           "key": "newFormosa.march19Shooting",
