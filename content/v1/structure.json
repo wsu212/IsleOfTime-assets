@@ -3345,6 +3345,34 @@
           "key": "soundOfFormosa.hokkien.gramophoneEraColumbia",
           "perspectives": [],
           "titleKey": "volume.soundOfFormosa.hokkien.gramophoneEraColumbia.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.hokkien.peachBlossomWeeps.description",
+          "images": [],
+          "key": "soundOfFormosa.hokkien.peachBlossomWeeps",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.hokkien.peachBlossomWeeps.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.hokkien.tengYuHsien.description",
+          "images": [],
+          "key": "soundOfFormosa.hokkien.tengYuHsien",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.hokkien.tengYuHsien.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.hokkien.chunchun.description",
+          "images": [],
+          "key": "soundOfFormosa.hokkien.chunchun",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.hokkien.chunchun.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.hokkien.recordShops.description",
+          "images": [],
+          "key": "soundOfFormosa.hokkien.recordShops",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.hokkien.recordShops.title"
         }
       ]
     },
@@ -3381,6 +3409,34 @@
           "key": "soundOfFormosa.hokkien.wartimeVariations",
           "perspectives": [],
           "titleKey": "volume.soundOfFormosa.hokkien.wartimeVariations.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.hokkien.homareNoGumpu.description",
+          "images": [],
+          "key": "soundOfFormosa.hokkien.homareNoGumpu",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.hokkien.homareNoGumpu.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.hokkien.taihokuBroadcast.description",
+          "images": [],
+          "key": "soundOfFormosa.hokkien.taihokuBroadcast",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.hokkien.taihokuBroadcast.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.hokkien.reformedOpera.description",
+          "images": [],
+          "key": "soundOfFormosa.hokkien.reformedOpera",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.hokkien.reformedOpera.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.hokkien.tengsLastYears.description",
+          "images": [],
+          "key": "soundOfFormosa.hokkien.tengsLastYears",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.hokkien.tengsLastYears.title"
         }
       ]
     },
@@ -3396,6 +3452,34 @@
           "key": "soundOfFormosa.postwarRevival.postwarRevivalOverview",
           "perspectives": [],
           "titleKey": "volume.soundOfFormosa.postwarRevival.postwarRevivalOverview.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.postwarRevival.mendingTheNet.description",
+          "images": [],
+          "key": "soundOfFormosa.postwarRevival.mendingTheNet",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.postwarRevival.mendingTheNet.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.postwarRevival.wenHsia.description",
+          "images": [],
+          "key": "soundOfFormosa.postwarRevival.wenHsia",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.postwarRevival.wenHsia.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.postwarRevival.hungIfeng.description",
+          "images": [],
+          "key": "soundOfFormosa.postwarRevival.hungIfeng",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.postwarRevival.hungIfeng.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.postwarRevival.dialectQuota.description",
+          "images": [],
+          "key": "soundOfFormosa.postwarRevival.dialectQuota",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.postwarRevival.dialectQuota.title"
         }
       ]
     },
@@ -3411,6 +3495,34 @@
           "key": "soundOfFormosa.campusFolk.campusFolkOverview",
           "perspectives": [],
           "titleKey": "volume.soundOfFormosa.campusFolk.campusFolkOverview.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.campusFolk.yangHsien.description",
+          "images": [],
+          "key": "soundOfFormosa.campusFolk.yangHsien",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.campusFolk.yangHsien.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.campusFolk.colaBottle.description",
+          "images": [],
+          "key": "soundOfFormosa.campusFolk.colaBottle",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.campusFolk.colaBottle.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.campusFolk.goldenChord.description",
+          "images": [],
+          "key": "soundOfFormosa.campusFolk.goldenChord",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.campusFolk.goldenChord.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.campusFolk.kimboHu.description",
+          "images": [],
+          "key": "soundOfFormosa.campusFolk.kimboHu",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.campusFolk.kimboHu.title"
         }
       ]
     },
@@ -3426,6 +3538,34 @@
           "key": "soundOfFormosa.contemporary.contemporaryMusicOverview",
           "perspectives": [],
           "titleKey": "volume.soundOfFormosa.contemporary.contemporaryMusicOverview.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.contemporary.songsOfMadness.description",
+          "images": [],
+          "key": "soundOfFormosa.contemporary.songsOfMadness",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.contemporary.songsOfMadness.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.contemporary.marchForward.description",
+          "images": [],
+          "key": "soundOfFormosa.contemporary.marchForward",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.contemporary.marchForward.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.contemporary.difangReturn.description",
+          "images": [],
+          "key": "soundOfFormosa.contemporary.difangReturn",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.contemporary.difangReturn.title"
+        },
+        {
+          "descriptionKey": "volume.soundOfFormosa.contemporary.labourExchange.description",
+          "images": [],
+          "key": "soundOfFormosa.contemporary.labourExchange",
+          "perspectives": [],
+          "titleKey": "volume.soundOfFormosa.contemporary.labourExchange.title"
         }
       ]
     }
@@ -6679,7 +6819,9 @@
         "start": "1895"
       },
       "relatedArchiveTitleKeys": [
-        "archive.underTheRisingSun.title"
+        "archive.underTheRisingSun.title",
+        "archive.soundOfFormosaGramophoneEra.title",
+        "archive.soundOfFormosaWartimeEra.title"
       ],
       "titleKey": "milestone.japaneseColonial.title"
     },
@@ -6699,7 +6841,9 @@
         "start": "1950"
       },
       "relatedArchiveTitleKeys": [
-        "archive.silentIsland.title"
+        "archive.silentIsland.title",
+        "archive.soundOfFormosaPostwarRevival.title",
+        "archive.soundOfFormosaCampusFolk.title"
       ],
       "titleKey": "milestone.authoritarianEra.title"
     },
@@ -6709,7 +6853,8 @@
         "start": "1980"
       },
       "relatedArchiveTitleKeys": [
-        "archive.breakingTheSilence.title"
+        "archive.breakingTheSilence.title",
+        "archive.soundOfFormosaContemporary.title"
       ],
       "titleKey": "milestone.democraticTransition.title"
     },
@@ -6727,9 +6872,7 @@
         "end": "1937",
         "start": "1925"
       },
-      "relatedArchiveTitleKeys": [
-        "archive.soundOfFormosaGramophoneEra.title"
-      ],
+      "relatedArchiveTitleKeys": [],
       "titleKey": "milestone.gramophoneEra.title"
     },
     {
@@ -6737,9 +6880,7 @@
         "end": "1945",
         "start": "1937"
       },
-      "relatedArchiveTitleKeys": [
-        "archive.soundOfFormosaWartimeEra.title"
-      ],
+      "relatedArchiveTitleKeys": [],
       "titleKey": "milestone.wartimeEra.title"
     },
     {
@@ -6747,9 +6888,7 @@
         "end": "1970",
         "start": "1945"
       },
-      "relatedArchiveTitleKeys": [
-        "archive.soundOfFormosaPostwarRevival.title"
-      ],
+      "relatedArchiveTitleKeys": [],
       "titleKey": "milestone.postwarRevivalEra.title"
     },
     {
@@ -6757,18 +6896,14 @@
         "end": "1989",
         "start": "1970"
       },
-      "relatedArchiveTitleKeys": [
-        "archive.soundOfFormosaCampusFolk.title"
-      ],
+      "relatedArchiveTitleKeys": [],
       "titleKey": "milestone.campusFolkEra.title"
     },
     {
       "period": {
         "start": "1990"
       },
-      "relatedArchiveTitleKeys": [
-        "archive.soundOfFormosaContemporary.title"
-      ],
+      "relatedArchiveTitleKeys": [],
       "titleKey": "milestone.contemporaryMusicEra.title"
     }
   ],
