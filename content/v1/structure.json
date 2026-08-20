@@ -436,7 +436,32 @@
           "descriptionKey": "volume.imperialFrontier.qingIncorporation.description",
           "images": [],
           "key": "imperialFrontier.qingIncorporation",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "sailboat",
+              "narrativeKey": "perspective.qingIncorporation.shiLang.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.qingIncorporation.shiLang.label"
+            },
+            {
+              "iconName": "text.quote",
+              "narrativeKey": "perspective.qingIncorporation.abandonParty.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.qingIncorporation.abandonParty.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.qingIncorporation.loyalists.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.qingIncorporation.loyalists.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.qingIncorporation.court.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.qingIncorporation.court.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.qingIncorporation.title"
         },
         {
@@ -449,7 +474,32 @@
             "y": -79
           },
           "locationNameKey": "彰化鹿港",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "sailboat",
+              "narrativeKey": "perspective.crossing.stowaway.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.crossing.stowaway.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.crossing.broker.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.crossing.broker.label"
+            },
+            {
+              "iconName": "person.2",
+              "narrativeKey": "perspective.crossing.wivesLeftBehind.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.crossing.wivesLeftBehind.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.crossing.magistrate.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.crossing.magistrate.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.luohanjiaoCrossing.title"
         },
         {
@@ -488,7 +538,32 @@
             "y": -45
           },
           "locationNameKey": "彰化二水",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.babao.shiShibang.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.babao.shiShibang.label"
+            },
+            {
+              "iconName": "drop",
+              "narrativeKey": "perspective.babao.mrLin.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.babao.mrLin.label"
+            },
+            {
+              "iconName": "leaf",
+              "narrativeKey": "perspective.babao.waterDisputes.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.babao.waterDisputes.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.babao.magistrate.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.babao.magistrate.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.babaoCanal.title"
         },
         {
@@ -514,7 +589,32 @@
             "y": 161
           },
           "locationNameKey": "高雄左營",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.zhuYigui.zhuYigui.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.zhuYigui.zhuYigui.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.zhuYigui.liuduiHakka.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.zhuYigui.liuduiHakka.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.zhuYigui.cityMerchants.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.zhuYigui.cityMerchants.label"
+            },
+            {
+              "iconName": "sailboat",
+              "narrativeKey": "perspective.zhuYigui.fujianNavy.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.zhuYigui.fujianNavy.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.zhuYiguiRebellion.title"
         },
         {
@@ -527,7 +627,32 @@
             "y": -95
           },
           "locationNameKey": "台中大甲",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "flame",
+              "narrativeKey": "perspective.dajiaxi.taokas.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dajiaxi.taokas.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.dajiaxi.alliedVillages.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dajiaxi.alliedVillages.label"
+            },
+            {
+              "iconName": "text.quote",
+              "narrativeKey": "perspective.dajiaxi.interpreter.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dajiaxi.interpreter.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.dajiaxi.circuit.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dajiaxi.circuit.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.dajiaxiUprising.title"
         },
         {
@@ -540,7 +665,32 @@
             "y": -108
           },
           "locationNameKey": "台中豐原",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "mountain.2",
+              "narrativeKey": "perspective.landContracts.chief.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.landContracts.chief.label"
+            },
+            {
+              "iconName": "drop",
+              "narrativeKey": "perspective.landContracts.developer.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.landContracts.developer.label"
+            },
+            {
+              "iconName": "leaf",
+              "narrativeKey": "perspective.landContracts.tenant.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.landContracts.tenant.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.landContracts.boundary.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.landContracts.boundary.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.indigenousLandContracts.title"
         },
         {
@@ -553,7 +703,32 @@
             "y": -87.5
           },
           "locationNameKey": "台中大里",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "flame",
+              "narrativeKey": "perspective.linShuangwen.brotherhood.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.linShuangwen.brotherhood.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.linShuangwen.loyalMilitia.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.linShuangwen.loyalMilitia.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.linShuangwen.villagers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.linShuangwen.villagers.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.linShuangwen.fukangan.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.linShuangwen.fukangan.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.rebellionsAndUnrest.title"
         },
         {
@@ -566,7 +741,32 @@
             "y": 21
           },
           "locationNameKey": "嘉義",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.chiayiName.inside.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chiayiName.inside.label"
+            },
+            {
+              "iconName": "flame",
+              "narrativeKey": "perspective.chiayiName.besieger.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chiayiName.besieger.label"
+            },
+            {
+              "iconName": "scroll",
+              "narrativeKey": "perspective.chiayiName.rewarded.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chiayiName.rewarded.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.chiayiName.emperor.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chiayiName.emperor.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.birthOfChiayiName.title"
         },
         {
@@ -611,7 +811,32 @@
             "y": -200
           },
           "locationNameKey": "宜蘭",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "drop",
+              "narrativeKey": "perspective.kavalanPrefecture.kavalan.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kavalanPrefecture.kavalan.label"
+            },
+            {
+              "iconName": "leaf",
+              "narrativeKey": "perspective.kavalanPrefecture.settlers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kavalanPrefecture.settlers.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.kavalanPrefecture.yangTingli.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kavalanPrefecture.yangTingli.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.kavalanPrefecture.court.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kavalanPrefecture.court.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.kavalanOpening.title"
         },
         {
@@ -663,7 +888,32 @@
             "y": -248
           },
           "locationNameKey": "台北艋舺",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "sailboat",
+              "narrativeKey": "perspective.bangka.guildHouse.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.bangka.guildHouse.label"
+            },
+            {
+              "iconName": "ferry",
+              "narrativeKey": "perspective.bangka.dockWorkers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.bangka.dockWorkers.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.bangka.silted.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.bangka.silted.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.bangka.customsOffice.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.bangka.customsOffice.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.riseAndFallOfGoldenPort.title"
         },
         {
@@ -689,7 +939,32 @@
             "y": -248
           },
           "locationNameKey": "艋舺",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "hammer",
+              "narrativeKey": "perspective.feuds.fighter.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.feuds.fighter.label"
+            },
+            {
+              "iconName": "ferry",
+              "narrativeKey": "perspective.feuds.displaced.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.feuds.displaced.label"
+            },
+            {
+              "iconName": "scroll",
+              "narrativeKey": "perspective.feuds.mediator.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.feuds.mediator.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.feuds.magistrate.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.feuds.magistrate.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.ethnicFeuds.title"
         },
         {
@@ -702,7 +977,32 @@
             "y": 171.5
           },
           "locationNameKey": "高雄打狗",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.treatyPorts.compradore.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.treatyPorts.compradore.label"
+            },
+            {
+              "iconName": "leaf",
+              "narrativeKey": "perspective.treatyPorts.teaWorkers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.treatyPorts.teaWorkers.label"
+            },
+            {
+              "iconName": "sailboat",
+              "narrativeKey": "perspective.treatyPorts.guildMerchants.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.treatyPorts.guildMerchants.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.treatyPorts.customs.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.treatyPorts.customs.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.openingOfPorts.title"
         },
         {
@@ -728,7 +1028,32 @@
             "y": 85
           },
           "locationNameKey": "台南安平",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "cross.case",
+              "narrativeKey": "perspective.mission.maxwell.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mission.maxwell.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.mission.siraya.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mission.siraya.label"
+            },
+            {
+              "iconName": "text.quote",
+              "narrativeKey": "perspective.mission.gentry.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mission.gentry.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.mission.yamen.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mission.yamen.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.presbyterianMission.title"
         },
         {
@@ -741,7 +1066,32 @@
             "y": 250
           },
           "locationNameKey": "恆春南岬",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "mountain.2",
+              "narrativeKey": "perspective.rover.tokitok.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.rover.tokitok.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.rover.legendre.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.rover.legendre.label"
+            },
+            {
+              "iconName": "ferry",
+              "narrativeKey": "perspective.rover.interpreter.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.rover.interpreter.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.rover.qingCourt.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.rover.qingCourt.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.roverIncident.title"
         },
         {
@@ -754,7 +1104,32 @@
             "y": 259
           },
           "locationNameKey": "屏東牡丹",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "mountain.2",
+              "narrativeKey": "perspective.frontierLine.beyondLine.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.frontierLine.beyondLine.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.frontierLine.domesticated.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.frontierLine.domesticated.label"
+            },
+            {
+              "iconName": "tree",
+              "narrativeKey": "perspective.frontierLine.camphorMen.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.frontierLine.camphorMen.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.frontierLine.boundaryOffice.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.frontierLine.boundaryOffice.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.aboriginalFrontier.title"
         },
         {
@@ -767,7 +1142,32 @@
             "y": -85
           },
           "locationNameKey": "南投廬山",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "tree",
+              "narrativeKey": "perspective.mountainSovereignty.saisiyat.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mountainSovereignty.saisiyat.label"
+            },
+            {
+              "iconName": "flame",
+              "narrativeKey": "perspective.mountainSovereignty.mudan.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mountainSovereignty.mudan.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.mountainSovereignty.panShengqing.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mountainSovereignty.panShengqing.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.mountainSovereignty.state.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mountainSovereignty.state.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.indigenousResistance.title"
         },
         {
@@ -780,7 +1180,32 @@
             "y": -48
           },
           "locationNameKey": "花蓮",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "hammer",
+              "narrativeKey": "perspective.openMountains.roadSoldiers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.openMountains.roadSoldiers.label"
+            },
+            {
+              "iconName": "mountain.2",
+              "narrativeKey": "perspective.openMountains.bunun.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.openMountains.bunun.label"
+            },
+            {
+              "iconName": "ferry",
+              "narrativeKey": "perspective.openMountains.settlers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.openMountains.settlers.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.openMountains.shenBaozhen.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.openMountains.shenBaozhen.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.openingTheMountains.title"
         },
         {
@@ -793,7 +1218,32 @@
             "y": -262
           },
           "locationNameKey": "淡水",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.sinoFrench.huweiDefenders.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sinoFrench.huweiDefenders.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.sinoFrench.keelung.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sinoFrench.keelung.label"
+            },
+            {
+              "iconName": "sailboat",
+              "narrativeKey": "perspective.sinoFrench.french.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sinoFrench.french.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.sinoFrench.liuMingchuan.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sinoFrench.liuMingchuan.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.sinoFrenchWar.title"
         },
         {
@@ -806,7 +1256,32 @@
             "y": -270
           },
           "locationNameKey": "台北",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.province.landlords.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.province.landlords.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.province.capitalSite.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.province.capitalSite.label"
+            },
+            {
+              "iconName": "antenna.radiowaves.left.and.right",
+              "narrativeKey": "perspective.province.technicians.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.province.technicians.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.province.boardOfRevenue.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.province.boardOfRevenue.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.taiwanAsProvince.title"
         },
         {
@@ -832,7 +1307,32 @@
             "y": -258
           },
           "locationNameKey": "台北大稻埕",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "hammer",
+              "narrativeKey": "perspective.locomotive.tunnelCrew.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.locomotive.tunnelCrew.label"
+            },
+            {
+              "iconName": "leaf",
+              "narrativeKey": "perspective.locomotive.villagers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.locomotive.villagers.label"
+            },
+            {
+              "iconName": "wrench.and.screwdriver",
+              "narrativeKey": "perspective.locomotive.foreignEngineers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.locomotive.foreignEngineers.label"
+            },
+            {
+              "iconName": "chart.line.uptrend.xyaxis",
+              "narrativeKey": "perspective.locomotive.bureau.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.locomotive.bureau.label"
+            }
+          ],
           "titleKey": "volume.imperialFrontier.firstSteamLocomotive.title"
         }
       ]
@@ -879,7 +1379,32 @@
             "y": -84
           },
           "locationNameKey": "彰化八卦山",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.yiwei.gentry.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yiwei.gentry.label"
+            },
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.yiwei.hakkaMilitia.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yiwei.hakkaMilitia.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.yiwei.soldier.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yiwei.soldier.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.yiwei.governor.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yiwei.governor.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.yiweiWar.title"
         },
         {
@@ -892,7 +1417,32 @@
             "y": -75
           },
           "locationNameKey": "南投霧社",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "flame",
+              "narrativeKey": "perspective.armedResistance.yuChingfang.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.armedResistance.yuChingfang.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.armedResistance.tapaniVillagers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.armedResistance.tapaniVillagers.label"
+            },
+            {
+              "iconName": "mountain.2",
+              "narrativeKey": "perspective.armedResistance.saisiyat.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.armedResistance.saisiyat.label"
+            },
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.armedResistance.court.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.armedResistance.court.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.armedResistance.title"
         },
         {
@@ -905,7 +1455,32 @@
             "y": -255
           },
           "locationNameKey": "台北大同",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "person.crop.circle",
+              "narrativeKey": "perspective.opium.smoker.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.opium.smoker.label"
+            },
+            {
+              "iconName": "cross.case",
+              "narrativeKey": "perspective.opium.tuTsungming.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.opium.tuTsungming.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.opium.peoplesParty.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.opium.peoplesParty.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.opium.monopoly.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.opium.monopoly.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.opiumWar.title"
         },
         {
@@ -931,7 +1506,32 @@
             "y": -265
           },
           "locationNameKey": "台北大同",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "mic",
+              "narrativeKey": "perspective.liaoTianding.storyteller.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.liaoTianding.storyteller.label"
+            },
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.liaoTianding.merchant.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.liaoTianding.merchant.label"
+            },
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.liaoTianding.policeman.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.liaoTianding.policeman.label"
+            },
+            {
+              "iconName": "printer",
+              "narrativeKey": "perspective.liaoTianding.press.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.liaoTianding.press.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.worldsGreatestThief.title"
         },
         {
@@ -944,7 +1544,32 @@
             "y": -105
           },
           "locationNameKey": "花蓮太魯閣",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "mountain.2",
+              "narrativeKey": "perspective.taroko.truku.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taroko.truku.label"
+            },
+            {
+              "iconName": "bolt",
+              "narrativeKey": "perspective.taroko.guardLine.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taroko.guardLine.label"
+            },
+            {
+              "iconName": "camera",
+              "narrativeKey": "perspective.taroko.reporter.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taroko.reporter.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.taroko.sakuma.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taroko.sakuma.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.tarokoCampaign.title"
         },
         {
@@ -957,7 +1582,32 @@
             "y": 8
           },
           "locationNameKey": "南投日月潭",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "drop",
+              "narrativeKey": "perspective.sunMoonLake.thao.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sunMoonLake.thao.label"
+            },
+            {
+              "iconName": "hammer",
+              "narrativeKey": "perspective.sunMoonLake.tunnelWorkers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sunMoonLake.tunnelWorkers.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.sunMoonLake.creditors.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sunMoonLake.creditors.label"
+            },
+            {
+              "iconName": "bolt",
+              "narrativeKey": "perspective.sunMoonLake.taipower.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sunMoonLake.taipower.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.sunMoonLakeHydropower.title"
         },
         {
@@ -970,7 +1620,32 @@
             "y": 72
           },
           "locationNameKey": "台南官田",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "drop",
+              "narrativeKey": "perspective.chianan.tenant.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chianan.tenant.label"
+            },
+            {
+              "iconName": "wrench.and.screwdriver",
+              "narrativeKey": "perspective.chianan.hatta.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chianan.hatta.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.chianan.landowners.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chianan.landowners.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.chianan.publicWorks.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.chianan.publicWorks.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.chiananIrrigation.title"
         },
         {
@@ -983,7 +1658,32 @@
             "y": -75
           },
           "locationNameKey": "台中霧峰",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.petition.linHsientang.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.petition.linHsientang.label"
+            },
+            {
+              "iconName": "book.closed",
+              "narrativeKey": "perspective.petition.students.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.petition.students.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.petition.dietMembers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.petition.dietMembers.label"
+            },
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.petition.governorGeneral.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.petition.governorGeneral.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.taiwanParliamentPetition.title"
         },
         {
@@ -996,7 +1696,32 @@
             "y": -270
           },
           "locationNameKey": "台北大稻埕",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.culturalAssociation.audience.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.culturalAssociation.audience.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.culturalAssociation.linHsientang.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.culturalAssociation.linHsientang.label"
+            },
+            {
+              "iconName": "flame",
+              "narrativeKey": "perspective.culturalAssociation.leftYouth.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.culturalAssociation.leftYouth.label"
+            },
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.culturalAssociation.observer.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.culturalAssociation.observer.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.awakeningTaiwaneseSoul.title"
         },
         {
@@ -1009,7 +1734,32 @@
             "y": -260
           },
           "locationNameKey": "台北",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.keisei.chiangWeishui.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.keisei.chiangWeishui.label"
+            },
+            {
+              "iconName": "text.quote",
+              "narrativeKey": "perspective.keisei.lawyers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.keisei.lawyers.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.keisei.audience.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.keisei.audience.label"
+            },
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.keisei.prosecutor.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.keisei.prosecutor.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.keiseiIncident.title"
         },
         {
@@ -1022,7 +1772,32 @@
             "y": -78
           },
           "locationNameKey": "彰化",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "pencil",
+              "narrativeKey": "perspective.newLiterature.changWochun.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.newLiterature.changWochun.label"
+            },
+            {
+              "iconName": "scroll",
+              "narrativeKey": "perspective.newLiterature.oldPoets.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.newLiterature.oldPoets.label"
+            },
+            {
+              "iconName": "cross.case",
+              "narrativeKey": "perspective.newLiterature.laiHo.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.newLiterature.laiHo.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.newLiterature.censor.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.newLiterature.censor.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.newLiteratureMovement.title"
         },
         {
@@ -1035,7 +1810,32 @@
             "y": -54
           },
           "locationNameKey": "彰化二林",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "leaf",
+              "narrativeKey": "perspective.erlin.caneFarmers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.erlin.caneFarmers.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.erlin.companyStaff.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.erlin.companyStaff.label"
+            },
+            {
+              "iconName": "newspaper",
+              "narrativeKey": "perspective.erlin.press.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.erlin.press.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.erlin.police.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.erlin.police.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.erlinIncident.title"
         },
         {
@@ -1048,7 +1848,32 @@
             "y": -274
           },
           "locationNameKey": "台北大稻埕",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.peoplesParty.chiangWeishui.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.peoplesParty.chiangWeishui.label"
+            },
+            {
+              "iconName": "text.quote",
+              "narrativeKey": "perspective.peoplesParty.tsaiPeihuo.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.peoplesParty.tsaiPeihuo.label"
+            },
+            {
+              "iconName": "hammer",
+              "narrativeKey": "perspective.peoplesParty.workers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.peoplesParty.workers.label"
+            },
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.peoplesParty.policeBureau.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.peoplesParty.policeBureau.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.taiwanPeoplesParty.title"
         },
         {
@@ -1061,7 +1886,32 @@
             "y": -270
           },
           "locationNameKey": "台北",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "paintpalette",
+              "narrativeKey": "perspective.taiten.threeYouths.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taiten.threeYouths.label"
+            },
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.taiten.jurors.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taiten.jurors.label"
+            },
+            {
+              "iconName": "newspaper",
+              "narrativeKey": "perspective.taiten.publicAndPress.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taiten.publicAndPress.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.taiten.educationBureau.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taiten.educationBureau.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.taitenArtExhibition.title"
         },
         {
@@ -1074,7 +1924,32 @@
             "y": -78
           },
           "locationNameKey": "南投仁愛",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "flame",
+              "narrativeKey": "perspective.musha.mahebo.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.musha.mahebo.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.musha.toda.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.musha.toda.label"
+            },
+            {
+              "iconName": "graduationcap",
+              "narrativeKey": "perspective.musha.teacher.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.musha.teacher.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.musha.armyHQ.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.musha.armyHQ.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.seediqBale.title"
         },
         {
@@ -1087,7 +1962,32 @@
             "y": 35
           },
           "locationNameKey": "嘉義",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "baseball",
+              "narrativeKey": "perspective.kano.players.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kano.players.label"
+            },
+            {
+              "iconName": "figure.stand",
+              "narrativeKey": "perspective.kano.kondo.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kano.kondo.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.kano.koshien.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kano.koshien.label"
+            },
+            {
+              "iconName": "newspaper",
+              "narrativeKey": "perspective.kano.publicity.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kano.publicity.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.kanoBaseball.title"
         },
         {
@@ -1095,7 +1995,32 @@
           "descriptionKey": "volume.underTheRisingSun.kominka.description",
           "images": [],
           "key": "underTheRisingSun.kominka",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "person.2",
+              "narrativeKey": "perspective.kominka.renamedFamily.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kominka.renamedFamily.label"
+            },
+            {
+              "iconName": "flame",
+              "narrativeKey": "perspective.kominka.temple.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kominka.temple.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.kominka.hokoHead.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kominka.hokoHead.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.kominka.governor.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kominka.governor.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.kominka.title"
         },
         {
@@ -1108,7 +2033,32 @@
             "y": 175
           },
           "locationNameKey": "高雄港",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "wrench.and.screwdriver",
+              "narrativeKey": "perspective.wartime.boyWorkers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.wartime.boyWorkers.label"
+            },
+            {
+              "iconName": "cross.case",
+              "narrativeKey": "perspective.wartime.nursesAndComfortWomen.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.wartime.nursesAndComfortWomen.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.wartime.housewife.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.wartime.housewife.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.wartime.mobilizationOffice.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.wartime.mobilizationOffice.label"
+            }
+          ],
           "titleKey": "volume.underTheRisingSun.wartimeMobilization.title"
         },
         {
@@ -1819,7 +2769,32 @@
           "descriptionKey": "volume.silentIsland.martialLawGovernance.description",
           "images": [],
           "key": "silentIsland.martialLawGovernance",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "graduationcap",
+              "narrativeKey": "perspective.partyState.teacher.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.partyState.teacher.label"
+            },
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.partyState.broker.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.partyState.broker.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.partyState.legislator.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.partyState.legislator.label"
+            },
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.partyState.partyCentre.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.partyState.partyCentre.label"
+            }
+          ],
           "titleKey": "volume.silentIsland.martialLawGovernance.title"
         },
         {
@@ -1848,7 +2823,32 @@
             "y": 164.5
           },
           "locationNameKey": "綠島",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.whiteTerror.families.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.whiteTerror.families.label"
+            },
+            {
+              "iconName": "figure.stand",
+              "narrativeKey": "perspective.whiteTerror.greenIsland.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.whiteTerror.greenIsland.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.whiteTerror.judge.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.whiteTerror.judge.label"
+            },
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.whiteTerror.bureau.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.whiteTerror.bureau.label"
+            }
+          ],
           "titleKey": "volume.silentIsland.whiteTerror.title"
         },
         {
@@ -1861,7 +2861,32 @@
             "y": -272
           },
           "locationNameKey": "基隆",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "book.closed",
+              "narrativeKey": "perspective.guangmingbao.student.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.guangmingbao.student.label"
+            },
+            {
+              "iconName": "person.2",
+              "narrativeKey": "perspective.guangmingbao.chiangPiyu.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.guangmingbao.chiangPiyu.label"
+            },
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.guangmingbao.bureau.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.guangmingbao.bureau.label"
+            },
+            {
+              "iconName": "text.quote",
+              "narrativeKey": "perspective.guangmingbao.silent.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.guangmingbao.silent.label"
+            }
+          ],
           "titleKey": "volume.silentIsland.intellectualDisillusionment.title"
         },
         {
@@ -1874,7 +2899,32 @@
             "y": -248
           },
           "locationNameKey": "台北",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "leaf",
+              "narrativeKey": "perspective.usAid.farmer.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.usAid.farmer.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.usAid.maag.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.usAid.maag.label"
+            },
+            {
+              "iconName": "wrench.and.screwdriver",
+              "narrativeKey": "perspective.usAid.engineer.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.usAid.engineer.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.usAid.cusa.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.usAid.cusa.label"
+            }
+          ],
           "titleKey": "volume.silentIsland.coldWarAndUSAid.title"
         },
         {
@@ -1887,7 +2937,32 @@
             "y": -243
           },
           "locationNameKey": "新北石碇",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "mountain.2",
+              "narrativeKey": "perspective.luku.villager.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.luku.villager.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.luku.child.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.luku.child.label"
+            },
+            {
+              "iconName": "text.quote",
+              "narrativeKey": "perspective.luku.cadre.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.luku.cadre.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.luku.garrison.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.luku.garrison.label"
+            }
+          ],
           "titleKey": "volume.silentIsland.lukuIncident.title"
         },
         {
@@ -1900,7 +2975,32 @@
             "y": 17.5
           },
           "locationNameKey": "嘉義",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "music.note",
+              "narrativeKey": "perspective.tsou.family.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.tsou.family.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.tsou.tsouVillage.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.tsou.tsouVillage.label"
+            },
+            {
+              "iconName": "figure.stand",
+              "narrativeKey": "perspective.tsou.tang.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.tsou.tang.label"
+            },
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.tsou.security.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.tsou.security.label"
+            }
+          ],
           "titleKey": "volume.silentIsland.indigenousElitePurge.title"
         },
         {
@@ -1913,7 +3013,32 @@
             "y": -98
           },
           "locationNameKey": "台中",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.sunLijen.officers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sunLijen.officers.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.sunLijen.kuo.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sunLijen.kuo.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.sunLijen.american.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sunLijen.american.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.sunLijen.presidency.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sunLijen.presidency.label"
+            }
+          ],
           "titleKey": "volume.silentIsland.militaryInternalPurge.title"
         },
         {
@@ -1953,7 +3078,32 @@
             "y": -268
           },
           "locationNameKey": "台北",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "printer",
+              "narrativeKey": "perspective.newPartyMovement.lei.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.newPartyMovement.lei.label"
+            },
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.newPartyMovement.localPoliticians.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.newPartyMovement.localPoliticians.label"
+            },
+            {
+              "iconName": "text.quote",
+              "narrativeKey": "perspective.newPartyMovement.editors.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.newPartyMovement.editors.label"
+            },
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.newPartyMovement.party.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.newPartyMovement.party.label"
+            }
+          ],
           "titleKey": "volume.silentIsland.crossProvincialDemocracyAlliance.title"
         },
         {
@@ -1966,7 +3116,32 @@
             "y": -260
           },
           "locationNameKey": "台北",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "text.quote",
+              "narrativeKey": "perspective.selfSalvation.peng.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.selfSalvation.peng.label"
+            },
+            {
+              "iconName": "person.2",
+              "narrativeKey": "perspective.selfSalvation.students.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.selfSalvation.students.label"
+            },
+            {
+              "iconName": "printer",
+              "narrativeKey": "perspective.selfSalvation.printer.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.selfSalvation.printer.label"
+            },
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.selfSalvation.bureau.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.selfSalvation.bureau.label"
+            }
+          ],
           "titleKey": "volume.silentIsland.institutionalIndependenceDeclaration.title"
         },
         {
@@ -2139,7 +3314,32 @@
             "y": 178.5
           },
           "locationNameKey": "高雄前鎮",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "figure.stand",
+              "narrativeKey": "perspective.exportZone.womenWorkers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.exportZone.womenWorkers.label"
+            },
+            {
+              "iconName": "leaf",
+              "narrativeKey": "perspective.exportZone.landlord.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.exportZone.landlord.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.exportZone.smallFactory.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.exportZone.smallFactory.label"
+            },
+            {
+              "iconName": "chart.line.uptrend.xyaxis",
+              "narrativeKey": "perspective.exportZone.technocrats.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.exportZone.technocrats.label"
+            }
+          ],
           "titleKey": "volume.silentIsland.economicTransformation.title"
         },
         {
@@ -2147,7 +3347,32 @@
           "descriptionKey": "volume.silentIsland.culturalControl.description",
           "images": [],
           "key": "silentIsland.culturalControl",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "book.closed",
+              "narrativeKey": "perspective.censorship.writer.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.censorship.writer.label"
+            },
+            {
+              "iconName": "music.note",
+              "narrativeKey": "perspective.censorship.taiyuSinger.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.censorship.taiyuSinger.label"
+            },
+            {
+              "iconName": "printer",
+              "narrativeKey": "perspective.censorship.bookseller.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.censorship.bookseller.label"
+            },
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.censorship.gio.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.censorship.gio.label"
+            }
+          ],
           "titleKey": "volume.silentIsland.culturalControl.title"
         }
       ]
@@ -2843,7 +4068,32 @@
             "y": -265
           },
           "locationNameKey": "台北總統府",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.turnover2000.voter.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.turnover2000.voter.label"
+            },
+            {
+              "iconName": "briefcase",
+              "narrativeKey": "perspective.turnover2000.partyStaff.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.turnover2000.partyStaff.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.turnover2000.civilService.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.turnover2000.civilService.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.turnover2000.constitution.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.turnover2000.constitution.label"
+            }
+          ],
           "titleKey": "volume.newFormosa.firstPartyTurnover.title"
         },
         {
@@ -2856,7 +4106,32 @@
             "y": -252
           },
           "locationNameKey": "台北和平醫院",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "cross.case",
+              "narrativeKey": "perspective.sars.staffInside.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sars.staffInside.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.sars.families.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sars.families.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.sars.cityGovernment.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sars.cityGovernment.label"
+            },
+            {
+              "iconName": "chart.line.uptrend.xyaxis",
+              "narrativeKey": "perspective.sars.cdc.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sars.cdc.label"
+            }
+          ],
           "titleKey": "volume.newFormosa.sarsHepingHospital.title"
         },
         {
@@ -2958,7 +4233,32 @@
             "y": -89.25
           },
           "locationNameKey": "台中烏日",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "train.side.front.car",
+              "narrativeKey": "perspective.hsr.commuter.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.hsr.commuter.label"
+            },
+            {
+              "iconName": "leaf",
+              "narrativeKey": "perspective.hsr.farmers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.hsr.farmers.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.hsr.consortium.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.hsr.consortium.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.hsr.ministry.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.hsr.ministry.label"
+            }
+          ],
           "titleKey": "volume.newFormosa.highSpeedRailOpening.title"
         },
         {
@@ -3098,7 +4398,32 @@
             "y": -252.7
           },
           "locationNameKey": "台北立法院",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.sunflower.occupiers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sunflower.occupiers.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.sunflower.outside.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sunflower.outside.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.sunflower.police.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sunflower.police.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.sunflower.executive.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sunflower.executive.label"
+            }
+          ],
           "titleKey": "volume.newFormosa.sunflowerMovement.title"
         },
         {
@@ -3162,7 +4487,32 @@
             "y": -252
           },
           "locationNameKey": "台北立法院",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "person.2",
+              "narrativeKey": "perspective.sameSexMarriage.couple.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sameSexMarriage.couple.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.sameSexMarriage.opponents.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sameSexMarriage.opponents.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.sameSexMarriage.justices.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sameSexMarriage.justices.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.sameSexMarriage.legislature.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sameSexMarriage.legislature.label"
+            }
+          ],
           "titleKey": "volume.newFormosa.sameSexMarriageLegalization.title"
         },
         {
@@ -3267,7 +4617,32 @@
             "y": -254
           },
           "locationNameKey": "台北立法院",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "briefcase",
+              "narrativeKey": "perspective.straitCrisis.taishang.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.straitCrisis.taishang.label"
+            },
+            {
+              "iconName": "ferry",
+              "narrativeKey": "perspective.straitCrisis.fishermen.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.straitCrisis.fishermen.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.straitCrisis.washington.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.straitCrisis.washington.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.straitCrisis.nationalSecurity.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.straitCrisis.nationalSecurity.label"
+            }
+          ],
           "titleKey": "volume.newFormosa.crossStraitRelations.title"
         },
         {
@@ -3291,7 +4666,32 @@
             }
           ],
           "key": "newFormosa.transitionalJustice",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.transitionalJustice.families.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.transitionalJustice.families.label"
+            },
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.transitionalJustice.perpetrators.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.transitionalJustice.perpetrators.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.transitionalJustice.commission.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.transitionalJustice.commission.label"
+            },
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.transitionalJustice.agencies.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.transitionalJustice.agencies.label"
+            }
+          ],
           "titleKey": "volume.newFormosa.transitionalJustice.title"
         },
         {
@@ -3304,7 +4704,32 @@
             "y": 105.53
           },
           "locationNameKey": "台南",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "graduationcap",
+              "narrativeKey": "perspective.motherTongue.teacher.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.motherTongue.teacher.label"
+            },
+            {
+              "iconName": "person.2",
+              "narrativeKey": "perspective.motherTongue.middleGeneration.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.motherTongue.middleGeneration.label"
+            },
+            {
+              "iconName": "mountain.2",
+              "narrativeKey": "perspective.motherTongue.indigenousFamily.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.motherTongue.indigenousFamily.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.motherTongue.ministry.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.motherTongue.ministry.label"
+            }
+          ],
           "titleKey": "volume.newFormosa.nativeLanguageRevival.title"
         },
         {
@@ -3328,7 +4753,32 @@
             }
           ],
           "key": "newFormosa.identityAndCulture",
-          "perspectives": [],
+          "perspectives": [
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.identity.mainlanderGrandchild.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.identity.mainlanderGrandchild.label"
+            },
+            {
+              "iconName": "person.2",
+              "narrativeKey": "perspective.identity.newImmigrant.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.identity.newImmigrant.label"
+            },
+            {
+              "iconName": "mountain.2",
+              "narrativeKey": "perspective.identity.indigenousYouth.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.identity.indigenousYouth.label"
+            },
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.identity.symbols.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.identity.symbols.label"
+            }
+          ],
           "titleKey": "volume.newFormosa.identityAndCulture.title"
         }
       ]
