@@ -8152,6 +8152,824 @@
     }
   ],
   "schemaVersion": 1,
+  "specialIssues": [
+    {
+      "bibliography": [
+        {
+          "dateKey": "issue.yangChienho.bib1.date",
+          "titleKey": "issue.yangChienho.bib1.title",
+          "venueKey": "issue.yangChienho.bib1.venue"
+        },
+        {
+          "dateKey": "issue.yangChienho.bib2.date",
+          "titleKey": "issue.yangChienho.bib2.title",
+          "venueKey": "issue.yangChienho.bib2.venue"
+        },
+        {
+          "dateKey": "issue.yangChienho.bib3.date",
+          "titleKey": "issue.yangChienho.bib3.title",
+          "venueKey": "issue.yangChienho.bib3.venue"
+        },
+        {
+          "dateKey": "issue.yangChienho.bib4.date",
+          "titleKey": "issue.yangChienho.bib4.title",
+          "venueKey": "issue.yangChienho.bib4.venue"
+        },
+        {
+          "dateKey": "issue.yangChienho.bib5.date",
+          "titleKey": "issue.yangChienho.bib5.title",
+          "venueKey": "issue.yangChienho.bib5.venue"
+        },
+        {
+          "dateKey": "issue.yangChienho.bib6.date",
+          "titleKey": "issue.yangChienho.bib6.title",
+          "venueKey": "issue.yangChienho.bib6.venue"
+        }
+      ],
+      "bibliographyLabelKey": "issue.yangChienho.bibliographyLabel",
+      "bibliographyNoteKey": "issue.yangChienho.bibliographyNote",
+      "blocks": [
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch1.blurb",
+            "headingKey": "issue.yangChienho.ch1.heading",
+            "numeralKey": "issue.yangChienho.ch1.numeral",
+            "yearsKey": "issue.yangChienho.ch1.years"
+          }
+        },
+        {
+          "figure": {
+            "aspect": 1.6622296173044926,
+            "briefKey": "issue.yangChienho.ch1.fig1.brief",
+            "captionKey": "issue.yangChienho.ch1.fig1.caption",
+            "creditKey": "issue.yangChienho.ch1.fig1.credit",
+            "showsFullFrame": true,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/News_of_establishment_of_the_new_Nationalist_government_in_Nanjing.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.yangChienho.ch1.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch1.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch1.p3"
+        },
+        {
+          "kind": "caveat",
+          "textKey": "issue.yangChienho.ch1.p4"
+        },
+        {
+          "figure": {
+            "aspect": 2.2857142857142856,
+            "briefKey": "issue.yangChienho.ch1.fig2.brief",
+            "captionKey": "issue.yangChienho.ch1.fig2.caption",
+            "creditKey": "issue.yangChienho.ch1.fig2.credit",
+            "showsFullFrame": false,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Funeral_procession_at_downtown_Beipu_1935.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch1.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch1.p6"
+        },
+        {
+          "figure": {
+            "aspect": 1.7777777777777777,
+            "briefKey": "issue.yangChienho.ch1.fig3.brief",
+            "captionKey": "issue.yangChienho.ch1.fig3.caption",
+            "chart": "colonialSupplement",
+            "creditKey": "issue.yangChienho.ch1.fig3.credit",
+            "showsFullFrame": false,
+            "weight": "spot"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch1.p7"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch1.p8"
+        },
+        {
+          "kind": "caveat",
+          "textKey": "issue.yangChienho.ch1.p9"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch2.blurb",
+            "headingKey": "issue.yangChienho.ch2.heading",
+            "numeralKey": "issue.yangChienho.ch2.numeral",
+            "yearsKey": "issue.yangChienho.ch2.years"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p3"
+        },
+        {
+          "figure": {
+            "aspect": 1,
+            "briefKey": "issue.yangChienho.ch2.fig1.brief",
+            "captionKey": "issue.yangChienho.ch2.fig1.caption",
+            "creditKey": "issue.yangChienho.ch2.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/%E9%9D%9C%E4%BF%AE%E5%A5%B3%E4%B8%AD_-_panoramio.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p6"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p7"
+        },
+        {
+          "figure": {
+            "aspect": 1.5003663003663004,
+            "briefKey": "issue.yangChienho.ch2.fig2.brief",
+            "captionKey": "issue.yangChienho.ch2.fig2.caption",
+            "creditKey": "issue.yangChienho.ch2.fig2.credit",
+            "showsFullFrame": true,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Group_photo_before_the_Taihoku_Girls_College.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p8"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p9"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch3.blurb",
+            "headingKey": "issue.yangChienho.ch3.heading",
+            "numeralKey": "issue.yangChienho.ch3.numeral",
+            "yearsKey": "issue.yangChienho.ch3.years"
+          }
+        },
+        {
+          "figure": {
+            "aspect": 0.6666666666666666,
+            "briefKey": "issue.yangChienho.ch3.fig1.brief",
+            "captionKey": "issue.yangChienho.ch3.fig1.caption",
+            "creditKey": "issue.yangChienho.ch3.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/%E5%8F%B0%E7%81%A3%E6%97%A5%E6%97%A5%E6%96%B0%E5%A0%B1%E6%98%AD%E5%92%8C%E5%8D%81%E4%BA%8C%E5%B9%B4%E4%BA%94%E6%9C%88%E4%B8%83%E6%97%A5_%E7%AC%AC%E4%B8%80%E7%89%88.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p6"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p7"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch4.blurb",
+            "headingKey": "issue.yangChienho.ch4.heading",
+            "numeralKey": "issue.yangChienho.ch4.numeral",
+            "yearsKey": "issue.yangChienho.ch4.years"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p1"
+        },
+        {
+          "figure": {
+            "aspect": 2.0633312222925904,
+            "briefKey": "issue.yangChienho.ch4.fig1.brief",
+            "captionKey": "issue.yangChienho.ch4.fig1.caption",
+            "creditKey": "issue.yangChienho.ch4.fig1.credit",
+            "showsFullFrame": true,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/%E5%9C%8B%E8%AA%9E%E5%B8%B8%E7%94%A8%E5%AE%B6%E5%BA%AD%E7%89%8C.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p5"
+        },
+        {
+          "attributionKey": "issue.yangChienho.ch4.p6.attribution",
+          "kind": "quote",
+          "textKey": "issue.yangChienho.ch4.p6"
+        },
+        {
+          "figure": {
+            "aspect": 1.344621513944223,
+            "briefKey": "issue.yangChienho.ch4.fig2.brief",
+            "captionKey": "issue.yangChienho.ch4.fig2.caption",
+            "creditKey": "issue.yangChienho.ch4.fig2.credit",
+            "showsFullFrame": false,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/L%C5%8Da_H%C3%B4_00.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p7"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p8"
+        },
+        {
+          "device": "bibliography",
+          "kind": "device"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p9"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p10"
+        },
+        {
+          "attributionKey": "issue.yangChienho.ch4.p11.attribution",
+          "kind": "quote",
+          "textKey": "issue.yangChienho.ch4.p11"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch5.blurb",
+            "headingKey": "issue.yangChienho.ch5.heading",
+            "numeralKey": "issue.yangChienho.ch5.numeral",
+            "yearsKey": "issue.yangChienho.ch5.years"
+          }
+        },
+        {
+          "figure": {
+            "aspect": 1.2073863636363635,
+            "briefKey": "issue.yangChienho.ch5.fig1.brief",
+            "captionKey": "issue.yangChienho.ch5.fig1.caption",
+            "creditKey": "issue.yangChienho.ch5.fig1.credit",
+            "showsFullFrame": true,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/%E9%BE%8D%E7%91%9B%E5%AE%97_02.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch5.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch5.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch5.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch5.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch5.p5"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch6.blurb",
+            "headingKey": "issue.yangChienho.ch6.heading",
+            "numeralKey": "issue.yangChienho.ch6.numeral",
+            "yearsKey": "issue.yangChienho.ch6.years"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch6.p1"
+        },
+        {
+          "figure": {
+            "aspect": 1.3220524017467248,
+            "briefKey": "issue.yangChienho.ch6.fig1.brief",
+            "captionKey": "issue.yangChienho.ch6.fig1.caption",
+            "creditKey": "issue.yangChienho.ch6.fig1.credit",
+            "showsFullFrame": true,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/News_reports_of_clashes_between_the_police_and_marshals_in_central_Taiwan_1946.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch6.p2"
+        },
+        {
+          "device": "decrees",
+          "kind": "device"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch6.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch6.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch6.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch6.p6"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch7.blurb",
+            "headingKey": "issue.yangChienho.ch7.heading",
+            "numeralKey": "issue.yangChienho.ch7.numeral",
+            "yearsKey": "issue.yangChienho.ch7.years"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p1"
+        },
+        {
+          "figure": {
+            "aspect": 1.3333333333333333,
+            "briefKey": "issue.yangChienho.ch7.fig1.brief",
+            "captionKey": "issue.yangChienho.ch7.fig1.caption",
+            "creditKey": "issue.yangChienho.ch7.fig1.credit",
+            "showsFullFrame": false,
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p3"
+        },
+        {
+          "figure": {
+            "aspect": 1.135876042908224,
+            "briefKey": "issue.yangChienho.ch7.fig2.brief",
+            "captionKey": "issue.yangChienho.ch7.fig2.caption",
+            "creditKey": "issue.yangChienho.ch7.fig2.credit",
+            "showsFullFrame": true,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Kmt_local_elections.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p6"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p7"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch8.blurb",
+            "headingKey": "issue.yangChienho.ch8.heading",
+            "numeralKey": "issue.yangChienho.ch8.numeral",
+            "yearsKey": "issue.yangChienho.ch8.years"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p1"
+        },
+        {
+          "figure": {
+            "aspect": 1.2831632653061225,
+            "briefKey": "issue.yangChienho.ch8.fig1.brief",
+            "captionKey": "issue.yangChienho.ch8.fig1.caption",
+            "creditKey": "issue.yangChienho.ch8.fig1.credit",
+            "showsFullFrame": true,
+            "url": "https://images.vocus.cc/01b93534-9a9d-48a0-8716-ddec5a269562.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p3"
+        },
+        {
+          "kind": "caveat",
+          "textKey": "issue.yangChienho.ch8.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p5"
+        },
+        {
+          "figure": {
+            "aspect": 0.708984375,
+            "briefKey": "issue.yangChienho.ch8.fig2.brief",
+            "captionKey": "issue.yangChienho.ch8.fig2.caption",
+            "creditKey": "issue.yangChienho.ch8.fig2.credit",
+            "showsFullFrame": false,
+            "url": "https://taiwaneseamericanhistory.org/wp-content/uploads/2014/10/111_%E4%BA%BA%E7%94%9F%E7%9A%84%E4%B8%89%E7%B6%BE%E9%8F%A11-726x1024.jpg",
+            "weight": "spot"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p6"
+        },
+        {
+          "device": "twoBooks",
+          "kind": "device"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p7"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p8"
+        },
+        {
+          "figure": {
+            "aspect": 0.7076923076923077,
+            "briefKey": "issue.yangChienho.ch8.fig3.brief",
+            "captionKey": "issue.yangChienho.ch8.fig3.caption",
+            "creditKey": "issue.yangChienho.ch8.fig3.credit",
+            "showsFullFrame": false,
+            "url": "https://taiwaneseamericanhistory.org/wp-content/uploads/2014/10/112_%E8%8A%B1%E9%96%8B%E6%99%82%E7%AF%80.jpg",
+            "weight": "spot"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p9"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p10"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p11"
+        },
+        {
+          "kind": "closing",
+          "textKey": "issue.yangChienho.ch8.p12"
+        }
+      ],
+      "books": [
+        {
+          "imprintKey": "issue.yangChienho.book1.imprint",
+          "isOriginal": true,
+          "lineKeys": [
+            "issue.yangChienho.book1.line1",
+            "issue.yangChienho.book1.line2"
+          ],
+          "roleKey": "issue.yangChienho.book1.role",
+          "titleKey": "issue.yangChienho.book1.title"
+        },
+        {
+          "imprintKey": "issue.yangChienho.book2.imprint",
+          "isOriginal": false,
+          "lineKeys": [
+            "issue.yangChienho.book2.line1",
+            "issue.yangChienho.book2.line2"
+          ],
+          "roleKey": "issue.yangChienho.book2.role",
+          "titleKey": "issue.yangChienho.book2.title"
+        }
+      ],
+      "booksSourceKey": "issue.yangChienho.booksSource",
+      "bylineKey": "issue.yangChienho.byline",
+      "colophonNotes": [
+        {
+          "labelKey": "issue.yangChienho.note1.label",
+          "valueKey": "issue.yangChienho.note1.value"
+        },
+        {
+          "labelKey": "issue.yangChienho.note2.label",
+          "valueKey": "issue.yangChienho.note2.value"
+        }
+      ],
+      "coverFigure": {
+        "aspect": 1.7777777777777777,
+        "briefKey": "issue.yangChienho.coverFigure.brief",
+        "captionKey": "issue.yangChienho.coverFigure.caption",
+        "creditKey": "issue.yangChienho.coverFigure.credit",
+        "showsFullFrame": false,
+        "weight": "standard"
+      },
+      "coverHookKey": "issue.yangChienho.coverHook",
+      "decrees": [
+        {
+          "actionKey": "issue.yangChienho.decree1.action",
+          "dateKey": "issue.yangChienho.decree1.date",
+          "issuerKey": "issue.yangChienho.decree1.issuer"
+        },
+        {
+          "actionKey": "issue.yangChienho.decree2.action",
+          "dateKey": "issue.yangChienho.decree2.date",
+          "issuerKey": "issue.yangChienho.decree2.issuer"
+        }
+      ],
+      "decreesLabelKey": "issue.yangChienho.decreesLabel",
+      "epigraphKey": "issue.yangChienho.epigraph",
+      "epigraphSourceKey": "issue.yangChienho.epigraphSource",
+      "id": "yangChienho",
+      "intervieweesKey": "issue.yangChienho.interviewees",
+      "issueLabelKey": "issue.yangChienho.issueLabel",
+      "kickerKey": "issue.yangChienho.kicker",
+      "perspectives": [
+        {
+          "anchorNumeral": "參",
+          "icon": "printer",
+          "labelKey": "issue.yangChienho.voice1.label",
+          "ledeKey": "issue.yangChienho.voice1.lede",
+          "paragraphKeys": [
+            "issue.yangChienho.voice1.p1",
+            "issue.yangChienho.voice1.p2"
+          ]
+        },
+        {
+          "anchorNumeral": "貳",
+          "icon": "person.3",
+          "labelKey": "issue.yangChienho.voice2.label",
+          "ledeKey": "issue.yangChienho.voice2.lede",
+          "paragraphKeys": [
+            "issue.yangChienho.voice2.p1",
+            "issue.yangChienho.voice2.p2"
+          ]
+        },
+        {
+          "anchorNumeral": "壹",
+          "icon": "book.closed",
+          "labelKey": "issue.yangChienho.voice3.label",
+          "ledeKey": "issue.yangChienho.voice3.lede",
+          "paragraphKeys": [
+            "issue.yangChienho.voice3.p1",
+            "issue.yangChienho.voice3.p2"
+          ]
+        },
+        {
+          "anchorNumeral": "陸",
+          "icon": "building.columns",
+          "labelKey": "issue.yangChienho.voice4.label",
+          "ledeKey": "issue.yangChienho.voice4.lede",
+          "paragraphKeys": [
+            "issue.yangChienho.voice4.p1",
+            "issue.yangChienho.voice4.p2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "titleKey": "issue.yangChienho.source1.title",
+          "url": "https://taiwanlit.org/essays/%E6%88%B0%E5%89%8D%E8%88%87%E6%88%B0%E5%BE%8C%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E4%B8%8A%E7%9A%84%E6%A5%8A%E5%8D%83%E9%B6%B41921-2011-%E5%85%BC%E8%AB%87%E6%A5%8A%E5%8D%83%E9%B6%B4-%E8%8A%B1%E9%96%8B%E6%99%82%E7%AF%80-%E7%9A%84%E6%88%91%E8%A6%8B",
+          "venueKey": "issue.yangChienho.source1.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source2.title",
+          "url": "https://activityfile.nmtl.gov.tw/nmtlhistory/almanac/almanacContent/People/Volume_2011/C2012112011175176FO.pdf",
+          "venueKey": "issue.yangChienho.source2.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source3.title",
+          "url": "https://www.ccat.tw/topic-article/1149",
+          "venueKey": "issue.yangChienho.source3.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source4.title",
+          "url": "https://www.cna.com.tw/culture/article/20250407w002",
+          "venueKey": "issue.yangChienho.source4.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source5.title",
+          "url": "https://tlvm.nmtl.gov.tw/zh/Create/CreatePlatformCont?Createid=42",
+          "venueKey": "issue.yangChienho.source5.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source6.title",
+          "url": "https://www.twmemory.org/?p=9219",
+          "venueKey": "issue.yangChienho.source6.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source7.title",
+          "url": "https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=304",
+          "venueKey": "issue.yangChienho.source7.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source8.title",
+          "url": "http://homepage.ntu.edu.tw/~ntut019/ltes/Yen-Wu-IncomeDistribution.pdf",
+          "venueKey": "issue.yangChienho.source8.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source9.title",
+          "url": "https://ubrand.udn.com/ubrand/story/123655/8438876",
+          "venueKey": "issue.yangChienho.source9.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source10.title",
+          "url": "https://brill.com/view/journals/ijts/6/1/article-p82_005.xml?language=en",
+          "venueKey": "issue.yangChienho.source10.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source11.title",
+          "url": "https://vocus.cc/article/6191ece1fd89780001ca7b68",
+          "venueKey": "issue.yangChienho.source11.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source12.title",
+          "url": "https://vocus.cc/article/6208cab3fd8978000153dbd7",
+          "venueKey": "issue.yangChienho.source12.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source13.title",
+          "url": "https://ir.lib.nchu.edu.tw/handle/11455/95518",
+          "venueKey": "issue.yangChienho.source13.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source14.title",
+          "url": "https://ir.lib.nchu.edu.tw/handle/11455/95518",
+          "venueKey": "issue.yangChienho.source14.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source15.title",
+          "url": "https://www.books.com.tw/products/0010767213",
+          "venueKey": "issue.yangChienho.source15.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source16.title",
+          "url": "https://zh.wikipedia.org/zh-tw/%E6%A5%8A%E5%8D%83%E9%B6%B4",
+          "venueKey": "issue.yangChienho.source16.venue"
+        }
+      ],
+      "standfirstFigure": {
+        "aspect": 1.4992458521870287,
+        "briefKey": "issue.yangChienho.standfirstFigure.brief",
+        "captionKey": "issue.yangChienho.standfirstFigure.caption",
+        "creditKey": "issue.yangChienho.standfirstFigure.credit",
+        "showsFullFrame": false,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/1942%E5%B9%B4%EF%BC%88%E6%97%A5%E6%98%AD%E5%92%8C17%E5%B9%B4%EF%BC%89%E5%8F%B0%E5%8C%97%E6%A6%AE%E7%94%BA%E8%A1%97%E6%99%AF.jpg",
+        "weight": "standard"
+      },
+      "standfirstKey": "issue.yangChienho.standfirst",
+      "subtitleKey": "issue.yangChienho.subtitle",
+      "titleKey": "issue.yangChienho.title",
+      "voiceFigures": [
+        {
+          "figure": {
+            "aspect": 0.6666666666666666,
+            "briefKey": "issue.yangChienho.voice1.figure.brief",
+            "captionKey": "issue.yangChienho.voice1.figure.caption",
+            "creditKey": "issue.yangChienho.voice1.figure.credit",
+            "showsFullFrame": false,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/%E5%8F%B0%E7%81%A3%E6%97%A5%E6%97%A5%E6%96%B0%E5%A0%B1%E6%98%AD%E5%92%8C%E5%8D%81%E4%BA%8C%E5%B9%B4%E4%BA%94%E6%9C%88%E4%B8%83%E6%97%A5_%E7%AC%AC%E4%BA%8C%E7%89%88.jpg",
+            "weight": "standard"
+          },
+          "labelKey": "issue.yangChienho.voice1.label"
+        },
+        {
+          "figure": {
+            "aspect": 1.5003663003663004,
+            "briefKey": "issue.yangChienho.voice2.figure.brief",
+            "captionKey": "issue.yangChienho.voice2.figure.caption",
+            "creditKey": "issue.yangChienho.voice2.figure.credit",
+            "showsFullFrame": true,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Group_photo_before_the_Taihoku_Girls_College.jpg",
+            "weight": "standard"
+          },
+          "labelKey": "issue.yangChienho.voice2.label"
+        },
+        {
+          "figure": {
+            "aspect": 0.7175893482831114,
+            "briefKey": "issue.yangChienho.voice3.figure.brief",
+            "captionKey": "issue.yangChienho.voice3.figure.caption",
+            "creditKey": "issue.yangChienho.voice3.figure.credit",
+            "showsFullFrame": false,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mitsuru_Nishikawa%2C_1956.jpg",
+            "weight": "standard"
+          },
+          "labelKey": "issue.yangChienho.voice3.label"
+        },
+        {
+          "figure": {
+            "aspect": 0.8415147265077139,
+            "briefKey": "issue.yangChienho.voice4.figure.brief",
+            "captionKey": "issue.yangChienho.voice4.figure.caption",
+            "creditKey": "issue.yangChienho.voice4.figure.credit",
+            "showsFullFrame": false,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/%E5%8F%B0%E7%81%A3%E8%A1%8C%E6%94%BF%E9%95%B7%E5%AE%98%E5%85%BC%E8%AD%A6%E5%82%99%E7%B8%BD%E5%8F%B8%E4%BB%A4%E9%99%B3%E5%84%80.jpg",
+            "weight": "standard"
+          },
+          "labelKey": "issue.yangChienho.voice4.label"
+        }
+      ],
+      "voicesTitleKey": "issue.yangChienho.voicesTitle"
+    }
+  ],
   "stories": [
     {
       "chapters": [
