@@ -8784,7 +8784,7 @@
       "kickerKey": "issue.yangChienho.kicker",
       "perspectives": [
         {
-          "anchorNumeral": "參",
+          "anchorNumeral": "issue.yangChienho.ch3.numeral",
           "icon": "printer",
           "labelKey": "issue.yangChienho.voice1.label",
           "ledeKey": "issue.yangChienho.voice1.lede",
@@ -8794,7 +8794,7 @@
           ]
         },
         {
-          "anchorNumeral": "貳",
+          "anchorNumeral": "issue.yangChienho.ch2.numeral",
           "icon": "person.3",
           "labelKey": "issue.yangChienho.voice2.label",
           "ledeKey": "issue.yangChienho.voice2.lede",
@@ -8804,7 +8804,7 @@
           ]
         },
         {
-          "anchorNumeral": "壹",
+          "anchorNumeral": "issue.yangChienho.ch1.numeral",
           "icon": "book.closed",
           "labelKey": "issue.yangChienho.voice3.label",
           "ledeKey": "issue.yangChienho.voice3.lede",
@@ -8814,7 +8814,7 @@
           ]
         },
         {
-          "anchorNumeral": "陸",
+          "anchorNumeral": "issue.yangChienho.ch6.numeral",
           "icon": "building.columns",
           "labelKey": "issue.yangChienho.voice4.label",
           "ledeKey": "issue.yangChienho.voice4.lede",
