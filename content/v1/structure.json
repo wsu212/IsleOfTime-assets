@@ -8579,6 +8579,7 @@
             "aspect": 1.3333333333333333,
             "briefKey": "issue.yangChienho.ch7.fig1.brief",
             "captionKey": "issue.yangChienho.ch7.fig1.caption",
+            "chart": "japaneseGeneration",
             "creditKey": "issue.yangChienho.ch7.fig1.credit",
             "showsFullFrame": false,
             "weight": "standard"
