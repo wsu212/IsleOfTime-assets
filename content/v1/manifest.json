@@ -1,10 +1,10 @@
 {
-  "contentHash": "fdf4f895258878c64f4e97776f725bd34af105dd0da58cb5d650e8fb746c6dd3",
-  "contentVersion": 25,
+  "contentHash": "175fe3fae8d4af2d6a47e57ae5ad1feaa44a367542f713bef3342a784f8acc84",
+  "contentVersion": 26,
   "files": {
     "strings.en.json": {
-      "bytes": 1715756,
-      "sha256": "dca927e80e1993abb21328f421d13f4031239307cd6f80439559a9d903c7689e"
+      "bytes": 1720762,
+      "sha256": "88740ff6537f6091bac09ea67816bdfad2e2cccf42d9abb18d9aa7e131f3de6f"
     },
     "strings.zh-Hant.json": {
       "bytes": 1337300,
@@ -15,7 +15,7 @@
       "sha256": "1f9f45248b6a0632bf85849ed9a129181d2c56c280acf02101bcc3fa0b760454"
     }
   },
-  "generatedAt": "2026-08-29T13:23:11Z",
+  "generatedAt": "2026-08-29T14:13:11Z",
   "minAppVersion": "1.0",
   "schemaVersion": 1
 }
