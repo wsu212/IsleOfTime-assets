@@ -8755,11 +8755,12 @@
         }
       ],
       "coverFigure": {
-        "aspect": 1.7777777777777777,
+        "aspect": 0.6667,
         "briefKey": "issue.yangChienho.coverFigure.brief",
         "captionKey": "issue.yangChienho.coverFigure.caption",
         "creditKey": "issue.yangChienho.coverFigure.credit",
         "showsFullFrame": false,
+        "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/cover.png",
         "weight": "standard"
       },
       "coverHookKey": "issue.yangChienho.coverHook",
