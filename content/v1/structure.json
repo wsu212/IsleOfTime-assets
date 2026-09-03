@@ -6815,6 +6815,20 @@
     },
     {
       "aliases": [],
+      "avatarName": "yang_qianhe",
+      "biographyKey": "figure.yangqianhe.bio",
+      "eraKey": "figure.yangqianhe.era",
+      "keyEventKeys": [
+        "figure.yangqianhe.event1",
+        "figure.yangqianhe.event2"
+      ],
+      "lifespan": "1921–2011",
+      "nameKey": "楊千鶴",
+      "sectionEra": "underTheRisingSun",
+      "titleKey": "figure.yangqianhe.title"
+    },
+    {
+      "aliases": [],
       "avatarName": "huang_tushui",
       "biographyKey": "figure.huangtushui.bio",
       "eraKey": "figure.huangtushui.era",
