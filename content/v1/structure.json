@@ -1345,7 +1345,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/treatyOfShimonoseki.png",
           "descriptionKey": "volume.underTheRisingSun.treatyOfShimonoseki.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.shimonosekiSigningScene.description",
+              "sourceKey": "image.shimonosekiSigningScene.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/shimonosekiSigningScene.jpg"
+            },
+            {
+              "descriptionKey": "image.shimonosekiTreatyQingCopy.description",
+              "sourceKey": "image.shimonosekiTreatyQingCopy.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/shimonosekiTreatyQingCopy.jpg"
+            }
+          ],
           "key": "underTheRisingSun.treatyOfShimonoseki",
           "perspectives": [
             {
@@ -1372,7 +1383,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/yiweiWar.png",
           "descriptionKey": "volume.underTheRisingSun.yiweiWar.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.kitashirakawaCampAodi.description",
+              "sourceKey": "image.kitashirakawaCampAodi.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/kitashirakawaCampAodi.jpg"
+            },
+            {
+              "descriptionKey": "image.japaneseTroopsTaipeiNorthGate.description",
+              "sourceKey": "image.japaneseTroopsTaipeiNorthGate.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/japaneseTroopsTaipeiNorthGate.jpg"
+            },
+            {
+              "descriptionKey": "image.formosaSubjugationOfficers.description",
+              "sourceKey": "image.formosaSubjugationOfficers.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/formosaSubjugationOfficers.jpg"
+            }
+          ],
           "key": "underTheRisingSun.yiweiWar",
           "location": {
             "x": -74.25,
@@ -1410,7 +1437,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/armedResistance.png",
           "descriptionKey": "volume.underTheRisingSun.armedResistance.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.yuChingfangInIrons.description",
+              "sourceKey": "image.yuChingfangInIrons.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/yuChingfangInIrons.jpg"
+            },
+            {
+              "descriptionKey": "image.tainanPrisonersToCourt.description",
+              "sourceKey": "image.tainanPrisonersToCourt.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/tainanPrisonersToCourt.jpg"
+            },
+            {
+              "descriptionKey": "image.tapaniConfiscatedWeapons.description",
+              "sourceKey": "image.tapaniConfiscatedWeapons.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/tapaniConfiscatedWeapons.jpg"
+            }
+          ],
           "key": "underTheRisingSun.armedResistance",
           "location": {
             "x": 19.8,
@@ -1448,7 +1491,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/opiumWar.png",
           "descriptionKey": "volume.underTheRisingSun.opiumWar.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.tuTsungmingDoctorateCelebration.description",
+              "sourceKey": "image.tuTsungmingDoctorateCelebration.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/tuTsungmingDoctorateCelebration.jpg"
+            },
+            {
+              "descriptionKey": "image.taihokuPharmacologyBuilding.description",
+              "sourceKey": "image.taihokuPharmacologyBuilding.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taihokuPharmacologyBuilding.jpg"
+            }
+          ],
           "key": "underTheRisingSun.opiumWar",
           "location": {
             "x": 94,
@@ -1486,7 +1540,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/modernInfrastructure.png",
           "descriptionKey": "volume.underTheRisingSun.modernInfrastructure.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.taichungWaterworksTower.description",
+              "sourceKey": "image.taichungWaterworksTower.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taichungWaterworksTower.jpg"
+            },
+            {
+              "descriptionKey": "image.taipeiWaterworksPlan.description",
+              "sourceKey": "image.taipeiWaterworksPlan.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taipeiWaterworksPlan.jpg"
+            },
+            {
+              "descriptionKey": "image.watanabeKeinoshinRailway.description",
+              "sourceKey": "image.watanabeKeinoshinRailway.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/watanabeKeinoshinRailway.jpg"
+            }
+          ],
           "key": "underTheRisingSun.modernInfrastructure",
           "location": {
             "x": 92,
@@ -1499,7 +1569,13 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/worldsGreatestThief.png",
           "descriptionKey": "volume.underTheRisingSun.worldsGreatestThief.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.taipeiDadaochengBangkaMap1897.description",
+              "sourceKey": "image.taipeiDadaochengBangkaMap1897.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taipeiDadaochengBangkaMap1897.jpg"
+            }
+          ],
           "key": "underTheRisingSun.worldsGreatestThief",
           "location": {
             "x": 91,
@@ -1537,7 +1613,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/tarokoCampaign.png",
           "descriptionKey": "volume.underTheRisingSun.tarokoCampaign.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.sakumaSamataWaterfall.description",
+              "sourceKey": "image.sakumaSamataWaterfall.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/sakumaSamataWaterfall.jpg"
+            },
+            {
+              "descriptionKey": "image.sakumaSamataAndOfficers.description",
+              "sourceKey": "image.sakumaSamataAndOfficers.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/sakumaSamataAndOfficers.jpg"
+            },
+            {
+              "descriptionKey": "image.karenkoArmyCamp.description",
+              "sourceKey": "image.karenkoArmyCamp.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/karenkoArmyCamp.jpg"
+            }
+          ],
           "key": "underTheRisingSun.tarokoCampaign",
           "location": {
             "x": 78,
@@ -1575,7 +1667,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/sunMoonLakeHydropower.png",
           "descriptionKey": "volume.underTheRisingSun.sunMoonLakeHydropower.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.sunMoonLakeConstructionWorkers.description",
+              "sourceKey": "image.sunMoonLakeConstructionWorkers.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/sunMoonLakeConstructionWorkers.jpg"
+            },
+            {
+              "descriptionKey": "image.sunMoonLakeFirstPowerStation.description",
+              "sourceKey": "image.sunMoonLakeFirstPowerStation.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/sunMoonLakeFirstPowerStation.jpg"
+            },
+            {
+              "descriptionKey": "image.sunMoonLakeReservoir.description",
+              "sourceKey": "image.sunMoonLakeReservoir.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/sunMoonLakeReservoir.jpg"
+            }
+          ],
           "key": "underTheRisingSun.sunMoonLakeHydropower",
           "location": {
             "x": 5,
@@ -1613,7 +1721,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/chiananIrrigation.png",
           "descriptionKey": "volume.underTheRisingSun.chiananIrrigation.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.wushantouGravelTrain.description",
+              "sourceKey": "image.wushantouGravelTrain.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/wushantouGravelTrain.jpg"
+            },
+            {
+              "descriptionKey": "image.ishizukaWushantouBriefing.description",
+              "sourceKey": "image.ishizukaWushantouBriefing.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/ishizukaWushantouBriefing.jpg"
+            },
+            {
+              "descriptionKey": "image.kananIrrigationInspection.description",
+              "sourceKey": "image.kananIrrigationInspection.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/kananIrrigationInspection.jpg"
+            }
+          ],
           "key": "underTheRisingSun.chiananIrrigation",
           "location": {
             "x": -114,
@@ -1651,7 +1775,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/taiwanParliamentPetition.png",
           "descriptionKey": "volume.underTheRisingSun.taiwanParliamentPetition.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.parliamentPetitionHandbill.description",
+              "sourceKey": "image.parliamentPetitionHandbill.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/parliamentPetitionHandbill.jpg"
+            },
+            {
+              "descriptionKey": "image.parliamentPetitionersGroup.description",
+              "sourceKey": "image.parliamentPetitionersGroup.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/parliamentPetitionersGroup.jpg"
+            },
+            {
+              "descriptionKey": "image.parliamentPetitionersMeeting.description",
+              "sourceKey": "image.parliamentPetitionersMeeting.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/parliamentPetitionersMeeting.jpg"
+            }
+          ],
           "key": "underTheRisingSun.taiwanParliamentPetition",
           "location": {
             "x": -46,
@@ -1689,7 +1829,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/awakeningTaiwaneseSoul.png",
           "descriptionKey": "volume.underTheRisingSun.awakeningTaiwaneseSoul.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.taiwanMinpaoStaff.description",
+              "sourceKey": "image.taiwanMinpaoStaff.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taiwanMinpaoStaff.jpg"
+            },
+            {
+              "descriptionKey": "image.taiwanMinpaoFrontPage1924.description",
+              "sourceKey": "image.taiwanMinpaoFrontPage1924.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taiwanMinpaoFrontPage1924.jpg"
+            },
+            {
+              "descriptionKey": "image.taiwanShinMinpaoDaily.description",
+              "sourceKey": "image.taiwanShinMinpaoDaily.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taiwanShinMinpaoDaily.jpg"
+            }
+          ],
           "key": "underTheRisingSun.awakeningTaiwaneseSoul",
           "location": {
             "x": 88,
@@ -1727,7 +1883,13 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/keiseiIncident.png",
           "descriptionKey": "volume.underTheRisingSun.keiseiIncident.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.keiseiIncidentReleasePhoto.description",
+              "sourceKey": "image.keiseiIncidentReleasePhoto.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/keiseiIncidentReleasePhoto.jpg"
+            }
+          ],
           "key": "underTheRisingSun.keiseiIncident",
           "location": {
             "x": 95,
@@ -1765,7 +1927,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/newLiteratureMovement.png",
           "descriptionKey": "volume.underTheRisingSun.newLiteratureMovement.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.laiHoAndFriends.description",
+              "sourceKey": "image.laiHoAndFriends.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/laiHoAndFriends.jpg"
+            },
+            {
+              "descriptionKey": "image.laiHoInNara.description",
+              "sourceKey": "image.laiHoInNara.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/laiHoInNara.jpg"
+            },
+            {
+              "descriptionKey": "image.taihokuMedicalSchoolGraduation.description",
+              "sourceKey": "image.taihokuMedicalSchoolGraduation.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taihokuMedicalSchoolGraduation.jpg"
+            }
+          ],
           "key": "underTheRisingSun.newLiteratureMovement",
           "location": {
             "x": -76,
@@ -1803,7 +1981,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/erlinIncident.png",
           "descriptionKey": "volume.underTheRisingSun.erlinIncident.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.linpenyuanSugarFactory.description",
+              "sourceKey": "image.linpenyuanSugarFactory.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/linpenyuanSugarFactory.jpg"
+            },
+            {
+              "descriptionKey": "image.minpaoErlinTrialIssue.description",
+              "sourceKey": "image.minpaoErlinTrialIssue.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/minpaoErlinTrialIssue.jpg"
+            }
+          ],
           "key": "underTheRisingSun.erlinIncident",
           "location": {
             "x": -78,
@@ -1841,7 +2030,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/taiwanPeoplesParty.png",
           "descriptionKey": "volume.underTheRisingSun.taiwanPeoplesParty.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.peoplesPartyPlatform.description",
+              "sourceKey": "image.peoplesPartyPlatform.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/peoplesPartyPlatform.jpg"
+            },
+            {
+              "descriptionKey": "image.peoplesPartyChikunanBranch.description",
+              "sourceKey": "image.peoplesPartyChikunanBranch.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/peoplesPartyChikunanBranch.jpg"
+            },
+            {
+              "descriptionKey": "image.peoplesPartyMembersMeeting.description",
+              "sourceKey": "image.peoplesPartyMembersMeeting.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/peoplesPartyMembersMeeting.jpg"
+            }
+          ],
           "key": "underTheRisingSun.taiwanPeoplesParty",
           "location": {
             "x": 88,
@@ -1879,7 +2084,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/taitenArtExhibition.png",
           "descriptionKey": "volume.underTheRisingSun.taitenArtExhibition.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.taitenExhibitionVenue.description",
+              "sourceKey": "image.taitenExhibitionVenue.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taitenExhibitionVenue.jpg"
+            },
+            {
+              "descriptionKey": "image.chenChengpoTamsuiLandscape.description",
+              "sourceKey": "image.chenChengpoTamsuiLandscape.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/chenChengpoTamsuiLandscape.jpg"
+            },
+            {
+              "descriptionKey": "image.kuoHsuehhuPortrait.description",
+              "sourceKey": "image.kuoHsuehhuPortrait.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/kuoHsuehhuPortrait.jpg"
+            }
+          ],
           "key": "underTheRisingSun.taitenArtExhibition",
           "location": {
             "x": 93,
@@ -1917,7 +2138,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/seediqBale.png",
           "descriptionKey": "volume.underTheRisingSun.seediqBale.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.mushaTruwanSmoke.description",
+              "sourceKey": "image.mushaTruwanSmoke.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/mushaTruwanSmoke.jpg"
+            },
+            {
+              "descriptionKey": "image.mushaWomenCommended.description",
+              "sourceKey": "image.mushaWomenCommended.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/mushaWomenCommended.jpg"
+            },
+            {
+              "descriptionKey": "image.mushaAirSquadron.description",
+              "sourceKey": "image.mushaAirSquadron.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/mushaAirSquadron.jpg"
+            }
+          ],
           "key": "underTheRisingSun.seediqBale",
           "location": {
             "x": 25,
@@ -1955,7 +2192,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/kanoBaseball.png",
           "descriptionKey": "volume.underTheRisingSun.kanoBaseball.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.kanoTeam1935.description",
+              "sourceKey": "image.kanoTeam1935.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/kanoTeam1935.jpg"
+            },
+            {
+              "descriptionKey": "image.kondoHyotaroInStands.description",
+              "sourceKey": "image.kondoHyotaroInStands.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/kondoHyotaroInStands.jpg"
+            },
+            {
+              "descriptionKey": "image.kondoHyotaroAndMori.description",
+              "sourceKey": "image.kondoHyotaroAndMori.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/kondoHyotaroAndMori.jpg"
+            }
+          ],
           "key": "underTheRisingSun.kanoBaseball",
           "location": {
             "x": -42,
@@ -1993,7 +2246,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/kominka.png",
           "descriptionKey": "volume.underTheRisingSun.kominka.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.taiwanShrineFestivalParade.description",
+              "sourceKey": "image.taiwanShrineFestivalParade.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taiwanShrineFestivalParade.jpg"
+            },
+            {
+              "descriptionKey": "image.taiwanShrineMainSanctuary.description",
+              "sourceKey": "image.taiwanShrineMainSanctuary.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taiwanShrineMainSanctuary.jpg"
+            }
+          ],
           "key": "underTheRisingSun.kominka",
           "perspectives": [
             {
@@ -2026,7 +2290,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/wartimeMobilization.png",
           "descriptionKey": "volume.underTheRisingSun.wartimeMobilization.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.taihokuStudentsWartimeService.description",
+              "sourceKey": "image.taihokuStudentsWartimeService.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taihokuStudentsWartimeService.jpg"
+            },
+            {
+              "descriptionKey": "image.taiwanWartimeNewsreel.description",
+              "sourceKey": "image.taiwanWartimeNewsreel.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taiwanWartimeNewsreel.jpg"
+            }
+          ],
           "key": "underTheRisingSun.wartimeMobilization",
           "location": {
             "x": -117,
@@ -2064,7 +2339,13 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/takasagoVolunteers.png",
           "descriptionKey": "volume.underTheRisingSun.takasagoVolunteers.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.toenArmyFarewell.description",
+              "sourceKey": "image.toenArmyFarewell.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/toenArmyFarewell.jpg"
+            }
+          ],
           "key": "underTheRisingSun.takasagoVolunteers",
           "location": {
             "x": 22,
