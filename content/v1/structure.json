@@ -434,7 +434,13 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/qingIncorporation.png",
           "descriptionKey": "volume.imperialFrontier.qingIncorporation.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.shiLangAtTheWell.description",
+              "sourceKey": "image.shiLangAtTheWell.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/shiLangAtTheWell.jpg"
+            }
+          ],
           "key": "imperialFrontier.qingIncorporation",
           "perspectives": [
             {
@@ -467,7 +473,13 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/luohanjiaoCrossing.png",
           "descriptionKey": "volume.imperialFrontier.luohanjiaoCrossing.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.taiwanStraitChart1884.description",
+              "sourceKey": "image.taiwanStraitChart1884.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/taiwanStraitChart1884.jpg"
+            }
+          ],
           "key": "imperialFrontier.luohanjiaoCrossing",
           "location": {
             "x": -94,
@@ -505,7 +517,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/earlyQingRecords.png",
           "descriptionKey": "volume.imperialFrontier.earlyQingRecords.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.taihaiShichaLuLantern.description",
+              "sourceKey": "image.taihaiShichaLuLantern.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/taihaiShichaLuLantern.jpg"
+            },
+            {
+              "descriptionKey": "image.zhigongtuTaiwanXian.description",
+              "sourceKey": "image.zhigongtuTaiwanXian.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/zhigongtuTaiwanXian.jpg"
+            }
+          ],
           "key": "imperialFrontier.earlyQingRecords",
           "location": {
             "x": -130,
@@ -518,7 +541,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/zhuqianCity.png",
           "descriptionKey": "volume.imperialFrontier.zhuqianCity.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.danshuiTingOverallMap.description",
+              "sourceKey": "image.danshuiTingOverallMap.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/danshuiTingOverallMap.jpg"
+            },
+            {
+              "descriptionKey": "image.danshuiTingOffice.description",
+              "sourceKey": "image.danshuiTingOffice.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/danshuiTingOffice.jpg"
+            },
+            {
+              "descriptionKey": "image.zhuqianCharityGranary.description",
+              "sourceKey": "image.zhuqianCharityGranary.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/zhuqianCharityGranary.jpg"
+            }
+          ],
           "key": "imperialFrontier.zhuqianCity",
           "location": {
             "x": 5,
@@ -696,7 +735,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/rebellionsAndUnrest.png",
           "descriptionKey": "volume.imperialFrontier.rebellionsAndUnrest.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.linShuangwenCapturedAlive.description",
+              "sourceKey": "image.linShuangwenCapturedAlive.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/linShuangwenCapturedAlive.jpg"
+            },
+            {
+              "descriptionKey": "image.zhuluoSiegeLifted.description",
+              "sourceKey": "image.zhuluoSiegeLifted.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/zhuluoSiegeLifted.jpg"
+            },
+            {
+              "descriptionKey": "image.pacificationOfTaiwanScroll.description",
+              "sourceKey": "image.pacificationOfTaiwanScroll.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/pacificationOfTaiwanScroll.jpg"
+            }
+          ],
           "key": "imperialFrontier.rebellionsAndUnrest",
           "location": {
             "x": -49.5,
@@ -734,7 +789,13 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/birthOfChiayiName.png",
           "descriptionKey": "volume.imperialFrontier.birthOfChiayiName.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.zhigongtuZhuluoXian.description",
+              "sourceKey": "image.zhigongtuZhuluoXian.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/zhigongtuZhuluoXian.jpg"
+            }
+          ],
           "key": "imperialFrontier.birthOfChiayiName",
           "location": {
             "x": -90.75,
@@ -772,7 +833,13 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/wushaOpensKavalan.png",
           "descriptionKey": "volume.imperialFrontier.wushaOpensKavalan.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.gilanStreet1890.description",
+              "sourceKey": "image.gilanStreet1890.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/gilanStreet1890.jpg"
+            }
+          ],
           "key": "imperialFrontier.wushaOpensKavalan",
           "location": {
             "x": 130,
@@ -804,7 +871,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/kavalanOpening.png",
           "descriptionKey": "volume.imperialFrontier.kavalanOpening.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.kavalanTingMap.description",
+              "sourceKey": "image.kavalanTingMap.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/kavalanTingMap.jpg"
+            },
+            {
+              "descriptionKey": "image.kavalanPeople1896.description",
+              "sourceKey": "image.kavalanPeople1896.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/kavalanPeople1896.jpg"
+            }
+          ],
           "key": "imperialFrontier.kavalanOpening",
           "location": {
             "x": 110,
@@ -919,7 +997,13 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/zhuqianLiterati.png",
           "descriptionKey": "volume.imperialFrontier.zhuqianLiterati.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.beiguoGarden.description",
+              "sourceKey": "image.beiguoGarden.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/beiguoGarden.jpg"
+            }
+          ],
           "key": "imperialFrontier.zhuqianLiterati",
           "location": {
             "x": 10,
@@ -970,7 +1054,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/openingOfPorts.png",
           "descriptionKey": "volume.imperialFrontier.openingOfPorts.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.tamsuiHarbourMap1888.description",
+              "sourceKey": "image.tamsuiHarbourMap1888.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/tamsuiHarbourMap1888.jpg"
+            },
+            {
+              "descriptionKey": "image.beazeleySouthernFormosaMap.description",
+              "sourceKey": "image.beazeleySouthernFormosaMap.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/beazeleySouthernFormosaMap.jpg"
+            }
+          ],
           "key": "imperialFrontier.openingOfPorts",
           "location": {
             "x": -116,
@@ -1008,7 +1103,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/foreignNaturalists.png",
           "descriptionKey": "volume.imperialFrontier.foreignNaturalists.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.thomsonMountainPass.description",
+              "sourceKey": "image.thomsonMountainPass.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/thomsonMountainPass.jpg"
+            },
+            {
+              "descriptionKey": "image.thomsonCatamaran.description",
+              "sourceKey": "image.thomsonCatamaran.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/thomsonCatamaran.jpg"
+            },
+            {
+              "descriptionKey": "image.robertSwinhoePortrait.description",
+              "sourceKey": "image.robertSwinhoePortrait.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/robertSwinhoePortrait.jpg"
+            }
+          ],
           "key": "imperialFrontier.foreignNaturalists",
           "location": {
             "x": 72,
@@ -1059,7 +1170,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/roverIncident.png",
           "descriptionKey": "volume.imperialFrontier.roverIncident.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.formosaExpedition1867.description",
+              "sourceKey": "image.formosaExpedition1867.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/formosaExpedition1867.jpg"
+            },
+            {
+              "descriptionKey": "image.leGendrePortrait.description",
+              "sourceKey": "image.leGendrePortrait.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/leGendrePortrait.jpg"
+            },
+            {
+              "descriptionKey": "image.leGendreFormosaMap.description",
+              "sourceKey": "image.leGendreFormosaMap.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/leGendreFormosaMap.jpg"
+            }
+          ],
           "key": "imperialFrontier.roverIncident",
           "location": {
             "x": -30,
@@ -1097,7 +1224,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/aboriginalFrontier.png",
           "descriptionKey": "volume.imperialFrontier.aboriginalFrontier.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.caifengtuDeerHunt1.description",
+              "sourceKey": "image.caifengtuDeerHunt1.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/caifengtuDeerHunt1.jpg"
+            },
+            {
+              "descriptionKey": "image.caifengtuDeerHunt2.description",
+              "sourceKey": "image.caifengtuDeerHunt2.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/caifengtuDeerHunt2.jpg"
+            }
+          ],
           "key": "imperialFrontier.aboriginalFrontier",
           "location": {
             "x": -41.25,
@@ -1135,7 +1273,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/indigenousResistance.png",
           "descriptionKey": "volume.imperialFrontier.indigenousResistance.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.shimenBattle1874.description",
+              "sourceKey": "image.shimenBattle1874.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/shimenBattle1874.jpg"
+            },
+            {
+              "descriptionKey": "image.taiwanExpedition1874Print.description",
+              "sourceKey": "image.taiwanExpedition1874Print.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/taiwanExpedition1874Print.jpg"
+            }
+          ],
           "key": "imperialFrontier.indigenousResistance",
           "location": {
             "x": 25,
@@ -1211,7 +1360,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/sinoFrenchWar.png",
           "descriptionKey": "volume.imperialFrontier.sinoFrenchWar.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.keelungRoadstead1885.description",
+              "sourceKey": "image.keelungRoadstead1885.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/keelungRoadstead1885.jpg"
+            },
+            {
+              "descriptionKey": "image.tamsuiBlockadeFishermen.description",
+              "sourceKey": "image.tamsuiBlockadeFishermen.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/tamsuiBlockadeFishermen.jpg"
+            },
+            {
+              "descriptionKey": "image.sauoBlockadePanorama.description",
+              "sourceKey": "image.sauoBlockadePanorama.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/sauoBlockadePanorama.jpg"
+            }
+          ],
           "key": "imperialFrontier.sinoFrenchWar",
           "location": {
             "x": 118,
@@ -1300,7 +1465,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/firstSteamLocomotive.png",
           "descriptionKey": "volume.imperialFrontier.firstSteamLocomotive.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.fengshanRiverRailBridge.description",
+              "sourceKey": "image.fengshanRiverRailBridge.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/fengshanRiverRailBridge.jpg"
+            },
+            {
+              "descriptionKey": "image.keelungRiverRailBridges.description",
+              "sourceKey": "image.keelungRiverRailBridges.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/keelungRiverRailBridges.jpg"
+            }
+          ],
           "key": "imperialFrontier.firstSteamLocomotive",
           "location": {
             "x": 86,
