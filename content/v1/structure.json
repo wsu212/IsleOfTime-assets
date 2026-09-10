@@ -1748,6 +1748,44 @@
           "titleKey": "volume.underTheRisingSun.yiweiWar.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/yunlinMassacre.png",
+          "descriptionKey": "volume.underTheRisingSun.yunlinMassacre.description",
+          "images": [],
+          "key": "underTheRisingSun.yunlinMassacre",
+          "location": {
+            "x": -75.5,
+            "y": -18.8
+          },
+          "locationNameKey": "雲林斗六",
+          "perspectives": [
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.yunlin.tiekuoshan.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yunlin.tiekuoshan.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.yunlin.villagers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yunlin.villagers.label"
+            },
+            {
+              "iconName": "newspaper",
+              "narrativeKey": "perspective.yunlin.press.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yunlin.press.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.yunlin.subprefect.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yunlin.subprefect.label"
+            }
+          ],
+          "titleKey": "volume.underTheRisingSun.yunlinMassacre.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/armedResistance.png",
           "descriptionKey": "volume.underTheRisingSun.armedResistance.description",
           "images": [
