@@ -2922,7 +2922,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/parliamentarySystemSetup.png",
           "descriptionKey": "volume.lightAndShadow.parliamentarySystemSetup.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.minpaoAssemblyHeadline.description",
+              "sourceKey": "image.minpaoAssemblyHeadline.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/minpaoAssemblyHeadline.jpg"
+            },
+            {
+              "descriptionKey": "image.changChilangSpeaker.description",
+              "sourceKey": "image.changChilangSpeaker.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/changChilangSpeaker.jpg"
+            },
+            {
+              "descriptionKey": "image.yehChiumuDeputySpeaker.description",
+              "sourceKey": "image.yehChiumuDeputySpeaker.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/yehChiumuDeputySpeaker.jpg"
+            }
+          ],
           "key": "lightAndShadow.parliamentarySystemSetup",
           "perspectives": [
             {
@@ -2955,7 +2971,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/constitutionConvention.png",
           "descriptionKey": "volume.lightAndShadow.constitutionConvention.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.constitutionSigning.description",
+              "sourceKey": "image.constitutionSigning.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/constitutionSigning.jpg"
+            },
+            {
+              "descriptionKey": "image.nationalAssembly1946.description",
+              "sourceKey": "image.nationalAssembly1946.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/nationalAssembly1946.jpg"
+            }
+          ],
           "key": "lightAndShadow.constitutionConvention",
           "perspectives": [
             {
@@ -3059,7 +3086,13 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/twentySevenBrigade.png",
           "descriptionKey": "volume.lightAndShadow.twentySevenBrigade.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.hsiehHsuehhungPortrait.description",
+              "sourceKey": "image.hsiehHsuehhungPortrait.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/hsiehHsuehhungPortrait.jpg"
+            }
+          ],
           "key": "lightAndShadow.twentySevenBrigade",
           "location": {
             "x": -30,
@@ -3091,7 +3124,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/wuniulanBattle.png",
           "descriptionKey": "volume.lightAndShadow.wuniulanBattle.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.ugyulanBridge.description",
+              "sourceKey": "image.ugyulanBridge.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/ugyulanBridge.jpg"
+            },
+            {
+              "descriptionKey": "image.puliTown1945.description",
+              "sourceKey": "image.puliTown1945.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/puliTown1945.jpg"
+            }
+          ],
           "key": "lightAndShadow.wuniulanBattle",
           "location": {
             "x": 0,
@@ -3123,7 +3167,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/dilemmaOfElites.png",
           "descriptionKey": "volume.lightAndShadow.dilemmaOfElites.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.wangTiendengExecutionReport.description",
+              "sourceKey": "image.wangTiendengExecutionReport.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/wangTiendengExecutionReport.jpg"
+            },
+            {
+              "descriptionKey": "image.kcWuInvitation.description",
+              "sourceKey": "image.kcWuInvitation.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/kcWuInvitation.jpg"
+            }
+          ],
           "key": "lightAndShadow.dilemmaOfElites",
           "perspectives": [
             {
@@ -3156,7 +3211,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/chiangDiary.png",
           "descriptionKey": "volume.lightAndShadow.chiangDiary.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.chiangInTaiwan1946.description",
+              "sourceKey": "image.chiangInTaiwan1946.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/chiangInTaiwan1946.jpg"
+            },
+            {
+              "descriptionKey": "image.maoAndChiang1945.description",
+              "sourceKey": "image.maoAndChiang1945.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/maoAndChiang1945.jpg"
+            }
+          ],
           "key": "lightAndShadow.chiangDiary",
           "location": {
             "x": 89,
@@ -3321,7 +3387,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/usPerspectives.png",
           "descriptionKey": "volume.lightAndShadow.usPerspectives.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.shigemitsuSurrender.description",
+              "sourceKey": "image.shigemitsuSurrender.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/shigemitsuSurrender.jpg"
+            },
+            {
+              "descriptionKey": "image.keelungArmyMap1945.description",
+              "sourceKey": "image.keelungArmyMap1945.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/keelungArmyMap1945.jpg"
+            }
+          ],
           "key": "lightAndShadow.usPerspectives",
           "perspectives": [
             {
