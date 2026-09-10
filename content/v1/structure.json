@@ -90,7 +90,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/hamadaIncident.png",
           "descriptionKey": "volume.seaAndFortress.hamadaIncident.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.nuytsSeizedByJapanese.description",
+              "sourceKey": "image.nuytsSeizedByJapanese.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/nuytsSeizedByJapanese.jpg"
+            },
+            {
+              "descriptionKey": "image.hamadaWoodblock.description",
+              "sourceKey": "image.hamadaWoodblock.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/hamadaWoodblock.jpg"
+            }
+          ],
           "key": "seaAndFortress.hamadaIncident",
           "location": {
             "x": -150,
@@ -140,7 +151,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/sinckanScript.png",
           "descriptionKey": "volume.seaAndFortress.sinckanScript.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.formosanGospelMatthew.description",
+              "sourceKey": "image.formosanGospelMatthew.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/formosanGospelMatthew.jpg"
+            },
+            {
+              "descriptionKey": "image.favorlangDictionary.description",
+              "sourceKey": "image.favorlangDictionary.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/favorlangDictionary.jpg"
+            }
+          ],
           "key": "seaAndFortress.sinckanScript",
           "location": {
             "x": -110,
