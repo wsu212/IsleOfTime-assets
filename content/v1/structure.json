@@ -1962,6 +1962,44 @@
           "titleKey": "volume.underTheRisingSun.worldsGreatestThief.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/miaoliUprising.png",
+          "descriptionKey": "volume.underTheRisingSun.miaoliUprising.description",
+          "images": [],
+          "key": "underTheRisingSun.miaoliUprising",
+          "location": {
+            "x": -29.7,
+            "y": -168
+          },
+          "locationNameKey": "苗栗",
+          "perspectives": [
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.miaoli.loFuxing.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.miaoli.loFuxing.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.miaoli.member.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.miaoli.member.label"
+            },
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.miaoli.hoko.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.miaoli.hoko.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.miaoli.court.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.miaoli.court.label"
+            }
+          ],
+          "titleKey": "volume.underTheRisingSun.miaoliUprising.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/tarokoCampaign.png",
           "descriptionKey": "volume.underTheRisingSun.tarokoCampaign.description",
           "images": [
@@ -2595,6 +2633,44 @@
           "titleKey": "volume.underTheRisingSun.kanoBaseball.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/guandaoshanEarthquake.png",
+          "descriptionKey": "volume.underTheRisingSun.guandaoshanEarthquake.description",
+          "images": [],
+          "key": "underTheRisingSun.guandaoshanEarthquake",
+          "location": {
+            "x": -29.7,
+            "y": -131.25
+          },
+          "locationNameKey": "苗栗關刀山",
+          "perspectives": [
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.guandaoshan.survivor.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.guandaoshan.survivor.label"
+            },
+            {
+              "iconName": "hammer",
+              "narrativeKey": "perspective.guandaoshan.builder.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.guandaoshan.builder.label"
+            },
+            {
+              "iconName": "cross.case",
+              "narrativeKey": "perspective.guandaoshan.relief.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.guandaoshan.relief.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.guandaoshan.reconstruction.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.guandaoshan.reconstruction.label"
+            }
+          ],
+          "titleKey": "volume.underTheRisingSun.guandaoshanEarthquake.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/kominka.png",
           "descriptionKey": "volume.underTheRisingSun.kominka.description",
           "images": [
@@ -3122,6 +3198,44 @@
           "titleKey": "volume.lightAndShadow.februaryIncident.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/keelungHarbourMassacre.png",
+          "descriptionKey": "volume.lightAndShadow.keelungHarbourMassacre.description",
+          "images": [],
+          "key": "lightAndShadow.keelungHarbourMassacre",
+          "location": {
+            "x": 122.1,
+            "y": -269.5
+          },
+          "locationNameKey": "基隆港",
+          "perspectives": [
+            {
+              "iconName": "ferry",
+              "narrativeKey": "perspective.keelungMarch.dockside.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.keelungMarch.dockside.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.keelungMarch.councillor.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.keelungMarch.councillor.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.keelungMarch.soldier.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.keelungMarch.soldier.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.keelungMarch.fortress.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.keelungMarch.fortress.label"
+            }
+          ],
+          "titleKey": "volume.lightAndShadow.keelungHarbourMassacre.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/twentySevenBrigade.png",
           "descriptionKey": "volume.lightAndShadow.twentySevenBrigade.description",
           "images": [
@@ -3201,6 +3315,44 @@
             }
           ],
           "titleKey": "volume.lightAndShadow.wuniulanBattle.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/penghuJuly13Incident.png",
+          "descriptionKey": "volume.lightAndShadow.penghuJuly13Incident.description",
+          "images": [],
+          "key": "lightAndShadow.penghuJuly13Incident",
+          "location": {
+            "x": -235.95,
+            "y": 7
+          },
+          "locationNameKey": "澎湖馬公",
+          "perspectives": [
+            {
+              "iconName": "graduationcap",
+              "narrativeKey": "perspective.penghu713.student.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.penghu713.student.label"
+            },
+            {
+              "iconName": "figure.stand",
+              "narrativeKey": "perspective.penghu713.principal.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.penghu713.principal.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.penghu713.garrison.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.penghu713.garrison.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.penghu713.tribunal.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.penghu713.tribunal.label"
+            }
+          ],
+          "titleKey": "volume.lightAndShadow.penghuJuly13Incident.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/dilemmaOfElites.png",
@@ -3505,6 +3657,44 @@
             }
           ],
           "titleKey": "volume.silentIsland.martialLawGovernance.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/militaryVillages.png",
+          "descriptionKey": "volume.silentIsland.militaryVillages.description",
+          "images": [],
+          "key": "silentIsland.militaryVillages",
+          "location": {
+            "x": 56.1,
+            "y": -245
+          },
+          "locationNameKey": "桃園龜山",
+          "perspectives": [
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.militaryVillages.firstGeneration.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.militaryVillages.firstGeneration.label"
+            },
+            {
+              "iconName": "person.2",
+              "narrativeKey": "perspective.militaryVillages.neighbours.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.militaryVillages.neighbours.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.militaryVillages.secondGeneration.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.militaryVillages.secondGeneration.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.militaryVillages.allocation.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.militaryVillages.allocation.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.militaryVillages.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/whiteTerror.png",
@@ -4302,6 +4492,44 @@
           "titleKey": "volume.breakingTheSilence.chenWenchengIncident.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/lanyuNuclearWaste.png",
+          "descriptionKey": "volume.breakingTheSilence.lanyuNuclearWaste.description",
+          "images": [],
+          "key": "breakingTheSilence.lanyuNuclearWaste",
+          "location": {
+            "x": 92.04,
+            "y": 273.14
+          },
+          "locationNameKey": "蘭嶼",
+          "perspectives": [
+            {
+              "iconName": "flame",
+              "narrativeKey": "perspective.lanyu.tao.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.lanyu.tao.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.lanyu.siting.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.lanyu.siting.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.lanyu.compensation.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.lanyu.compensation.label"
+            },
+            {
+              "iconName": "clock",
+              "narrativeKey": "perspective.lanyu.unmovable.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.lanyu.unmovable.label"
+            }
+          ],
+          "titleKey": "volume.breakingTheSilence.lanyuNuclearWaste.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/jiangNanIncident.png",
           "descriptionKey": "volume.breakingTheSilence.jiangNanIncident.description",
           "images": [],
@@ -4470,6 +4698,44 @@
             }
           ],
           "titleKey": "volume.breakingTheSilence.socialMovements.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/yilanNaphthaRefusal.png",
+          "descriptionKey": "volume.breakingTheSilence.yilanNaphthaRefusal.description",
+          "images": [],
+          "key": "breakingTheSilence.yilanNaphthaRefusal",
+          "location": {
+            "x": 135.3,
+            "y": -189
+          },
+          "locationNameKey": "宜蘭利澤",
+          "perspectives": [
+            {
+              "iconName": "figure.stand",
+              "narrativeKey": "perspective.yilanSixth.magistrate.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yilanSixth.magistrate.label"
+            },
+            {
+              "iconName": "chart.line.uptrend.xyaxis",
+              "narrativeKey": "perspective.yilanSixth.industrialist.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yilanSixth.industrialist.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.yilanSixth.locals.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yilanSixth.locals.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.yilanSixth.ministry.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yilanSixth.ministry.label"
+            }
+          ],
+          "titleKey": "volume.breakingTheSilence.yilanNaphthaRefusal.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/february28Redress.png",
@@ -4660,6 +4926,44 @@
             }
           ],
           "titleKey": "volume.breakingTheSilence.endOfMobilizationPeriod.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/mailiaoNaphthaCracker.png",
+          "descriptionKey": "volume.breakingTheSilence.mailiaoNaphthaCracker.description",
+          "images": [],
+          "key": "breakingTheSilence.mailiaoNaphthaCracker",
+          "location": {
+            "x": -123.75,
+            "y": -26.25
+          },
+          "locationNameKey": "雲林麥寮",
+          "perspectives": [
+            {
+              "iconName": "sailboat",
+              "narrativeKey": "perspective.mailiao.fishers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mailiao.fishers.label"
+            },
+            {
+              "iconName": "wrench.and.screwdriver",
+              "narrativeKey": "perspective.mailiao.workers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mailiao.workers.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.mailiao.county.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mailiao.county.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.mailiao.policy.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.mailiao.policy.label"
+            }
+          ],
+          "titleKey": "volume.breakingTheSilence.mailiaoNaphthaCracker.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/article100Movement.png",
