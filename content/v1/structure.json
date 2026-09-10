@@ -4693,7 +4693,13 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/sarsHepingHospital.png",
           "descriptionKey": "volume.newFormosa.sarsHepingHospital.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.hepingHospitalToday.description",
+              "sourceKey": "image.hepingHospitalToday.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/hepingHospitalToday.jpg"
+            }
+          ],
           "key": "newFormosa.sarsHepingHospital",
           "location": {
             "x": 84.15,
@@ -4769,7 +4775,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/taipei101Completion.png",
           "descriptionKey": "volume.newFormosa.taipei101Completion.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.taipei101UnderConstruction.description",
+              "sourceKey": "image.taipei101UnderConstruction.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/taipei101UnderConstruction.jpg"
+            },
+            {
+              "descriptionKey": "image.taipei101Tower.description",
+              "sourceKey": "image.taipei101Tower.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/taipei101Tower.jpg"
+            }
+          ],
           "key": "newFormosa.taipei101Completion",
           "location": {
             "x": 93.22,
@@ -4820,7 +4837,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/highSpeedRailOpening.png",
           "descriptionKey": "volume.newFormosa.highSpeedRailOpening.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.thsr700TTrain.description",
+              "sourceKey": "image.thsr700TTrain.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/thsr700TTrain.jpg"
+            },
+            {
+              "descriptionKey": "image.thsrTicketTimetable.description",
+              "sourceKey": "image.thsrTicketTimetable.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/thsrTicketTimetable.jpg"
+            }
+          ],
           "key": "newFormosa.highSpeedRailOpening",
           "location": {
             "x": -62.7,
@@ -4871,7 +4899,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/morakotTyphoon.png",
           "descriptionKey": "volume.newFormosa.morakotTyphoon.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.morakotSatellite.description",
+              "sourceKey": "image.morakotSatellite.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/morakotSatellite.jpg"
+            },
+            {
+              "descriptionKey": "image.longhuaSchoolRuins.description",
+              "sourceKey": "image.longhuaSchoolRuins.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/longhuaSchoolRuins.jpg"
+            },
+            {
+              "descriptionKey": "image.namasiaTownshipOffice.description",
+              "sourceKey": "image.namasiaTownshipOffice.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/namasiaTownshipOffice.jpg"
+            }
+          ],
           "key": "newFormosa.morakotTyphoon",
           "location": {
             "x": -58.2,
@@ -4947,7 +4991,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/seeingTaiwanFromAbove.png",
           "descriptionKey": "volume.newFormosa.seeingTaiwanFromAbove.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.chiPolinPortrait.description",
+              "sourceKey": "image.chiPolinPortrait.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/chiPolinPortrait.jpg"
+            },
+            {
+              "descriptionKey": "image.seeingTaiwanPremiere.description",
+              "sourceKey": "image.seeingTaiwanPremiere.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/seeingTaiwanPremiere.jpg"
+            }
+          ],
           "key": "newFormosa.seeingTaiwanFromAbove",
           "location": {
             "x": 85.2,
@@ -4985,7 +5040,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/sunflowerMovement.png",
           "descriptionKey": "volume.newFormosa.sunflowerMovement.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.sunflowerNightSitIn.description",
+              "sourceKey": "image.sunflowerNightSitIn.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/sunflowerNightSitIn.jpg"
+            },
+            {
+              "descriptionKey": "image.sunflowerRaisedFlowers.description",
+              "sourceKey": "image.sunflowerRaisedFlowers.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/sunflowerRaisedFlowers.jpg"
+            },
+            {
+              "descriptionKey": "image.sunflowerRazorWire.description",
+              "sourceKey": "image.sunflowerRazorWire.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/sunflowerRazorWire.jpg"
+            }
+          ],
           "key": "newFormosa.sunflowerMovement",
           "location": {
             "x": 85.64,
@@ -5023,7 +5094,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/palaceMuseumSouthernBranch.png",
           "descriptionKey": "volume.newFormosa.palaceMuseumSouthernBranch.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.palaceMuseumSouthMain.description",
+              "sourceKey": "image.palaceMuseumSouthMain.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/palaceMuseumSouthMain.jpg"
+            },
+            {
+              "descriptionKey": "image.palaceMuseumSouthEntrance.description",
+              "sourceKey": "image.palaceMuseumSouthEntrance.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/palaceMuseumSouthEntrance.jpg"
+            }
+          ],
           "key": "newFormosa.palaceMuseumSouthernBranch",
           "location": {
             "x": -110.55,
@@ -5036,7 +5118,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/firstWomanPresident.png",
           "descriptionKey": "volume.newFormosa.firstWomanPresident.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.tsaiInauguralAddress.description",
+              "sourceKey": "image.tsaiInauguralAddress.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/tsaiInauguralAddress.jpg"
+            },
+            {
+              "descriptionKey": "image.tsaiInauguralAudience.description",
+              "sourceKey": "image.tsaiInauguralAudience.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/tsaiInauguralAudience.jpg"
+            }
+          ],
           "key": "newFormosa.firstWomanPresident",
           "location": {
             "x": 84.5,
@@ -5074,7 +5167,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/sameSexMarriageLegalization.png",
           "descriptionKey": "volume.newFormosa.sameSexMarriageLegalization.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.lgbtqExhibitTaipei.description",
+              "sourceKey": "image.lgbtqExhibitTaipei.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/lgbtqExhibitTaipei.jpg"
+            },
+            {
+              "descriptionKey": "image.liYanjungLawyer.description",
+              "sourceKey": "image.liYanjungLawyer.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/liYanjungLawyer.jpg"
+            },
+            {
+              "descriptionKey": "image.antiMarriageEqualityRally.description",
+              "sourceKey": "image.antiMarriageEqualityRally.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/antiMarriageEqualityRally.jpg"
+            }
+          ],
           "key": "newFormosa.sameSexMarriageLegalization",
           "location": {
             "x": 84.98,
@@ -5112,7 +5221,23 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/pandemicYears.png",
           "descriptionKey": "volume.newFormosa.pandemicYears.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.rapidTestStationSign.description",
+              "sourceKey": "image.rapidTestStationSign.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/rapidTestStationSign.jpg"
+            },
+            {
+              "descriptionKey": "image.maskSoldOutNotice.description",
+              "sourceKey": "image.maskSoldOutNotice.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/maskSoldOutNotice.jpg"
+            },
+            {
+              "descriptionKey": "image.closedRecyclingStation.description",
+              "sourceKey": "image.closedRecyclingStation.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/closedRecyclingStation.jpg"
+            }
+          ],
           "key": "newFormosa.pandemicYears",
           "location": {
             "x": 82.5,
@@ -5150,7 +5275,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/siliconShield.png",
           "descriptionKey": "volume.newFormosa.siliconShield.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.tsmcFab12a.description",
+              "sourceKey": "image.tsmcFab12a.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/tsmcFab12a.jpg"
+            },
+            {
+              "descriptionKey": "image.tsmcFab18.description",
+              "sourceKey": "image.tsmcFab18.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/tsmcFab18.jpg"
+            }
+          ],
           "key": "newFormosa.siliconShield",
           "location": {
             "x": 0.5,
@@ -5291,7 +5427,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/nativeLanguageRevival.png",
           "descriptionKey": "volume.newFormosa.nativeLanguageRevival.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.puyumaLanguageSchool.description",
+              "sourceKey": "image.puyumaLanguageSchool.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/puyumaLanguageSchool.jpg"
+            },
+            {
+              "descriptionKey": "image.indigenousAffairsConference.description",
+              "sourceKey": "image.indigenousAffairsConference.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/indigenousAffairsConference.jpg"
+            }
+          ],
           "key": "newFormosa.nativeLanguageRevival",
           "location": {
             "x": -131.18,
