@@ -3753,8 +3753,39 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/kinmenArtilleryBattle.png",
           "descriptionKey": "volume.silentIsland.kinmenArtilleryBattle.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.kinmenXiamenArmyMap1958.description",
+              "sourceKey": "image.kinmenXiamenArmyMap1958.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/kinmenXiamenArmyMap1958.jpg"
+            },
+            {
+              "descriptionKey": "image.f104TaoyuanJonahAble.description",
+              "sourceKey": "image.f104TaoyuanJonahAble.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/f104TaoyuanJonahAble.jpg"
+            },
+            {
+              "descriptionKey": "image.skyraySidewinderOffTaiwan.description",
+              "sourceKey": "image.skyraySidewinderOffTaiwan.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/skyraySidewinderOffTaiwan.jpg"
+            },
+            {
+              "descriptionKey": "image.m55HowitzerKinmen.description",
+              "sourceKey": "image.m55HowitzerKinmen.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/m55HowitzerKinmen.jpg"
+            },
+            {
+              "descriptionKey": "image.beitouWoundedSoldiersVisit.description",
+              "sourceKey": "image.beitouWoundedSoldiersVisit.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/beitouWoundedSoldiersVisit.jpg"
+            }
+          ],
           "key": "silentIsland.kinmenArtilleryBattle",
+          "location": {
+            "x": -428.5,
+            "y": -147.87
+          },
+          "locationNameKey": "金門翠谷",
           "perspectives": [
             {
               "iconName": "house.and.flag",
