@@ -6,6 +6,50 @@
       "titleKey": "archive.seaAndFortress.title",
       "volumes": [
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/penghuOccupation.png",
+          "descriptionKey": "volume.seaAndFortress.penghuOccupation.description",
+          "images": [
+            {
+              "descriptionKey": "image.penghuDutchFort1623.description",
+              "sourceKey": "image.penghuDutchFort1623.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/penghuDutchFort1623.jpg"
+            }
+          ],
+          "key": "seaAndFortress.penghuOccupation",
+          "location": {
+            "x": -237.19,
+            "y": 9
+          },
+          "locationNameKey": "澎湖風櫃尾",
+          "perspectives": [
+            {
+              "iconName": "hammer",
+              "narrativeKey": "perspective.penghu.labourers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.penghu.labourers.label"
+            },
+            {
+              "iconName": "scroll",
+              "narrativeKey": "perspective.penghu.ming.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.penghu.ming.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.penghu.company.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.penghu.company.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.penghu.islanders.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.penghu.islanders.label"
+            }
+          ],
+          "titleKey": "volume.seaAndFortress.penghuOccupation.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/dutchArrival.png",
           "descriptionKey": "volume.seaAndFortress.dutchArrival.description",
           "images": [
@@ -149,6 +193,94 @@
           "titleKey": "volume.seaAndFortress.mattauWar.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/lameyIsland.png",
+          "descriptionKey": "volume.seaAndFortress.lameyIsland.description",
+          "images": [
+            {
+              "descriptionKey": "image.formosaPiscadoresChart1727.description",
+              "sourceKey": "image.formosaPiscadoresChart1727.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/formosaPiscadoresChart1727.jpg"
+            }
+          ],
+          "key": "seaAndFortress.lameyIsland",
+          "location": {
+            "x": -103.98,
+            "y": 220.97
+          },
+          "locationNameKey": "屏東小琉球",
+          "perspectives": [
+            {
+              "iconName": "person.slash",
+              "narrativeKey": "perspective.lamey.lameyans.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.lamey.lameyans.label"
+            },
+            {
+              "iconName": "figure.2",
+              "narrativeKey": "perspective.lamey.sinkan.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.lamey.sinkan.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.lamey.council.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.lamey.council.label"
+            },
+            {
+              "iconName": "book.closed",
+              "narrativeKey": "perspective.lamey.church.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.lamey.church.label"
+            }
+          ],
+          "titleKey": "volume.seaAndFortress.lameyIsland.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/landdagAndRattanStaff.png",
+          "descriptionKey": "volume.seaAndFortress.landdagAndRattanStaff.description",
+          "images": [
+            {
+              "descriptionKey": "image.formosaCustomsPlate1726.description",
+              "sourceKey": "image.formosaCustomsPlate1726.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/formosaCustomsPlate1726.jpg"
+            }
+          ],
+          "key": "seaAndFortress.landdagAndRattanStaff",
+          "location": {
+            "x": -112.5,
+            "y": 89
+          },
+          "locationNameKey": "台南新市",
+          "perspectives": [
+            {
+              "iconName": "hands.sparkles",
+              "narrativeKey": "perspective.landdag.headman.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.landdag.headman.label"
+            },
+            {
+              "iconName": "person.2.slash",
+              "narrativeKey": "perspective.landdag.elders.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.landdag.elders.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.landdag.company.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.landdag.company.label"
+            },
+            {
+              "iconName": "chair.lounge",
+              "narrativeKey": "perspective.landdag.ceremony.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.landdag.ceremony.label"
+            }
+          ],
+          "titleKey": "volume.seaAndFortress.landdagAndRattanStaff.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/sinckanScript.png",
           "descriptionKey": "volume.seaAndFortress.sinckanScript.description",
           "images": [
@@ -173,6 +305,50 @@
           "titleKey": "volume.seaAndFortress.sinckanScript.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/exileOfTheInibs.png",
+          "descriptionKey": "volume.seaAndFortress.exileOfTheInibs.description",
+          "images": [
+            {
+              "descriptionKey": "image.juniusPortrait1654.description",
+              "sourceKey": "image.juniusPortrait1654.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/juniusPortrait1654.jpg"
+            }
+          ],
+          "key": "seaAndFortress.exileOfTheInibs",
+          "location": {
+            "x": -123.75,
+            "y": 73.5
+          },
+          "locationNameKey": "台南麻豆",
+          "perspectives": [
+            {
+              "iconName": "figure.stand.dress",
+              "narrativeKey": "perspective.inibs.inibs.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.inibs.inibs.label"
+            },
+            {
+              "iconName": "book.closed",
+              "narrativeKey": "perspective.inibs.junius.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.inibs.junius.label"
+            },
+            {
+              "iconName": "person.2",
+              "narrativeKey": "perspective.inibs.elders.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.inibs.elders.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.inibs.council.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.inibs.council.label"
+            }
+          ],
+          "titleKey": "volume.seaAndFortress.exileOfTheInibs.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/deerTradeEra.png",
           "descriptionKey": "volume.seaAndFortress.deerTradeEra.description",
           "images": [],
@@ -184,6 +360,50 @@
           "locationNameKey": "嘉南平原",
           "perspectives": [],
           "titleKey": "volume.seaAndFortress.deerTradeEra.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/fallOfSanSalvador.png",
+          "descriptionKey": "volume.seaAndFortress.fallOfSanSalvador.description",
+          "images": [
+            {
+              "descriptionKey": "image.northFormosaSpanishMap.description",
+              "sourceKey": "image.northFormosaSpanishMap.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/northFormosaSpanishMap.jpg"
+            }
+          ],
+          "key": "seaAndFortress.fallOfSanSalvador",
+          "location": {
+            "x": 125,
+            "y": -270
+          },
+          "locationNameKey": "基隆和平島",
+          "perspectives": [
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.sansalvador.spanish.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sansalvador.spanish.label"
+            },
+            {
+              "iconName": "doc.text",
+              "narrativeKey": "perspective.sansalvador.dutch.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sansalvador.dutch.label"
+            },
+            {
+              "iconName": "figure.walk",
+              "narrativeKey": "perspective.sansalvador.basay.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sansalvador.basay.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.sansalvador.manila.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.sansalvador.manila.label"
+            }
+          ],
+          "titleKey": "volume.seaAndFortress.fallOfSanSalvador.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/farmerUprising.png",
@@ -371,6 +591,60 @@
           "locationNameKey": "台南孔廟",
           "perspectives": [],
           "titleKey": "volume.tungningDynasty.chenYonghuasBlueprintForTaiwan.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/dutchReturnToKeelung.png",
+          "descriptionKey": "volume.tungningDynasty.dutchReturnToKeelung.description",
+          "images": [
+            {
+              "descriptionKey": "image.kelanghView1664.description",
+              "sourceKey": "image.kelanghView1664.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/tungningDynasty/kelanghView1664.jpg"
+            },
+            {
+              "descriptionKey": "image.balthasarBortPortrait1662.description",
+              "sourceKey": "image.balthasarBortPortrait1662.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/tungningDynasty/balthasarBortPortrait1662.jpg"
+            },
+            {
+              "descriptionKey": "image.kelangFortMap1667.description",
+              "sourceKey": "image.kelangFortMap1667.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/tungningDynasty/kelangFortMap1667.jpg"
+            }
+          ],
+          "key": "tungningDynasty.dutchReturnToKeelung",
+          "location": {
+            "x": 125,
+            "y": -270
+          },
+          "locationNameKey": "基隆和平島",
+          "perspectives": [
+            {
+              "iconName": "snowflake",
+              "narrativeKey": "perspective.keelung1664.garrison.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.keelung1664.garrison.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.keelung1664.batavia.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.keelung1664.batavia.label"
+            },
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.keelung1664.zheng.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.keelung1664.zheng.label"
+            },
+            {
+              "iconName": "figure.walk",
+              "narrativeKey": "perspective.keelung1664.basay.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.keelung1664.basay.label"
+            }
+          ],
+          "titleKey": "volume.tungningDynasty.dutchReturnToKeelung.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/hanSettlement.png",
