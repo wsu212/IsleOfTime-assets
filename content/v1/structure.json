@@ -6533,6 +6533,7 @@
       "lifespan": "1589–1625",
       "nameKey": "顏思齊",
       "sectionEra": "ageOfDiscovery",
+      "standfirstKey": "figure.yansiqi.standfirst",
       "titleKey": "figure.yansiqi.title"
     },
     {
@@ -6698,6 +6699,7 @@
       "lifespan": "1624–1662",
       "nameKey": "鄭成功",
       "sectionEra": "tungningDynasty",
+      "standfirstKey": "figure.koxinga.standfirst",
       "titleKey": "figure.koxinga.title"
     },
     {
@@ -7419,6 +7421,7 @@
       "lifespan": "1645–?",
       "nameKey": "郁永河",
       "sectionEra": "imperialFrontier",
+      "standfirstKey": "figure.yuyonghe.standfirst",
       "titleKey": "figure.yuyonghe.title"
     },
     {
@@ -7807,6 +7810,7 @@
       "lifespan": "1841–1903",
       "nameKey": "唐景崧",
       "sectionEra": "underTheRisingSun",
+      "standfirstKey": "figure.tangjingsong.standfirst",
       "titleKey": "figure.tangjingsong.title"
     },
     {
@@ -8795,6 +8799,7 @@
       "lifespan": "1880–1964",
       "nameKey": "麥克阿瑟",
       "sectionEra": "postWar",
+      "standfirstKey": "figure.macarthur.standfirst",
       "titleKey": "figure.macarthur.title"
     },
     {
@@ -8822,6 +8827,7 @@
       "lifespan": "1910–1988",
       "nameKey": "蔣經國",
       "sectionEra": "breakingTheSilence",
+      "standfirstKey": "figure.chiangchingkuo.standfirst",
       "titleKey": "figure.chiangchingkuo.title"
     },
     {
@@ -9405,6 +9411,7 @@
       "lifespan": "1917–2008",
       "nameKey": "王永慶",
       "sectionEra": "newFormosa",
+      "standfirstKey": "figure.wangyungching.standfirst",
       "titleKey": "figure.wangyungching.title"
     },
     {
@@ -9515,6 +9522,7 @@
       "relatedArchiveTitleKeys": [
         "archive.seaAndFortress.title"
       ],
+      "standfirstKey": "milestone.dutchAndSpanish.standfirst",
       "titleKey": "milestone.dutchAndSpanish.title"
     },
     {
@@ -9525,6 +9533,7 @@
       "relatedArchiveTitleKeys": [
         "archive.tungningDynasty.title"
       ],
+      "standfirstKey": "milestone.tungningKingdom.standfirst",
       "titleKey": "milestone.tungningKingdom.title"
     },
     {
@@ -9535,6 +9544,7 @@
       "relatedArchiveTitleKeys": [
         "archive.imperialFrontier.title"
       ],
+      "standfirstKey": "milestone.qingDynasty.standfirst",
       "titleKey": "milestone.qingDynasty.title"
     },
     {
@@ -9547,6 +9557,7 @@
         "archive.soundOfFormosaGramophoneEra.title",
         "archive.soundOfFormosaWartimeEra.title"
       ],
+      "standfirstKey": "milestone.japaneseColonial.standfirst",
       "titleKey": "milestone.japaneseColonial.title"
     },
     {
@@ -9557,6 +9568,7 @@
       "relatedArchiveTitleKeys": [
         "archive.lightAndShadow.title"
       ],
+      "standfirstKey": "milestone.postWarTransition.standfirst",
       "titleKey": "milestone.postWarTransition.title"
     },
     {
@@ -9569,6 +9581,7 @@
         "archive.soundOfFormosaPostwarRevival.title",
         "archive.soundOfFormosaCampusFolk.title"
       ],
+      "standfirstKey": "milestone.authoritarianEra.standfirst",
       "titleKey": "milestone.authoritarianEra.title"
     },
     {
@@ -9580,6 +9593,7 @@
         "archive.breakingTheSilence.title",
         "archive.soundOfFormosaContemporary.title"
       ],
+      "standfirstKey": "milestone.democraticTransition.standfirst",
       "titleKey": "milestone.democraticTransition.title"
     },
     {
@@ -9589,6 +9603,7 @@
       "relatedArchiveTitleKeys": [
         "archive.newFormosa.title"
       ],
+      "standfirstKey": "milestone.modernTaiwan.standfirst",
       "titleKey": "milestone.modernTaiwan.title"
     },
     {
@@ -9685,7 +9700,7 @@
             "captionKey": "issue.yangChienho.ch1.fig1.caption",
             "creditKey": "issue.yangChienho.ch1.fig1.credit",
             "showsFullFrame": true,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/News_of_establishment_of_the_new_Nationalist_government_in_Nanjing.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/nichinichi-1940-front.jpg",
             "weight": "plate"
           },
           "kind": "figure"
@@ -9713,7 +9728,7 @@
             "captionKey": "issue.yangChienho.ch1.fig2.caption",
             "creditKey": "issue.yangChienho.ch1.fig2.credit",
             "showsFullFrame": false,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Funeral_procession_at_downtown_Beipu_1935.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/beipu-funeral-1935.jpg",
             "weight": "plate"
           },
           "kind": "figure"
@@ -9778,7 +9793,7 @@
             "captionKey": "issue.yangChienho.ch2.fig1.caption",
             "creditKey": "issue.yangChienho.ch2.fig1.credit",
             "showsFullFrame": false,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/%E9%9D%9C%E4%BF%AE%E5%A5%B3%E4%B8%AD_-_panoramio.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/jingxiu-girls-school.jpg",
             "weight": "standard"
           },
           "kind": "figure"
@@ -9806,7 +9821,7 @@
             "captionKey": "issue.yangChienho.ch2.fig2.caption",
             "creditKey": "issue.yangChienho.ch2.fig2.credit",
             "showsFullFrame": true,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Group_photo_before_the_Taihoku_Girls_College.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/taihoku-womens-college.jpg",
             "weight": "standard"
           },
           "kind": "figure"
@@ -9835,7 +9850,7 @@
             "captionKey": "issue.yangChienho.ch3.fig1.caption",
             "creditKey": "issue.yangChienho.ch3.fig1.credit",
             "showsFullFrame": false,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/%E5%8F%B0%E7%81%A3%E6%97%A5%E6%97%A5%E6%96%B0%E5%A0%B1%E6%98%AD%E5%92%8C%E5%8D%81%E4%BA%8C%E5%B9%B4%E4%BA%94%E6%9C%88%E4%B8%83%E6%97%A5_%E7%AC%AC%E4%B8%80%E7%89%88.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/nichinichi-1937-05-07-p1.jpg",
             "weight": "plate"
           },
           "kind": "figure"
@@ -9888,7 +9903,7 @@
             "captionKey": "issue.yangChienho.ch4.fig1.caption",
             "creditKey": "issue.yangChienho.ch4.fig1.credit",
             "showsFullFrame": true,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/%E5%9C%8B%E8%AA%9E%E5%B8%B8%E7%94%A8%E5%AE%B6%E5%BA%AD%E7%89%8C.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/kokugo-household-plaque.jpg",
             "weight": "plate"
           },
           "kind": "figure"
@@ -9921,7 +9936,7 @@
             "captionKey": "issue.yangChienho.ch4.fig2.caption",
             "creditKey": "issue.yangChienho.ch4.fig2.credit",
             "showsFullFrame": false,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/L%C5%8Da_H%C3%B4_00.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/lai-he.jpg",
             "weight": "standard"
           },
           "kind": "figure"
@@ -9967,7 +9982,7 @@
             "captionKey": "issue.yangChienho.ch5.fig1.caption",
             "creditKey": "issue.yangChienho.ch5.fig1.credit",
             "showsFullFrame": true,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/%E9%BE%8D%E7%91%9B%E5%AE%97_02.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/lung-ying-tsung-1942.jpg",
             "weight": "standard"
           },
           "kind": "figure"
@@ -10012,7 +10027,7 @@
             "captionKey": "issue.yangChienho.ch6.fig1.caption",
             "creditKey": "issue.yangChienho.ch6.fig1.credit",
             "showsFullFrame": true,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/News_reports_of_clashes_between_the_police_and_marshals_in_central_Taiwan_1946.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/min-pao-1946.jpg",
             "weight": "plate"
           },
           "kind": "figure"
@@ -10081,7 +10096,7 @@
             "captionKey": "issue.yangChienho.ch7.fig2.caption",
             "creditKey": "issue.yangChienho.ch7.fig2.credit",
             "showsFullFrame": true,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Kmt_local_elections.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/tainan-election-1950.jpg",
             "weight": "standard"
           },
           "kind": "figure"
@@ -10393,7 +10408,7 @@
         "captionKey": "issue.yangChienho.standfirstFigure.caption",
         "creditKey": "issue.yangChienho.standfirstFigure.credit",
         "showsFullFrame": false,
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/1942%E5%B9%B4%EF%BC%88%E6%97%A5%E6%98%AD%E5%92%8C17%E5%B9%B4%EF%BC%89%E5%8F%B0%E5%8C%97%E6%A6%AE%E7%94%BA%E8%A1%97%E6%99%AF.jpg",
+        "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/sakaecho-1942.jpg",
         "weight": "standard"
       },
       "standfirstKey": "issue.yangChienho.standfirst",
@@ -10407,7 +10422,7 @@
             "captionKey": "issue.yangChienho.voice1.figure.caption",
             "creditKey": "issue.yangChienho.voice1.figure.credit",
             "showsFullFrame": false,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/%E5%8F%B0%E7%81%A3%E6%97%A5%E6%97%A5%E6%96%B0%E5%A0%B1%E6%98%AD%E5%92%8C%E5%8D%81%E4%BA%8C%E5%B9%B4%E4%BA%94%E6%9C%88%E4%B8%83%E6%97%A5_%E7%AC%AC%E4%BA%8C%E7%89%88.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/nichinichi-1937-05-07-p2.jpg",
             "weight": "standard"
           },
           "labelKey": "issue.yangChienho.voice1.label"
@@ -10419,7 +10434,7 @@
             "captionKey": "issue.yangChienho.voice2.figure.caption",
             "creditKey": "issue.yangChienho.voice2.figure.credit",
             "showsFullFrame": true,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Group_photo_before_the_Taihoku_Girls_College.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/taihoku-womens-college.jpg",
             "weight": "standard"
           },
           "labelKey": "issue.yangChienho.voice2.label"
@@ -10431,7 +10446,7 @@
             "captionKey": "issue.yangChienho.voice3.figure.caption",
             "creditKey": "issue.yangChienho.voice3.figure.credit",
             "showsFullFrame": false,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mitsuru_Nishikawa%2C_1956.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/nishikawa-mitsuru-1956.jpg",
             "weight": "standard"
           },
           "labelKey": "issue.yangChienho.voice3.label"
@@ -10443,7 +10458,7 @@
             "captionKey": "issue.yangChienho.voice4.figure.caption",
             "creditKey": "issue.yangChienho.voice4.figure.credit",
             "showsFullFrame": false,
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/%E5%8F%B0%E7%81%A3%E8%A1%8C%E6%94%BF%E9%95%B7%E5%AE%98%E5%85%BC%E8%AD%A6%E5%82%99%E7%B8%BD%E5%8F%B8%E4%BB%A4%E9%99%B3%E5%84%80.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/chen-yi.jpg",
             "weight": "standard"
           },
           "labelKey": "issue.yangChienho.voice4.label"
