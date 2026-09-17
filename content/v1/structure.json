@@ -237,6 +237,60 @@
           "titleKey": "volume.seaAndFortress.lameyIsland.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/goldOfPimaba.png",
+          "descriptionKey": "volume.seaAndFortress.goldOfPimaba.description",
+          "images": [
+            {
+              "descriptionKey": "image.vingboonsFormosaMap1640.description",
+              "sourceKey": "image.vingboonsFormosaMap1640.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/vingboonsFormosaMap1640.jpg"
+            },
+            {
+              "descriptionKey": "image.tipolYouthHouse1897.description",
+              "sourceKey": "image.tipolYouthHouse1897.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/tipolYouthHouse1897.jpg"
+            },
+            {
+              "descriptionKey": "image.pimabaFormalDress1930.description",
+              "sourceKey": "image.pimabaFormalDress1930.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/pimabaFormalDress1930.jpg"
+            }
+          ],
+          "key": "seaAndFortress.goldOfPimaba",
+          "location": {
+            "x": 20.6,
+            "y": 144.9
+          },
+          "locationNameKey": "台東卑南",
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.goldOfPimaba.pimaba.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.goldOfPimaba.pimaba.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.goldOfPimaba.tayouanCouncil.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.goldOfPimaba.tayouanCouncil.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.goldOfPimaba.subjectVillages.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.goldOfPimaba.subjectVillages.label"
+            },
+            {
+              "iconName": "text.bubble",
+              "narrativeKey": "perspective.goldOfPimaba.chineseTraders.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.goldOfPimaba.chineseTraders.label"
+            }
+          ],
+          "titleKey": "volume.seaAndFortress.goldOfPimaba.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/landdagAndRattanStaff.png",
           "descriptionKey": "volume.seaAndFortress.landdagAndRattanStaff.description",
           "images": [
@@ -1066,6 +1120,50 @@
             }
           ],
           "titleKey": "volume.imperialFrontier.zhuYiguiRebellion.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/liudui.png",
+          "descriptionKey": "volume.imperialFrontier.liudui.description",
+          "images": [
+            {
+              "descriptionKey": "image.fangsuoCouplePortrait1751.description",
+              "sourceKey": "image.fangsuoCouplePortrait1751.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/fangsuoCouplePortrait1751.jpg"
+            }
+          ],
+          "key": "imperialFrontier.liudui",
+          "location": {
+            "x": -78,
+            "y": 177.5
+          },
+          "locationNameKey": "屏東竹田",
+          "perspectives": [
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.liudui.villageMilitia.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.liudui.villageMilitia.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.liudui.manbao.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.liudui.manbao.label"
+            },
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.liudui.duJunyingsMen.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.liudui.duJunyingsMen.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.liudui.zhuYiguisFollowers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.liudui.zhuYiguisFollowers.label"
+            }
+          ],
+          "titleKey": "volume.imperialFrontier.liudui.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/dajiaxiUprising.png",
@@ -3038,6 +3136,55 @@
           "titleKey": "volume.underTheRisingSun.wartimeMobilization.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/jinguashiPrisoners.png",
+          "descriptionKey": "volume.underTheRisingSun.jinguashiPrisoners.description",
+          "images": [
+            {
+              "descriptionKey": "image.tanakaGoldMine1912.description",
+              "sourceKey": "image.tanakaGoldMine1912.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/tanakaGoldMine1912.jpg"
+            },
+            {
+              "descriptionKey": "image.freedPowsBoardThomasGary.description",
+              "sourceKey": "image.freedPowsBoardThomasGary.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/freedPowsBoardThomasGary.jpg"
+            }
+          ],
+          "key": "underTheRisingSun.jinguashiPrisoners",
+          "location": {
+            "x": 141,
+            "y": -263.9
+          },
+          "locationNameKey": "新北金瓜石",
+          "perspectives": [
+            {
+              "iconName": "lock",
+              "narrativeKey": "perspective.jinguashiPrisoners.prisoners.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.jinguashiPrisoners.prisoners.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.jinguashiPrisoners.campAuthority.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.jinguashiPrisoners.campAuthority.label"
+            },
+            {
+              "iconName": "chart.line.uptrend.xyaxis",
+              "narrativeKey": "perspective.jinguashiPrisoners.nipponMining.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.jinguashiPrisoners.nipponMining.label"
+            },
+            {
+              "iconName": "hammer",
+              "narrativeKey": "perspective.jinguashiPrisoners.localMiners.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.jinguashiPrisoners.localMiners.label"
+            }
+          ],
+          "titleKey": "volume.underTheRisingSun.jinguashiPrisoners.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/takasagoVolunteers.png",
           "descriptionKey": "volume.underTheRisingSun.takasagoVolunteers.description",
           "images": [
@@ -4271,6 +4418,60 @@
             }
           ],
           "titleKey": "volume.silentIsland.kinmenArtilleryBattle.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/matsuMilitaryRule.png",
+          "descriptionKey": "volume.silentIsland.matsuMilitaryRule.description",
+          "images": [
+            {
+              "descriptionKey": "image.matsuPictorialChiangHo1958.description",
+              "sourceKey": "image.matsuPictorialChiangHo1958.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/matsuPictorialChiangHo1958.jpg"
+            },
+            {
+              "descriptionKey": "image.nanganZhongzhengRoad1962.description",
+              "sourceKey": "image.nanganZhongzhengRoad1962.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/nanganZhongzhengRoad1962.jpg"
+            },
+            {
+              "descriptionKey": "image.nanganRoadOpening1962.description",
+              "sourceKey": "image.nanganRoadOpening1962.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/nanganRoadOpening1962.jpg"
+            }
+          ],
+          "key": "silentIsland.matsuMilitaryRule",
+          "location": {
+            "x": -174.2,
+            "y": -447.5
+          },
+          "locationNameKey": "馬祖南竿",
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.matsuMilitaryRule.civilDefence.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.matsuMilitaryRule.civilDefence.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.matsuMilitaryRule.defenceCommand.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.matsuMilitaryRule.defenceCommand.label"
+            },
+            {
+              "iconName": "figure.walk.motion",
+              "narrativeKey": "perspective.matsuMilitaryRule.leavers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.matsuMilitaryRule.leavers.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.matsuMilitaryRule.hometownAlliance.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.matsuMilitaryRule.hometownAlliance.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.matsuMilitaryRule.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/crossProvincialDemocracyAlliance.png",
@@ -5941,6 +6142,60 @@
             }
           ],
           "titleKey": "volume.newFormosa.sameSexMarriageLegalization.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/nanfangaoFishermen.png",
+          "descriptionKey": "volume.newFormosa.nanfangaoFishermen.description",
+          "images": [
+            {
+              "descriptionKey": "image.nanfangaoBridge2014.description",
+              "sourceKey": "image.nanfangaoBridge2014.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/nanfangaoBridge2014.jpg"
+            },
+            {
+              "descriptionKey": "image.nanfangaoCollapseTugs.description",
+              "sourceKey": "image.nanfangaoCollapseTugs.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/nanfangaoCollapseTugs.jpg"
+            },
+            {
+              "descriptionKey": "image.nanfangaoMooredBoats2022.description",
+              "sourceKey": "image.nanfangaoMooredBoats2022.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/newFormosa/nanfangaoMooredBoats2022.jpg"
+            }
+          ],
+          "key": "newFormosa.nanfangaoFishermen",
+          "location": {
+            "x": 142.9,
+            "y": -172.2
+          },
+          "locationNameKey": "宜蘭南方澳",
+          "perspectives": [
+            {
+              "iconName": "person.2",
+              "narrativeKey": "perspective.nanfangaoFishermen.fishermen.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.nanfangaoFishermen.fishermen.label"
+            },
+            {
+              "iconName": "sailboat",
+              "narrativeKey": "perspective.nanfangaoFishermen.boatOwners.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.nanfangaoFishermen.boatOwners.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.nanfangaoFishermen.regulators.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.nanfangaoFishermen.regulators.label"
+            },
+            {
+              "iconName": "hammer",
+              "narrativeKey": "perspective.nanfangaoFishermen.portCompany.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.nanfangaoFishermen.portCompany.label"
+            }
+          ],
+          "titleKey": "volume.newFormosa.nanfangaoFishermen.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/pandemicYears.png",
