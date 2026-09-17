@@ -6580,6 +6580,10 @@
         "sun_yuanheng",
         "zhu_yigui",
         "lan_dingyuan",
+        "lan_tingzhen",
+        "man_bao",
+        "du_junying",
+        "li_zhisan",
         "huang_shujing",
         "zhou_zhongxuan",
         "zheng_yongxi",
@@ -6652,6 +6656,7 @@
         "gu_xianrong",
         "chen_zhonghe",
         "yan_yunnian",
+        "tanaka_chobei",
         "ino_kanori",
         "kodama_gentaro",
         "goto_shinpei",
@@ -7514,6 +7519,64 @@
       "nameKey": "藍鼎元",
       "sectionEra": "imperialFrontier",
       "titleKey": "figure.landingyuan.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "lan_tingzhen",
+      "biographyKey": "figure.lantingzhen.bio",
+      "eraKey": "figure.lantingzhen.era",
+      "keyEventKeys": [
+        "figure.lantingzhen.event1",
+        "figure.lantingzhen.event2"
+      ],
+      "lifespan": "1664–1729",
+      "nameKey": "藍廷珍",
+      "sectionEra": "imperialFrontier",
+      "titleKey": "figure.lantingzhen.title"
+    },
+    {
+      "aliases": [
+        "覺羅滿保"
+      ],
+      "avatarName": "man_bao",
+      "biographyKey": "figure.manbao.bio",
+      "eraKey": "figure.manbao.era",
+      "keyEventKeys": [
+        "figure.manbao.event1",
+        "figure.manbao.event2"
+      ],
+      "lifespan": "1673–1725",
+      "nameKey": "滿保",
+      "sectionEra": "imperialFrontier",
+      "titleKey": "figure.manbao.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "du_junying",
+      "biographyKey": "figure.dujunying.bio",
+      "eraKey": "figure.dujunying.era",
+      "keyEventKeys": [
+        "figure.dujunying.event1",
+        "figure.dujunying.event2"
+      ],
+      "lifespan": "1667–1721",
+      "nameKey": "杜君英",
+      "sectionEra": "imperialFrontier",
+      "titleKey": "figure.dujunying.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "li_zhisan",
+      "biographyKey": "figure.lizhisan.bio",
+      "eraKey": "figure.lizhisan.era",
+      "keyEventKeys": [
+        "figure.lizhisan.event1",
+        "figure.lizhisan.event2"
+      ],
+      "lifespan": "?–?",
+      "nameKey": "李直三",
+      "sectionEra": "imperialFrontier",
+      "titleKey": "figure.lizhisan.title"
     },
     {
       "aliases": [],
@@ -8697,6 +8760,20 @@
       "nameKey": "顏雲年",
       "sectionEra": "underTheRisingSun",
       "titleKey": "figure.yanyunnian.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "tanaka_chobei",
+      "biographyKey": "figure.tanakachobei.bio",
+      "eraKey": "figure.tanakachobei.era",
+      "keyEventKeys": [
+        "figure.tanakachobei.event1",
+        "figure.tanakachobei.event2"
+      ],
+      "lifespan": "1834–1901",
+      "nameKey": "田中長兵衛",
+      "sectionEra": "underTheRisingSun",
+      "titleKey": "figure.tanakachobei.title"
     },
     {
       "aliases": [],
