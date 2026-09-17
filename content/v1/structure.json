@@ -6726,10 +6726,15 @@
         "huang_jindao",
         "peng_mengji",
         "gao_yisheng",
+        "tang_shouren",
+        "zhong_haodong",
+        "jiang_biyu",
+        "cai_xiaoqian",
         "sun_liren",
         "fu_sinian",
         "lei_chen",
         "yin_haiguang",
+        "wei_tingchao",
         "liao_wenyi",
         "ge_chaozhi",
         "wang_yude"
@@ -6813,7 +6818,8 @@
     },
     {
       "aliases": [
-        "Pieter Nuyts"
+        "Pieter Nuyts",
+        "努伊茲"
       ],
       "avatarName": "nuyts",
       "biographyKey": "figure.nuyts.bio",
@@ -9079,7 +9085,8 @@
     },
     {
       "aliases": [
-        "Chiang Kai-shek"
+        "Chiang Kai-shek",
+        "蔣中正"
       ],
       "avatarName": "chiang_kaishek",
       "biographyKey": "figure.chiangkaishek.bio",
@@ -9190,6 +9197,20 @@
     },
     {
       "aliases": [],
+      "avatarName": "wei_tingchao",
+      "biographyKey": "figure.weitingchao.bio",
+      "eraKey": "figure.weitingchao.era",
+      "keyEventKeys": [
+        "figure.weitingchao.event1",
+        "figure.weitingchao.event2"
+      ],
+      "lifespan": "1935–1999",
+      "nameKey": "魏廷朝",
+      "sectionEra": "postWar",
+      "titleKey": "figure.weitingchao.title"
+    },
+    {
+      "aliases": [],
       "avatarName": "lin_maosheng",
       "biographyKey": "figure.linmaosheng.bio",
       "eraKey": "figure.linmaosheng.era",
@@ -9232,6 +9253,66 @@
       "nameKey": "高一生",
       "sectionEra": "postWar",
       "titleKey": "figure.gaoyisheng.title"
+    },
+    {
+      "aliases": [
+        "Yapasuyongʉ Yulunana"
+      ],
+      "avatarName": "tang_shouren",
+      "biographyKey": "figure.tangshouren.bio",
+      "eraKey": "figure.tangshouren.era",
+      "keyEventKeys": [
+        "figure.tangshouren.event1",
+        "figure.tangshouren.event2"
+      ],
+      "lifespan": "1924–1954",
+      "nameKey": "湯守仁",
+      "sectionEra": "postWar",
+      "titleKey": "figure.tangshouren.title"
+    },
+    {
+      "aliases": [
+        "鍾和鳴"
+      ],
+      "avatarName": "zhong_haodong",
+      "biographyKey": "figure.zhonghaodong.bio",
+      "eraKey": "figure.zhonghaodong.era",
+      "keyEventKeys": [
+        "figure.zhonghaodong.event1",
+        "figure.zhonghaodong.event2"
+      ],
+      "lifespan": "1915–1950",
+      "nameKey": "鍾浩東",
+      "sectionEra": "postWar",
+      "titleKey": "figure.zhonghaodong.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "jiang_biyu",
+      "biographyKey": "figure.jiangbiyu.bio",
+      "eraKey": "figure.jiangbiyu.era",
+      "keyEventKeys": [
+        "figure.jiangbiyu.event1",
+        "figure.jiangbiyu.event2"
+      ],
+      "lifespan": "1921–1995",
+      "nameKey": "蔣碧玉",
+      "sectionEra": "postWar",
+      "titleKey": "figure.jiangbiyu.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "cai_xiaoqian",
+      "biographyKey": "figure.caixiaoqian.bio",
+      "eraKey": "figure.caixiaoqian.era",
+      "keyEventKeys": [
+        "figure.caixiaoqian.event1",
+        "figure.caixiaoqian.event2"
+      ],
+      "lifespan": "1908–1982",
+      "nameKey": "蔡孝乾",
+      "sectionEra": "postWar",
+      "titleKey": "figure.caixiaoqian.title"
     },
     {
       "aliases": [],
