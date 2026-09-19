@@ -6581,6 +6581,7 @@
         "zhu_yigui",
         "lan_dingyuan",
         "lan_tingzhen",
+        "shi_shibiao",
         "man_bao",
         "du_junying",
         "li_zhisan",
@@ -6733,11 +6734,15 @@
         "sun_liren",
         "fu_sinian",
         "lei_chen",
+        "li_wanchu",
+        "kuo_yuhsin",
         "yin_haiguang",
         "wei_tingchao",
         "liao_wenyi",
         "ge_chaozhi",
-        "wang_yude"
+        "wang_yude",
+        "yin_chungjung",
+        "li_kwohting"
       ],
       "era": "postWar"
     },
@@ -6758,9 +6763,14 @@
         "lu_hsiulien",
         "chen_chu",
         "chiang_pengchien",
+        "hsieh_changting",
+        "you_ching",
         "chen_wencheng",
         "cheng_nanjung",
-        "lee_tenghui"
+        "hou_hsiaohsien",
+        "lee_tenghui",
+        "lin_yangkang",
+        "hau_peitsun"
       ],
       "era": "breakingTheSilence"
     },
@@ -7152,7 +7162,9 @@
       "titleKey": "figure.gengjingzhong.title"
     },
     {
-      "aliases": [],
+      "aliases": [
+        "康熙皇帝"
+      ],
       "avatarName": "kangxi",
       "biographyKey": "figure.kangxi.bio",
       "eraKey": "figure.kangxi.era",
@@ -8897,7 +8909,8 @@
     },
     {
       "aliases": [
-        "Hatta Toyoki"
+        "Hatta Toyoki",
+        "外代樹"
       ],
       "avatarName": "hatta_toyoki",
       "biographyKey": "figure.hattatoyoki.bio",
@@ -9924,6 +9937,152 @@
       "nameKey": "陳樹菊",
       "sectionEra": "newFormosa",
       "titleKey": "figure.chenshuchu.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "shi_shibiao",
+      "biographyKey": "figure.shishibiao.bio",
+      "eraKey": "figure.shishibiao.era",
+      "keyEventKeys": [
+        "figure.shishibiao.event1",
+        "figure.shishibiao.event2"
+      ],
+      "lifespan": "1667–1721",
+      "nameKey": "施世驃",
+      "sectionEra": "imperialFrontier",
+      "titleKey": "figure.shishibiao.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "li_wanchu",
+      "biographyKey": "figure.liwanchu.bio",
+      "eraKey": "figure.liwanchu.era",
+      "keyEventKeys": [
+        "figure.liwanchu.event1",
+        "figure.liwanchu.event2"
+      ],
+      "lifespan": "1901–1966",
+      "nameKey": "李萬居",
+      "sectionEra": "postWar",
+      "titleKey": "figure.liwanchu.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "kuo_yuhsin",
+      "biographyKey": "figure.kuoyuhsin.bio",
+      "eraKey": "figure.kuoyuhsin.era",
+      "keyEventKeys": [
+        "figure.kuoyuhsin.event1",
+        "figure.kuoyuhsin.event2"
+      ],
+      "lifespan": "1908–1985",
+      "nameKey": "郭雨新",
+      "sectionEra": "postWar",
+      "titleKey": "figure.kuoyuhsin.title"
+    },
+    {
+      "aliases": [
+        "K.Y. Yin"
+      ],
+      "avatarName": "yin_chungjung",
+      "biographyKey": "figure.yinchungjung.bio",
+      "eraKey": "figure.yinchungjung.era",
+      "keyEventKeys": [
+        "figure.yinchungjung.event1",
+        "figure.yinchungjung.event2"
+      ],
+      "lifespan": "1903–1963",
+      "nameKey": "尹仲容",
+      "sectionEra": "postWar",
+      "titleKey": "figure.yinchungjung.title"
+    },
+    {
+      "aliases": [
+        "K.T. Li"
+      ],
+      "avatarName": "li_kwohting",
+      "biographyKey": "figure.likwohting.bio",
+      "eraKey": "figure.likwohting.era",
+      "keyEventKeys": [
+        "figure.likwohting.event1",
+        "figure.likwohting.event2"
+      ],
+      "lifespan": "1910–2001",
+      "nameKey": "李國鼎",
+      "sectionEra": "postWar",
+      "titleKey": "figure.likwohting.title"
+    },
+    {
+      "aliases": [
+        "Frank Hsieh"
+      ],
+      "avatarName": "hsieh_changting",
+      "biographyKey": "figure.hsiehchangting.bio",
+      "eraKey": "figure.hsiehchangting.era",
+      "keyEventKeys": [
+        "figure.hsiehchangting.event1",
+        "figure.hsiehchangting.event2"
+      ],
+      "lifespan": "1946–",
+      "nameKey": "謝長廷",
+      "sectionEra": "breakingTheSilence",
+      "titleKey": "figure.hsiehchangting.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "you_ching",
+      "biographyKey": "figure.youching.bio",
+      "eraKey": "figure.youching.era",
+      "keyEventKeys": [
+        "figure.youching.event1",
+        "figure.youching.event2"
+      ],
+      "lifespan": "1942–",
+      "nameKey": "尤清",
+      "sectionEra": "breakingTheSilence",
+      "titleKey": "figure.youching.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "hou_hsiaohsien",
+      "biographyKey": "figure.houhsiaohsien.bio",
+      "eraKey": "figure.houhsiaohsien.era",
+      "keyEventKeys": [
+        "figure.houhsiaohsien.event1",
+        "figure.houhsiaohsien.event2"
+      ],
+      "lifespan": "1947–",
+      "nameKey": "侯孝賢",
+      "sectionEra": "breakingTheSilence",
+      "titleKey": "figure.houhsiaohsien.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "lin_yangkang",
+      "biographyKey": "figure.linyangkang.bio",
+      "eraKey": "figure.linyangkang.era",
+      "keyEventKeys": [
+        "figure.linyangkang.event1",
+        "figure.linyangkang.event2"
+      ],
+      "lifespan": "1927–2013",
+      "nameKey": "林洋港",
+      "sectionEra": "breakingTheSilence",
+      "titleKey": "figure.linyangkang.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "hau_peitsun",
+      "biographyKey": "figure.haupeitsun.bio",
+      "eraKey": "figure.haupeitsun.era",
+      "keyEventKeys": [
+        "figure.haupeitsun.event1",
+        "figure.haupeitsun.event2"
+      ],
+      "lifespan": "1919–2020",
+      "nameKey": "郝柏村",
+      "sectionEra": "breakingTheSilence",
+      "titleKey": "figure.haupeitsun.title"
     }
   ],
   "milestones": [
