@@ -1,21 +1,21 @@
 {
-  "contentHash": "5b443b9d715a645c278a2cbf276a78b25fb933d66cfa6c4e065df56fa9d416d6",
-  "contentVersion": 56,
+  "contentHash": "8b1b217b619580aec64db74a88bdc36df1e60d996989e823f4086c65268d433e",
+  "contentVersion": 57,
   "files": {
     "strings.en.json": {
-      "bytes": 1979906,
-      "sha256": "d7f5db636911a7f05cf43273e3063950bd3b292c7d9f00730ab5ad14eead40bb"
+      "bytes": 1982831,
+      "sha256": "097ef3cc4e5870d1387bf75c835eba25dcdac3f92bc1576996d4bf9c8dcf1733"
     },
     "strings.zh-Hant.json": {
-      "bytes": 1546374,
-      "sha256": "39de56917512c5fd8379f0315028d6399b91b3b0dab844fa72bca1c59fad1b97"
+      "bytes": 1548792,
+      "sha256": "a31dc983a0b9e066dab8490a124e8ec1eab1331e0c3c042f5dddd33fc861ff62"
     },
     "structure.json": {
-      "bytes": 469593,
-      "sha256": "514def837243e3c4ab3e61f028c0b6e75e57a11fb4f80fb790aaaf99fe6c56fb"
+      "bytes": 470498,
+      "sha256": "7308845ba7078dfd90902f6b48b12490eb1aab3d0e14c8b80ea2d2b589789190"
     }
   },
-  "generatedAt": "2026-09-20T23:12:28Z",
+  "generatedAt": "2026-09-20T23:20:31Z",
   "minAppVersion": "1.0",
   "schemaVersion": 1
 }

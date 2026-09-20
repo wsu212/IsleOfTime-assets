@@ -10088,6 +10088,39 @@
       "titleKey": "figure.haupeitsun.title"
     },
     {
+      "aliases": [
+        "田川氏",
+        "Lady Tagawa"
+      ],
+      "avatarName": "tagawa_matsu",
+      "biographyKey": "figure.tagawamatsu.bio",
+      "eraKey": "figure.tagawamatsu.era",
+      "keyEventKeys": [
+        "figure.tagawamatsu.event1",
+        "figure.tagawamatsu.event2"
+      ],
+      "lifespan": "1601–1646",
+      "nameKey": "田川松",
+      "sectionEra": "ageOfDiscovery",
+      "titleKey": "figure.tagawamatsu.title"
+    },
+    {
+      "aliases": [
+        "Paulus Traudenius"
+      ],
+      "avatarName": "traudenius",
+      "biographyKey": "figure.traudenius.bio",
+      "eraKey": "figure.traudenius.era",
+      "keyEventKeys": [
+        "figure.traudenius.event1",
+        "figure.traudenius.event2"
+      ],
+      "lifespan": "?–1643",
+      "nameKey": "杜拉弟紐司",
+      "sectionEra": "ageOfDiscovery",
+      "titleKey": "figure.traudenius.title"
+    },
+    {
       "aliases": [],
       "avatarName": "zheng_tai",
       "biographyKey": "figure.zhengtai.bio",
