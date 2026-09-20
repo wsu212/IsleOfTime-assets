@@ -10089,6 +10089,34 @@
     },
     {
       "aliases": [],
+      "avatarName": "zheng_tai",
+      "biographyKey": "figure.zhengtai.bio",
+      "eraKey": "figure.zhengtai.era",
+      "keyEventKeys": [
+        "figure.zhengtai.event1",
+        "figure.zhengtai.event2"
+      ],
+      "lifespan": "?–1663",
+      "nameKey": "鄭泰",
+      "sectionEra": "tungningDynasty",
+      "titleKey": "figure.zhengtai.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "zhou_quanbin",
+      "biographyKey": "figure.zhouquanbin.bio",
+      "eraKey": "figure.zhouquanbin.era",
+      "keyEventKeys": [
+        "figure.zhouquanbin.event1",
+        "figure.zhouquanbin.event2"
+      ],
+      "lifespan": "?–?",
+      "nameKey": "周全斌",
+      "sectionEra": "tungningDynasty",
+      "titleKey": "figure.zhouquanbin.title"
+    },
+    {
+      "aliases": [],
       "avatarName": "guo_xuehu",
       "biographyKey": "figure.guoxuehu.bio",
       "eraKey": "figure.guoxuehu.era",
