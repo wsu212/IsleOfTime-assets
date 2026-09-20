@@ -1,1 +1,3 @@
 .DS_Store
+# build_content.py 跑到一半的暫存目錄；跑完會自己刪掉，不該進版控。
+content/v1/.previous/
