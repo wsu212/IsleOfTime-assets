@@ -10086,6 +10086,20 @@
     },
     {
       "aliases": [],
+      "avatarName": "guo_tingliang",
+      "biographyKey": "figure.guotingliang.bio",
+      "eraKey": "figure.guotingliang.era",
+      "keyEventKeys": [
+        "figure.guotingliang.event1",
+        "figure.guotingliang.event2"
+      ],
+      "lifespan": "1921–1991",
+      "nameKey": "郭廷亮",
+      "sectionEra": "postWar",
+      "titleKey": "figure.guotingliang.title"
+    },
+    {
+      "aliases": [],
       "avatarName": "chen_chili",
       "biographyKey": "figure.chenchili.bio",
       "eraKey": "figure.chenchili.era",
@@ -10097,6 +10111,20 @@
       "nameKey": "陳啟禮",
       "sectionEra": "breakingTheSilence",
       "titleKey": "figure.chenchili.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "chen_dingnan",
+      "biographyKey": "figure.chendingnan.bio",
+      "eraKey": "figure.chendingnan.era",
+      "keyEventKeys": [
+        "figure.chendingnan.event1",
+        "figure.chendingnan.event2"
+      ],
+      "lifespan": "1943–2006",
+      "nameKey": "陳定南",
+      "sectionEra": "breakingTheSilence",
+      "titleKey": "figure.chendingnan.title"
     },
     {
       "aliases": [],
