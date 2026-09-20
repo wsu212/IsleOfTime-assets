@@ -10089,20 +10089,6 @@
     },
     {
       "aliases": [],
-      "avatarName": "guo_xuehu",
-      "biographyKey": "figure.guoxuehu.bio",
-      "eraKey": "figure.guoxuehu.era",
-      "keyEventKeys": [
-        "figure.guoxuehu.event1",
-        "figure.guoxuehu.event2"
-      ],
-      "lifespan": "1908–2012",
-      "nameKey": "郭雪湖",
-      "sectionEra": "underTheRisingSun",
-      "titleKey": "figure.guoxuehu.title"
-    },
-    {
-      "aliases": [],
       "avatarName": "guo_tingliang",
       "biographyKey": "figure.guotingliang.bio",
       "eraKey": "figure.guotingliang.era",
