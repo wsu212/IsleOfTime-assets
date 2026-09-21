@@ -10106,6 +10106,39 @@
     },
     {
       "aliases": [
+        "范林佳",
+        "Johan van Linga"
+      ],
+      "avatarName": "van_linga",
+      "biographyKey": "figure.vanlinga.bio",
+      "eraKey": "figure.vanlinga.era",
+      "keyEventKeys": [
+        "figure.vanlinga.event1",
+        "figure.vanlinga.event2"
+      ],
+      "lifespan": "?–?",
+      "nameKey": "范林哈",
+      "sectionEra": "ageOfDiscovery",
+      "titleKey": "figure.vanlinga.title"
+    },
+    {
+      "aliases": [
+        "Maarten Wesselingh"
+      ],
+      "avatarName": "wesselingh",
+      "biographyKey": "figure.wesselingh.bio",
+      "eraKey": "figure.wesselingh.era",
+      "keyEventKeys": [
+        "figure.wesselingh.event1",
+        "figure.wesselingh.event2"
+      ],
+      "lifespan": "?–1641",
+      "nameKey": "衛瑟林",
+      "sectionEra": "ageOfDiscovery",
+      "titleKey": "figure.wesselingh.title"
+    },
+    {
+      "aliases": [
         "Paulus Traudenius"
       ],
       "avatarName": "traudenius",
@@ -10150,6 +10183,20 @@
     },
     {
       "aliases": [],
+      "avatarName": "sun_kaihua",
+      "biographyKey": "figure.sunkaihua.bio",
+      "eraKey": "figure.sunkaihua.era",
+      "keyEventKeys": [
+        "figure.sunkaihua.event1",
+        "figure.sunkaihua.event2"
+      ],
+      "lifespan": "1840–1893",
+      "nameKey": "孫開華",
+      "sectionEra": "imperialFrontier",
+      "titleKey": "figure.sunkaihua.title"
+    },
+    {
+      "aliases": [],
       "avatarName": "guo_xuehu",
       "biographyKey": "figure.guoxuehu.bio",
       "eraKey": "figure.guoxuehu.era",
@@ -10161,6 +10208,20 @@
       "nameKey": "郭雪湖",
       "sectionEra": "underTheRisingSun",
       "titleKey": "figure.guoxuehu.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "zhang_minzhi",
+      "biographyKey": "figure.zhangminzhi.bio",
+      "eraKey": "figure.zhangminzhi.era",
+      "keyEventKeys": [
+        "figure.zhangminzhi.event1",
+        "figure.zhangminzhi.event2"
+      ],
+      "lifespan": "?–1949",
+      "nameKey": "張敏之",
+      "sectionEra": "postWar",
+      "titleKey": "figure.zhangminzhi.title"
     },
     {
       "aliases": [],
@@ -10216,6 +10277,20 @@
       "nameKey": "詹益樺",
       "sectionEra": "breakingTheSilence",
       "titleKey": "figure.chanyihua.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "wei_tesheng",
+      "biographyKey": "figure.weitesheng.bio",
+      "eraKey": "figure.weitesheng.era",
+      "keyEventKeys": [
+        "figure.weitesheng.event1",
+        "figure.weitesheng.event2"
+      ],
+      "lifespan": "1968–",
+      "nameKey": "魏德聖",
+      "sectionEra": "newFormosa",
+      "titleKey": "figure.weitesheng.title"
     }
   ],
   "milestones": [
