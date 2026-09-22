@@ -10089,6 +10089,36 @@
     },
     {
       "aliases": [
+        "Cornelis Reijersen"
+      ],
+      "avatarName": "reijersen",
+      "biographyKey": "figure.reijersen.bio",
+      "eraKey": "figure.reijersen.era",
+      "keyEventKeys": [
+        "figure.reijersen.event1",
+        "figure.reijersen.event2"
+      ],
+      "lifespan": "?–?",
+      "nameKey": "雷爾生",
+      "sectionEra": "ageOfDiscovery",
+      "titleKey": "figure.reijersen.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "nan_juyi",
+      "biographyKey": "figure.nanjuyi.bio",
+      "eraKey": "figure.nanjuyi.era",
+      "keyEventKeys": [
+        "figure.nanjuyi.event1",
+        "figure.nanjuyi.event2"
+      ],
+      "lifespan": "?–1644",
+      "nameKey": "南居益",
+      "sectionEra": "ageOfDiscovery",
+      "titleKey": "figure.nanjuyi.title"
+    },
+    {
+      "aliases": [
         "Robertus Junius"
       ],
       "avatarName": "junius",
