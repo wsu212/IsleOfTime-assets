@@ -10089,6 +10089,22 @@
     },
     {
       "aliases": [
+        "Robertus Junius"
+      ],
+      "avatarName": "junius",
+      "biographyKey": "figure.junius.bio",
+      "eraKey": "figure.junius.era",
+      "keyEventKeys": [
+        "figure.junius.event1",
+        "figure.junius.event2"
+      ],
+      "lifespan": "1606–1655",
+      "nameKey": "尤羅伯",
+      "sectionEra": "ageOfDiscovery",
+      "titleKey": "figure.junius.title"
+    },
+    {
+      "aliases": [
         "田川氏",
         "Lady Tagawa"
       ],
@@ -10120,6 +10136,22 @@
       "nameKey": "范林哈",
       "sectionEra": "ageOfDiscovery",
       "titleKey": "figure.vanlinga.title"
+    },
+    {
+      "aliases": [
+        "Sebastián Hurtado de Corcuera"
+      ],
+      "avatarName": "corcuera",
+      "biographyKey": "figure.corcuera.bio",
+      "eraKey": "figure.corcuera.era",
+      "keyEventKeys": [
+        "figure.corcuera.event1",
+        "figure.corcuera.event2"
+      ],
+      "lifespan": "1587–1660",
+      "nameKey": "科奎拉",
+      "sectionEra": "ageOfDiscovery",
+      "titleKey": "figure.corcuera.title"
     },
     {
       "aliases": [
