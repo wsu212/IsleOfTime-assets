@@ -1,0 +1,57 @@
+# Studio publish → rebuild isleoftime.com
+#
+# The iOS app reads content/v1/ at runtime, so it sees a publish immediately.
+# The website bakes content in at build time (its `prebuild` step fetches this
+# same snapshot), so it needs a redeploy after every publish. This workflow
+# triggers that redeploy through a Vercel Deploy Hook.
+#
+# Setup: Vercel → isle-of-time-web → Settings → Git → Deploy Hooks → create one
+# for branch `main`, then add its URL here as the repository secret
+# VERCEL_DEPLOY_HOOK_URL (Settings → Secrets and variables → Actions).
+
+name: Deploy website
+
+on:
+  push:
+    branches: [main]
+    paths: [content/v1/manifest.json]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-web
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: content/v1/manifest.json
+          sparse-checkout-cone-mode: false
+
+      # raw.githubusercontent.com caches for ~5 minutes. Deploying before it
+      # serves the new manifest would rebuild the site with the old content.
+      - name: Wait for the CDN to serve this version
+        run: |
+          want=$(jq -r .contentVersion content/v1/manifest.json)
+          url="https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/content/v1/manifest.json"
+          for i in $(seq 1 60); do
+            got=$(curl -fsS "$url" | jq -r .contentVersion || echo "?")
+            echo "want $want · CDN serves $got"
+            if [ "$got" = "$want" ]; then exit 0; fi
+            sleep 10
+          done
+          echo "::error::CDN still serves contentVersion $got after 10 minutes"
+          exit 1
+
+      - name: Trigger Vercel deploy
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "::warning::VERCEL_DEPLOY_HOOK_URL is not set — the website was not redeployed."
+            exit 0
+          fi
+          curl -fsS -X POST "$HOOK"
