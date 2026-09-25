@@ -10301,6 +10301,34 @@
     },
     {
       "aliases": [],
+      "avatarName": "hu_shi",
+      "biographyKey": "figure.hushi.bio",
+      "eraKey": "figure.hushi.era",
+      "keyEventKeys": [
+        "figure.hushi.event1",
+        "figure.hushi.event2"
+      ],
+      "lifespan": "1891–1962",
+      "nameKey": "胡適",
+      "sectionEra": "postWar",
+      "titleKey": "figure.hushi.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "fu_zheng",
+      "biographyKey": "figure.fuzheng.bio",
+      "eraKey": "figure.fuzheng.era",
+      "keyEventKeys": [
+        "figure.fuzheng.event1",
+        "figure.fuzheng.event2"
+      ],
+      "lifespan": "1927–1991",
+      "nameKey": "傅正",
+      "sectionEra": "postWar",
+      "titleKey": "figure.fuzheng.title"
+    },
+    {
+      "aliases": [],
       "avatarName": "chen_chili",
       "biographyKey": "figure.chenchili.bio",
       "eraKey": "figure.chenchili.era",
