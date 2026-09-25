@@ -10245,6 +10245,20 @@
     },
     {
       "aliases": [],
+      "avatarName": "li_changgeng",
+      "biographyKey": "figure.lichanggeng.bio",
+      "eraKey": "figure.lichanggeng.era",
+      "keyEventKeys": [
+        "figure.lichanggeng.event1",
+        "figure.lichanggeng.event2"
+      ],
+      "lifespan": "1750–1807",
+      "nameKey": "李長庚",
+      "sectionEra": "imperialFrontier",
+      "titleKey": "figure.lichanggeng.title"
+    },
+    {
+      "aliases": [],
       "avatarName": "sun_kaihua",
       "biographyKey": "figure.sunkaihua.bio",
       "eraKey": "figure.sunkaihua.era",
