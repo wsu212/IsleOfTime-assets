@@ -10329,6 +10329,20 @@
     },
     {
       "aliases": [],
+      "avatarName": "lee_huan",
+      "biographyKey": "figure.leehuan.bio",
+      "eraKey": "figure.leehuan.era",
+      "keyEventKeys": [
+        "figure.leehuan.event1",
+        "figure.leehuan.event2"
+      ],
+      "lifespan": "1917–2010",
+      "nameKey": "李煥",
+      "sectionEra": "breakingTheSilence",
+      "titleKey": "figure.leehuan.title"
+    },
+    {
+      "aliases": [],
       "avatarName": "chen_chili",
       "biographyKey": "figure.chenchili.bio",
       "eraKey": "figure.chenchili.era",
@@ -10367,6 +10381,20 @@
       "nameKey": "詹益樺",
       "sectionEra": "breakingTheSilence",
       "titleKey": "figure.chanyihua.title"
+    },
+    {
+      "aliases": [],
+      "avatarName": "lee_chenyuan",
+      "biographyKey": "figure.leechenyuan.bio",
+      "eraKey": "figure.leechenyuan.era",
+      "keyEventKeys": [
+        "figure.leechenyuan.event1",
+        "figure.leechenyuan.event2"
+      ],
+      "lifespan": "1915–2001",
+      "nameKey": "李鎮源",
+      "sectionEra": "breakingTheSilence",
+      "titleKey": "figure.leechenyuan.title"
     },
     {
       "aliases": [],
