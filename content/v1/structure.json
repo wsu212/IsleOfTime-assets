@@ -6,6 +6,55 @@
       "titleKey": "archive.seaAndFortress.title",
       "volumes": [
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/dongfanji.png",
+          "descriptionKey": "volume.seaAndFortress.dongfanji.description",
+          "images": [
+            {
+              "descriptionKey": "image.islaHermosaMap1597.description",
+              "sourceKey": "image.islaHermosaMap1597.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/islaHermosaMap1597.jpg"
+            },
+            {
+              "descriptionKey": "image.yquenKoxingaCartouche.description",
+              "sourceKey": "image.yquenKoxingaCartouche.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/seaAndFortress/yquenKoxingaCartouche.jpg"
+            }
+          ],
+          "key": "seaAndFortress.dongfanji",
+          "location": {
+            "x": -120,
+            "y": 85
+          },
+          "locationNameKey": "台南安平",
+          "perspectives": [
+            {
+              "iconName": "scroll",
+              "narrativeKey": "perspective.dongfanji.chenDi.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dongfanji.chenDi.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.dongfanji.ming.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dongfanji.ming.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.dongfanji.siraya.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dongfanji.siraya.label"
+            },
+            {
+              "iconName": "sailboat",
+              "narrativeKey": "perspective.dongfanji.merchants.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dongfanji.merchants.label"
+            }
+          ],
+          "titleKey": "volume.seaAndFortress.dongfanji.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/penghuOccupation.png",
           "descriptionKey": "volume.seaAndFortress.penghuOccupation.description",
           "images": [
@@ -936,6 +985,50 @@
           "titleKey": "volume.imperialFrontier.qingIncorporation.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/yuYongheSulphur.png",
+          "descriptionKey": "volume.imperialFrontier.yuYongheSulphur.description",
+          "images": [
+            {
+              "descriptionKey": "image.beitouSulphurValley1930s.description",
+              "sourceKey": "image.beitouSulphurValley1930s.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/beitouSulphurValley1930s.jpg"
+            }
+          ],
+          "key": "imperialFrontier.yuYongheSulphur",
+          "location": {
+            "x": 80,
+            "y": -268
+          },
+          "locationNameKey": "台北北投",
+          "perspectives": [
+            {
+              "iconName": "scroll",
+              "narrativeKey": "perspective.yuYonghe.yu.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yuYonghe.yu.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.yuYonghe.fujian.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yuYonghe.fujian.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.yuYonghe.villages.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yuYonghe.villages.label"
+            },
+            {
+              "iconName": "hammer",
+              "narrativeKey": "perspective.yuYonghe.workers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.yuYonghe.workers.label"
+            }
+          ],
+          "titleKey": "volume.imperialFrontier.yuYongheSulphur.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/luohanjiaoCrossing.png",
           "descriptionKey": "volume.imperialFrontier.luohanjiaoCrossing.description",
           "images": [
@@ -1639,6 +1732,55 @@
           "titleKey": "volume.imperialFrontier.foreignNaturalists.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/daiChaochunUprising.png",
+          "descriptionKey": "volume.imperialFrontier.daiChaochunUprising.description",
+          "images": [
+            {
+              "descriptionKey": "image.changhuaGateTower1895.description",
+              "sourceKey": "image.changhuaGateTower1895.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/changhuaGateTower1895.jpg"
+            },
+            {
+              "descriptionKey": "image.wufengLinGardenPavilion.description",
+              "sourceKey": "image.wufengLinGardenPavilion.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/wufengLinGardenPavilion.jpg"
+            }
+          ],
+          "key": "imperialFrontier.daiChaochunUprising",
+          "location": {
+            "x": -76,
+            "y": -78
+          },
+          "locationNameKey": "彰化",
+          "perspectives": [
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.daiChaochun.society.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.daiChaochun.society.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.daiChaochun.wufengLin.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.daiChaochun.wufengLin.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.daiChaochun.intendant.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.daiChaochun.intendant.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.daiChaochun.dajia.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.daiChaochun.dajia.label"
+            }
+          ],
+          "titleKey": "volume.imperialFrontier.daiChaochunUprising.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/presbyterianMission.png",
           "descriptionKey": "volume.imperialFrontier.presbyterianMission.description",
           "images": [],
@@ -1867,6 +2009,55 @@
           "titleKey": "volume.imperialFrontier.openingTheMountains.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/kaliawanIncident.png",
+          "descriptionKey": "volume.imperialFrontier.kaliawanIncident.description",
+          "images": [
+            {
+              "descriptionKey": "image.kaliawanKavalanTorii.description",
+              "sourceKey": "image.kaliawanKavalanTorii.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/kaliawanKavalanTorii.jpg"
+            },
+            {
+              "descriptionKey": "image.kaliawanMan1896.description",
+              "sourceKey": "image.kaliawanMan1896.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/imperialFrontier/kaliawanMan1896.jpg"
+            }
+          ],
+          "key": "imperialFrontier.kaliawanIncident",
+          "location": {
+            "x": 74,
+            "y": -48
+          },
+          "locationNameKey": "花蓮",
+          "perspectives": [
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.kaliawan.kavalan.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kaliawan.kavalan.label"
+            },
+            {
+              "iconName": "flame",
+              "narrativeKey": "perspective.kaliawan.sakizaya.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kaliawan.sakizaya.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.kaliawan.qingArmy.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kaliawan.qingArmy.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.kaliawan.descendants.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.kaliawan.descendants.label"
+            }
+          ],
+          "titleKey": "volume.imperialFrontier.kaliawanIncident.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/sinoFrenchWar.png",
           "descriptionKey": "volume.imperialFrontier.sinoFrenchWar.description",
           "images": [
@@ -1959,19 +2150,6 @@
           "titleKey": "volume.imperialFrontier.taiwanAsProvince.title"
         },
         {
-          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/lastQingElites.png",
-          "descriptionKey": "volume.imperialFrontier.lastQingElites.description",
-          "images": [],
-          "key": "imperialFrontier.lastQingElites",
-          "location": {
-            "x": 91,
-            "y": -275
-          },
-          "locationNameKey": "台北大稻埕",
-          "perspectives": [],
-          "titleKey": "volume.imperialFrontier.lastQingElites.title"
-        },
-        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/firstSteamLocomotive.png",
           "descriptionKey": "volume.imperialFrontier.firstSteamLocomotive.description",
           "images": [
@@ -2019,6 +2197,19 @@
             }
           ],
           "titleKey": "volume.imperialFrontier.firstSteamLocomotive.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/lastQingElites.png",
+          "descriptionKey": "volume.imperialFrontier.lastQingElites.description",
+          "images": [],
+          "key": "imperialFrontier.lastQingElites",
+          "location": {
+            "x": 91,
+            "y": -275
+          },
+          "locationNameKey": "台北大稻埕",
+          "perspectives": [],
+          "titleKey": "volume.imperialFrontier.lastQingElites.title"
         }
       ]
     },
@@ -2156,6 +2347,60 @@
             }
           ],
           "titleKey": "volume.underTheRisingSun.yunlinMassacre.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/gotoShinpei.png",
+          "descriptionKey": "volume.underTheRisingSun.gotoShinpei.description",
+          "images": [
+            {
+              "descriptionKey": "image.gotoShinpeiPortrait1919.description",
+              "sourceKey": "image.gotoShinpeiPortrait1919.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/gotoShinpeiPortrait1919.jpg"
+            },
+            {
+              "descriptionKey": "image.kodamaGentaroGovernor.description",
+              "sourceKey": "image.kodamaGentaroGovernor.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/kodamaGentaroGovernor.jpg"
+            },
+            {
+              "descriptionKey": "image.taiwanHozuShilin.description",
+              "sourceKey": "image.taiwanHozuShilin.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taiwanHozuShilin.jpg"
+            }
+          ],
+          "key": "underTheRisingSun.gotoShinpei",
+          "location": {
+            "x": 88,
+            "y": -251
+          },
+          "locationNameKey": "台北",
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.gotoShinpei.civilAffairs.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.gotoShinpei.civilAffairs.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.gotoShinpei.daZuHu.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.gotoShinpei.daZuHu.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.gotoShinpei.baojia.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.gotoShinpei.baojia.label"
+            },
+            {
+              "iconName": "figure.stand.dress",
+              "narrativeKey": "perspective.gotoShinpei.women.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.gotoShinpei.women.label"
+            }
+          ],
+          "titleKey": "volume.underTheRisingSun.gotoShinpei.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/armedResistance.png",
@@ -2789,6 +3034,55 @@
           "titleKey": "volume.underTheRisingSun.erlinIncident.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/horaiRice.png",
+          "descriptionKey": "volume.underTheRisingSun.horaiRice.description",
+          "images": [
+            {
+              "descriptionKey": "image.isoEikichiPortrait.description",
+              "sourceKey": "image.isoEikichiPortrait.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/isoEikichiPortrait.jpg"
+            },
+            {
+              "descriptionKey": "image.taichuPaddyHarvest.description",
+              "sourceKey": "image.taichuPaddyHarvest.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/taichuPaddyHarvest.jpg"
+            }
+          ],
+          "key": "underTheRisingSun.horaiRice",
+          "location": {
+            "x": 90.4,
+            "y": -272.1
+          },
+          "locationNameKey": "台北陽明山",
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.horaiRice.governmentGeneral.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.horaiRice.governmentGeneral.label"
+            },
+            {
+              "iconName": "leaf",
+              "narrativeKey": "perspective.horaiRice.suenaga.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.horaiRice.suenaga.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.horaiRice.farmers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.horaiRice.farmers.label"
+            },
+            {
+              "iconName": "graduationcap",
+              "narrativeKey": "perspective.horaiRice.iso.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.horaiRice.iso.label"
+            }
+          ],
+          "titleKey": "volume.underTheRisingSun.horaiRice.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/taiwanPeoplesParty.png",
           "descriptionKey": "volume.underTheRisingSun.taiwanPeoplesParty.description",
           "images": [
@@ -3043,6 +3337,55 @@
           "titleKey": "volume.underTheRisingSun.guandaoshanEarthquake.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/taiwanExposition1935.png",
+          "descriptionKey": "volume.underTheRisingSun.taiwanExposition1935.description",
+          "images": [
+            {
+              "descriptionKey": "image.exposition1935FirstVenue.description",
+              "sourceKey": "image.exposition1935FirstVenue.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/exposition1935FirstVenue.jpg"
+            },
+            {
+              "descriptionKey": "image.exposition1935Postcard.description",
+              "sourceKey": "image.exposition1935Postcard.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/exposition1935Postcard.jpg"
+            }
+          ],
+          "key": "underTheRisingSun.taiwanExposition1935",
+          "location": {
+            "x": 82,
+            "y": -252
+          },
+          "locationNameKey": "台北中山堂",
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.taiwanExposition.governmentGeneral.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taiwanExposition.governmentGeneral.label"
+            },
+            {
+              "iconName": "train.side.front.car",
+              "narrativeKey": "perspective.taiwanExposition.visitors.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taiwanExposition.visitors.label"
+            },
+            {
+              "iconName": "checkmark.seal",
+              "narrativeKey": "perspective.taiwanExposition.voters.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taiwanExposition.voters.label"
+            },
+            {
+              "iconName": "mountain.2",
+              "narrativeKey": "perspective.taiwanExposition.taichu.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taiwanExposition.taichu.label"
+            }
+          ],
+          "titleKey": "volume.underTheRisingSun.taiwanExposition1935.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/kominka.png",
           "descriptionKey": "volume.underTheRisingSun.kominka.description",
           "images": [
@@ -3234,6 +3577,55 @@
           "locationNameKey": "新竹新埔",
           "perspectives": [],
           "titleKey": "volume.underTheRisingSun.orphanOfAsia.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/taihokuRaid.png",
+          "descriptionKey": "volume.underTheRisingSun.taihokuRaid.description",
+          "images": [
+            {
+              "descriptionKey": "image.lotteryBureauRuins1945.description",
+              "sourceKey": "image.lotteryBureauRuins1945.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/lotteryBureauRuins1945.jpg"
+            },
+            {
+              "descriptionKey": "image.chikunanStationBombing1945.description",
+              "sourceKey": "image.chikunanStationBombing1945.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/underTheRisingSun/chikunanStationBombing1945.jpg"
+            }
+          ],
+          "key": "underTheRisingSun.taihokuRaid",
+          "location": {
+            "x": 84.5,
+            "y": -252
+          },
+          "locationNameKey": "台北總統府",
+          "perspectives": [
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.taihokuRaid.fifthAirForce.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taihokuRaid.fifthAirForce.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.taihokuRaid.prefecture.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taihokuRaid.prefecture.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.taihokuRaid.boy.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taihokuRaid.boy.label"
+            },
+            {
+              "iconName": "scroll",
+              "narrativeKey": "perspective.taihokuRaid.researcher.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.taihokuRaid.researcher.label"
+            }
+          ],
+          "titleKey": "volume.underTheRisingSun.taihokuRaid.title"
         }
       ]
     },
