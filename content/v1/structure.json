@@ -4488,6 +4488,93 @@
       "titleKey": "archive.silentIsland.title",
       "volumes": [
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/coldWarAndUSAid.png",
+          "descriptionKey": "volume.silentIsland.coldWarAndUSAid.description",
+          "images": [],
+          "key": "silentIsland.coldWarAndUSAid",
+          "location": {
+            "x": 100,
+            "y": -248
+          },
+          "locationNameKey": "台北",
+          "perspectives": [
+            {
+              "iconName": "leaf",
+              "narrativeKey": "perspective.usAid.farmer.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.usAid.farmer.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.usAid.maag.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.usAid.maag.label"
+            },
+            {
+              "iconName": "wrench.and.screwdriver",
+              "narrativeKey": "perspective.usAid.engineer.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.usAid.engineer.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.usAid.cusa.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.usAid.cusa.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.coldWarAndUSAid.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/landToTheTiller.png",
+          "descriptionKey": "volume.silentIsland.landToTheTiller.description",
+          "images": [
+            {
+              "descriptionKey": "image.landToTillerProclamation1953.description",
+              "sourceKey": "image.landToTillerProclamation1953.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/landToTillerProclamation1953.jpg"
+            },
+            {
+              "descriptionKey": "image.landToTillerPoster1960s.description",
+              "sourceKey": "image.landToTillerPoster1960s.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/landToTillerPoster1960s.jpg"
+            }
+          ],
+          "key": "silentIsland.landToTheTiller",
+          "location": {
+            "x": -46,
+            "y": -75
+          },
+          "locationNameKey": "台中霧峰",
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.landToTheTiller.province.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.landToTheTiller.province.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.landToTheTiller.tenant.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.landToTheTiller.tenant.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.landToTheTiller.hsinchuLandlord.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.landToTheTiller.hsinchuLandlord.label"
+            },
+            {
+              "iconName": "scroll",
+              "narrativeKey": "perspective.landToTheTiller.linHsientang.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.landToTheTiller.linHsientang.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.landToTheTiller.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/martialLawGovernance.png",
           "descriptionKey": "volume.silentIsland.martialLawGovernance.description",
           "images": [],
@@ -4651,44 +4738,6 @@
           "titleKey": "volume.silentIsland.intellectualDisillusionment.title"
         },
         {
-          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/coldWarAndUSAid.png",
-          "descriptionKey": "volume.silentIsland.coldWarAndUSAid.description",
-          "images": [],
-          "key": "silentIsland.coldWarAndUSAid",
-          "location": {
-            "x": 100,
-            "y": -248
-          },
-          "locationNameKey": "台北",
-          "perspectives": [
-            {
-              "iconName": "leaf",
-              "narrativeKey": "perspective.usAid.farmer.narrative",
-              "table": "Volumes",
-              "voiceLabelKey": "perspective.usAid.farmer.label"
-            },
-            {
-              "iconName": "shield.lefthalf.filled",
-              "narrativeKey": "perspective.usAid.maag.narrative",
-              "table": "Volumes",
-              "voiceLabelKey": "perspective.usAid.maag.label"
-            },
-            {
-              "iconName": "wrench.and.screwdriver",
-              "narrativeKey": "perspective.usAid.engineer.narrative",
-              "table": "Volumes",
-              "voiceLabelKey": "perspective.usAid.engineer.label"
-            },
-            {
-              "iconName": "building.columns",
-              "narrativeKey": "perspective.usAid.cusa.narrative",
-              "table": "Volumes",
-              "voiceLabelKey": "perspective.usAid.cusa.label"
-            }
-          ],
-          "titleKey": "volume.silentIsland.coldWarAndUSAid.title"
-        },
-        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/lukuIncident.png",
           "descriptionKey": "volume.silentIsland.lukuIncident.description",
           "images": [],
@@ -4763,6 +4812,55 @@
             }
           ],
           "titleKey": "volume.silentIsland.indigenousElitePurge.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/dachenEvacuation.png",
+          "descriptionKey": "volume.silentIsland.dachenEvacuation.description",
+          "images": [
+            {
+              "descriptionKey": "image.dachenIslandersToBoats1955.description",
+              "sourceKey": "image.dachenIslandersToBoats1955.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/dachenIslandersToBoats1955.jpg"
+            },
+            {
+              "descriptionKey": "image.dachenLandingCraft1955.description",
+              "sourceKey": "image.dachenLandingCraft1955.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/dachenLandingCraft1955.jpg"
+            }
+          ],
+          "key": "silentIsland.dachenEvacuation",
+          "location": {
+            "x": 122.1,
+            "y": -269.5
+          },
+          "locationNameKey": "基隆港",
+          "perspectives": [
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.dachen.government.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dachen.government.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.dachen.seventhFleet.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dachen.seventhFleet.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.dachen.islanders.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dachen.islanders.label"
+            },
+            {
+              "iconName": "flag",
+              "narrativeKey": "perspective.dachen.yijiangshan.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.dachen.yijiangshan.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.dachenEvacuation.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/militaryInternalPurge.png",
@@ -4859,6 +4957,60 @@
             }
           ],
           "titleKey": "volume.silentIsland.kinmenArtilleryBattle.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/august7Flood.png",
+          "descriptionKey": "volume.silentIsland.august7Flood.description",
+          "images": [
+            {
+              "descriptionKey": "image.august7FloodAerial.description",
+              "sourceKey": "image.august7FloodAerial.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/august7FloodAerial.jpg"
+            },
+            {
+              "descriptionKey": "image.august7HelicopterRelief.description",
+              "sourceKey": "image.august7HelicopterRelief.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/august7HelicopterRelief.jpg"
+            },
+            {
+              "descriptionKey": "image.floodReconstructionBonds1960.description",
+              "sourceKey": "image.floodReconstructionBonds1960.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/floodReconstructionBonds1960.jpg"
+            }
+          ],
+          "key": "silentIsland.august7Flood",
+          "location": {
+            "x": -75.5,
+            "y": -18.8
+          },
+          "locationNameKey": "雲林斗六",
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.august7Flood.province.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.august7Flood.province.label"
+            },
+            {
+              "iconName": "drop",
+              "narrativeKey": "perspective.august7Flood.survivors.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.august7Flood.survivors.label"
+            },
+            {
+              "iconName": "globe.americas",
+              "narrativeKey": "perspective.august7Flood.usMilitary.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.august7Flood.usMilitary.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.august7Flood.taxpayers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.august7Flood.taxpayers.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.august7Flood.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/matsuMilitaryRule.png",
@@ -5119,36 +5271,53 @@
           "titleKey": "volume.silentIsland.withdrawalFromUnitedNations.title"
         },
         {
-          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/zhongliIncident.png",
-          "descriptionKey": "volume.silentIsland.zhongliIncident.description",
-          "images": [],
-          "key": "silentIsland.zhongliIncident",
-          "location": {
-            "x": 37.1,
-            "y": -237.1
-          },
-          "locationNameKey": "桃園中壢",
-          "perspectives": [
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/cijinFerry.png",
+          "descriptionKey": "volume.silentIsland.cijinFerry.description",
+          "images": [
             {
-              "iconName": "person.3",
-              "narrativeKey": "perspective.zhongli.crowd.narrative",
-              "table": "Volumes",
-              "voiceLabelKey": "perspective.zhongli.crowd.label"
+              "descriptionKey": "image.taichungExportZoneMicroscopes1971.description",
+              "sourceKey": "image.taichungExportZoneMicroscopes1971.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/taichungExportZoneMicroscopes1971.jpg"
             },
             {
-              "iconName": "shield.lefthalf.filled",
-              "narrativeKey": "perspective.zhongli.police.narrative",
-              "table": "Volumes",
-              "voiceLabelKey": "perspective.zhongli.police.label"
-            },
-            {
-              "iconName": "building.columns",
-              "narrativeKey": "perspective.zhongli.party.narrative",
-              "table": "Volumes",
-              "voiceLabelKey": "perspective.zhongli.party.label"
+              "descriptionKey": "image.nanziYamahaFactory1971.description",
+              "sourceKey": "image.nanziYamahaFactory1971.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/silentIsland/nanziYamahaFactory1971.jpg"
             }
           ],
-          "titleKey": "volume.silentIsland.zhongliIncident.title"
+          "key": "silentIsland.cijinFerry",
+          "location": {
+            "x": -119,
+            "y": 178
+          },
+          "locationNameKey": "高雄旗津",
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.cijinFerry.zone.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.cijinFerry.zone.label"
+            },
+            {
+              "iconName": "figure.stand.dress",
+              "narrativeKey": "perspective.cijinFerry.workers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.cijinFerry.workers.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.cijinFerry.families.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.cijinFerry.families.label"
+            },
+            {
+              "iconName": "scroll",
+              "narrativeKey": "perspective.cijinFerry.city.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.cijinFerry.city.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.cijinFerry.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/economicTransformation.png",
@@ -5220,6 +5389,38 @@
             }
           ],
           "titleKey": "volume.silentIsland.culturalControl.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/zhongliIncident.png",
+          "descriptionKey": "volume.silentIsland.zhongliIncident.description",
+          "images": [],
+          "key": "silentIsland.zhongliIncident",
+          "location": {
+            "x": 37.1,
+            "y": -237.1
+          },
+          "locationNameKey": "桃園中壢",
+          "perspectives": [
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.zhongli.crowd.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.zhongli.crowd.label"
+            },
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.zhongli.police.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.zhongli.police.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.zhongli.party.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.zhongli.party.label"
+            }
+          ],
+          "titleKey": "volume.silentIsland.zhongliIncident.title"
         }
       ]
     },
