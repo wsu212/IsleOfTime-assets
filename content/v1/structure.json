@@ -5446,6 +5446,50 @@
           "titleKey": "volume.breakingTheSilence.lanyuNuclearWaste.title"
         },
         {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/taiwanNewCinema.png",
+          "descriptionKey": "volume.breakingTheSilence.taiwanNewCinema.description",
+          "images": [
+            {
+              "descriptionKey": "image.houHsiaoHsienVenice1989.description",
+              "sourceKey": "image.houHsiaoHsienVenice1989.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/houHsiaoHsienVenice1989.jpg"
+            }
+          ],
+          "key": "breakingTheSilence.taiwanNewCinema",
+          "location": {
+            "x": 138,
+            "y": -265
+          },
+          "locationNameKey": "新北九份",
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.newCinema.cmpc.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.newCinema.cmpc.label"
+            },
+            {
+              "iconName": "newspaper",
+              "narrativeKey": "perspective.newCinema.reporter.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.newCinema.reporter.label"
+            },
+            {
+              "iconName": "eye",
+              "narrativeKey": "perspective.newCinema.censors.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.newCinema.censors.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.newCinema.filmmakers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.newCinema.filmmakers.label"
+            }
+          ],
+          "titleKey": "volume.breakingTheSilence.taiwanNewCinema.title"
+        },
+        {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/jiangNanIncident.png",
           "descriptionKey": "volume.breakingTheSilence.jiangNanIncident.description",
           "images": [],
@@ -5614,6 +5658,104 @@
             }
           ],
           "titleKey": "volume.breakingTheSilence.socialMovements.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/returnOurLand.png",
+          "descriptionKey": "volume.breakingTheSilence.returnOurLand.description",
+          "images": [
+            {
+              "descriptionKey": "image.ketagalanIndigenousTents2017.description",
+              "sourceKey": "image.ketagalanIndigenousTents2017.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/ketagalanIndigenousTents2017.jpg"
+            },
+            {
+              "descriptionKey": "image.panaiKusuiProtest2019.description",
+              "sourceKey": "image.panaiKusuiProtest2019.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/panaiKusuiProtest2019.jpg"
+            }
+          ],
+          "key": "breakingTheSilence.returnOurLand",
+          "location": {
+            "x": 88,
+            "y": -251
+          },
+          "locationNameKey": "台北",
+          "perspectives": [
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.indigenousRights.alliance.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.indigenousRights.alliance.label"
+            },
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.indigenousRights.courts.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.indigenousRights.courts.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.indigenousRights.tsou.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.indigenousRights.tsou.label"
+            },
+            {
+              "iconName": "scroll",
+              "narrativeKey": "perspective.indigenousRights.nationalAssembly.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.indigenousRights.nationalAssembly.label"
+            }
+          ],
+          "titleKey": "volume.breakingTheSilence.returnOurLand.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/houjinNaphthaCracker.png",
+          "descriptionKey": "volume.breakingTheSilence.houjinNaphthaCracker.description",
+          "images": [
+            {
+              "descriptionKey": "image.sixthNavalFuelDepotOffice.description",
+              "sourceKey": "image.sixthNavalFuelDepotOffice.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/sixthNavalFuelDepotOffice.jpg"
+            },
+            {
+              "descriptionKey": "image.kaohsiungRefinery2009.description",
+              "sourceKey": "image.kaohsiungRefinery2009.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/kaohsiungRefinery2009.jpg"
+            }
+          ],
+          "key": "breakingTheSilence.houjinNaphthaCracker",
+          "location": {
+            "x": -108,
+            "y": 156
+          },
+          "locationNameKey": "高雄後勁",
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.houjin.executive.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.houjin.executive.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.houjin.residents.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.houjin.residents.label"
+            },
+            {
+              "iconName": "megaphone",
+              "narrativeKey": "perspective.houjin.liuYungling.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.houjin.liuYungling.label"
+            },
+            {
+              "iconName": "magnifyingglass",
+              "narrativeKey": "perspective.houjin.investigators.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.houjin.investigators.label"
+            }
+          ],
+          "titleKey": "volume.breakingTheSilence.houjinNaphthaCracker.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/yilanNaphthaRefusal.png",
@@ -5918,6 +6060,55 @@
             }
           ],
           "titleKey": "volume.breakingTheSilence.article100Movement.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/nationalHealthInsurance.png",
+          "descriptionKey": "volume.breakingTheSilence.nationalHealthInsurance.description",
+          "images": [
+            {
+              "descriptionKey": "image.nhiPaperCard.description",
+              "sourceKey": "image.nhiPaperCard.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/nhiPaperCard.jpg"
+            },
+            {
+              "descriptionKey": "image.nhiBureauHeadquarters2012.description",
+              "sourceKey": "image.nhiBureauHeadquarters2012.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/nhiBureauHeadquarters2012.jpg"
+            }
+          ],
+          "key": "breakingTheSilence.nationalHealthInsurance",
+          "location": {
+            "x": 88,
+            "y": -251
+          },
+          "locationNameKey": "台北",
+          "perspectives": [
+            {
+              "iconName": "building.columns",
+              "narrativeKey": "perspective.nationalHealthInsurance.bureau.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.nationalHealthInsurance.bureau.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.nationalHealthInsurance.uninsured.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.nationalHealthInsurance.uninsured.label"
+            },
+            {
+              "iconName": "cross.case",
+              "narrativeKey": "perspective.nationalHealthInsurance.clinics.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.nationalHealthInsurance.clinics.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.nationalHealthInsurance.payers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.nationalHealthInsurance.payers.label"
+            }
+          ],
+          "titleKey": "volume.breakingTheSilence.nationalHealthInsurance.title"
         },
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/firstPresidentialDirectElection.png",
