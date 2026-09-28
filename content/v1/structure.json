@@ -4430,6 +4430,55 @@
             }
           ],
           "titleKey": "volume.lightAndShadow.usPerspectives.title"
+        },
+        {
+          "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/year1949.png",
+          "descriptionKey": "volume.lightAndShadow.year1949.description",
+          "images": [
+            {
+              "descriptionKey": "image.martialLawProclamation1949.description",
+              "sourceKey": "image.martialLawProclamation1949.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/martialLawProclamation1949.jpg"
+            },
+            {
+              "descriptionKey": "image.oldTaiwanDollar10000.description",
+              "sourceKey": "image.oldTaiwanDollar10000.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/oldTaiwanDollar10000.jpg"
+            }
+          ],
+          "key": "lightAndShadow.year1949",
+          "location": {
+            "x": 122.1,
+            "y": -269.5
+          },
+          "locationNameKey": "基隆港",
+          "perspectives": [
+            {
+              "iconName": "shield.lefthalf.filled",
+              "narrativeKey": "perspective.year1949.garrison.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.year1949.garrison.label"
+            },
+            {
+              "iconName": "person.3",
+              "narrativeKey": "perspective.year1949.normalCollege.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.year1949.normalCollege.label"
+            },
+            {
+              "iconName": "house",
+              "narrativeKey": "perspective.year1949.arrivals.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.year1949.arrivals.label"
+            },
+            {
+              "iconName": "banknote",
+              "narrativeKey": "perspective.year1949.shopkeepers.narrative",
+              "table": "Volumes",
+              "voiceLabelKey": "perspective.year1949.shopkeepers.label"
+            }
+          ],
+          "titleKey": "volume.lightAndShadow.year1949.title"
         }
       ]
     },
