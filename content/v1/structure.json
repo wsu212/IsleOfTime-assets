@@ -6045,7 +6045,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/february28Redress.png",
           "descriptionKey": "volume.breakingTheSilence.february28Redress.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.leeTenghuiApology1995.description",
+              "sourceKey": "image.leeTenghuiApology1995.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/leeTenghuiApology1995.jpg"
+            },
+            {
+              "descriptionKey": "image.taipei228Monument2014.description",
+              "sourceKey": "image.taipei228Monument2014.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/taipei228Monument2014.jpg"
+            }
+          ],
           "key": "breakingTheSilence.february28Redress",
           "location": {
             "x": 85,
@@ -6083,7 +6094,18 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/chengNanjungSelfImmolation.png",
           "descriptionKey": "volume.breakingTheSilence.chengNanjungSelfImmolation.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.freedomEraEditorOffice2026.description",
+              "sourceKey": "image.freedomEraEditorOffice2026.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/freedomEraEditorOffice2026.jpg"
+            },
+            {
+              "descriptionKey": "image.freedomEraIssuesWall2023.description",
+              "sourceKey": "image.freedomEraIssuesWall2023.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/freedomEraIssuesWall2023.jpg"
+            }
+          ],
           "key": "breakingTheSilence.chengNanjungSelfImmolation",
           "location": {
             "x": 89.1,
