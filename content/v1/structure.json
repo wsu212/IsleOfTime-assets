@@ -11260,6 +11260,35 @@
   ],
   "milestones": [
     {
+      "acts": [
+        {
+          "bodyKey": "eraAct.dutchAndSpanish.1.body",
+          "firstVolumeKey": "seaAndFortress.penghuOccupation",
+          "period": {
+            "end": "1629",
+            "start": "1622"
+          },
+          "titleKey": "eraAct.dutchAndSpanish.1.title"
+        },
+        {
+          "bodyKey": "eraAct.dutchAndSpanish.2.body",
+          "firstVolumeKey": "seaAndFortress.indigenousEncounters",
+          "period": {
+            "end": "1650",
+            "start": "1629"
+          },
+          "titleKey": "eraAct.dutchAndSpanish.2.title"
+        },
+        {
+          "bodyKey": "eraAct.dutchAndSpanish.3.body",
+          "firstVolumeKey": "seaAndFortress.fallOfSanSalvador",
+          "period": {
+            "end": "1662",
+            "start": "1642"
+          },
+          "titleKey": "eraAct.dutchAndSpanish.3.title"
+        }
+      ],
       "period": {
         "end": "1662",
         "start": "1624"
@@ -11271,6 +11300,35 @@
       "titleKey": "milestone.dutchAndSpanish.title"
     },
     {
+      "acts": [
+        {
+          "bodyKey": "eraAct.tungningKingdom.1.body",
+          "firstVolumeKey": "tungningDynasty.koxingaKingdom",
+          "period": {
+            "end": "1664",
+            "start": "1661"
+          },
+          "titleKey": "eraAct.tungningKingdom.1.title"
+        },
+        {
+          "bodyKey": "eraAct.tungningKingdom.2.body",
+          "firstVolumeKey": "tungningDynasty.zhengJingReforms",
+          "period": {
+            "end": "1673",
+            "start": "1664"
+          },
+          "titleKey": "eraAct.tungningKingdom.2.title"
+        },
+        {
+          "bodyKey": "eraAct.tungningKingdom.3.body",
+          "firstVolumeKey": "tungningDynasty.zhengJingsWestwardCampaign",
+          "period": {
+            "end": "1683",
+            "start": "1674"
+          },
+          "titleKey": "eraAct.tungningKingdom.3.title"
+        }
+      ],
       "period": {
         "end": "1683",
         "start": "1662"
@@ -11282,6 +11340,53 @@
       "titleKey": "milestone.tungningKingdom.title"
     },
     {
+      "acts": [
+        {
+          "bodyKey": "eraAct.qingDynasty.1.body",
+          "firstVolumeKey": "imperialFrontier.qingIncorporation",
+          "period": {
+            "end": "1765",
+            "start": "1683"
+          },
+          "titleKey": "eraAct.qingDynasty.1.title"
+        },
+        {
+          "bodyKey": "eraAct.qingDynasty.2.body",
+          "firstVolumeKey": "imperialFrontier.zhuYiguiRebellion",
+          "period": {
+            "end": "1812",
+            "start": "1721"
+          },
+          "titleKey": "eraAct.qingDynasty.2.title"
+        },
+        {
+          "bodyKey": "eraAct.qingDynasty.3.body",
+          "firstVolumeKey": "imperialFrontier.kingOfTheBlackFlag",
+          "period": {
+            "end": "1860",
+            "start": "1800"
+          },
+          "titleKey": "eraAct.qingDynasty.3.title"
+        },
+        {
+          "bodyKey": "eraAct.qingDynasty.4.body",
+          "firstVolumeKey": "imperialFrontier.openingOfPorts",
+          "period": {
+            "end": "1874",
+            "start": "1858"
+          },
+          "titleKey": "eraAct.qingDynasty.4.title"
+        },
+        {
+          "bodyKey": "eraAct.qingDynasty.5.body",
+          "firstVolumeKey": "imperialFrontier.openingTheMountains",
+          "period": {
+            "end": "1895",
+            "start": "1874"
+          },
+          "titleKey": "eraAct.qingDynasty.5.title"
+        }
+      ],
       "period": {
         "end": "1895",
         "start": "1683"
@@ -11293,6 +11398,44 @@
       "titleKey": "milestone.qingDynasty.title"
     },
     {
+      "acts": [
+        {
+          "bodyKey": "eraAct.japaneseColonial.1.body",
+          "firstVolumeKey": "underTheRisingSun.treatyOfShimonoseki",
+          "period": {
+            "end": "1902",
+            "start": "1895"
+          },
+          "titleKey": "eraAct.japaneseColonial.1.title"
+        },
+        {
+          "bodyKey": "eraAct.japaneseColonial.2.body",
+          "firstVolumeKey": "underTheRisingSun.opiumWar",
+          "period": {
+            "end": "1930",
+            "start": "1898"
+          },
+          "titleKey": "eraAct.japaneseColonial.2.title"
+        },
+        {
+          "bodyKey": "eraAct.japaneseColonial.3.body",
+          "firstVolumeKey": "underTheRisingSun.taiwanParliamentPetition",
+          "period": {
+            "end": "1936",
+            "start": "1920"
+          },
+          "titleKey": "eraAct.japaneseColonial.3.title"
+        },
+        {
+          "bodyKey": "eraAct.japaneseColonial.4.body",
+          "firstVolumeKey": "underTheRisingSun.kominka",
+          "period": {
+            "end": "1945",
+            "start": "1937"
+          },
+          "titleKey": "eraAct.japaneseColonial.4.title"
+        }
+      ],
       "period": {
         "end": "1945",
         "start": "1895"
@@ -11306,6 +11449,35 @@
       "titleKey": "milestone.japaneseColonial.title"
     },
     {
+      "acts": [
+        {
+          "bodyKey": "eraAct.postWarTransition.1.body",
+          "firstVolumeKey": "lightAndShadow.cairoToTaipeiTreaty",
+          "period": {
+            "end": "1946",
+            "start": "1943"
+          },
+          "titleKey": "eraAct.postWarTransition.1.title"
+        },
+        {
+          "bodyKey": "eraAct.postWarTransition.2.body",
+          "firstVolumeKey": "lightAndShadow.economicCrisis",
+          "period": {
+            "end": "1947",
+            "start": "1946"
+          },
+          "titleKey": "eraAct.postWarTransition.2.title"
+        },
+        {
+          "bodyKey": "eraAct.postWarTransition.3.body",
+          "firstVolumeKey": "lightAndShadow.penghuJuly13Incident",
+          "period": {
+            "end": "1949",
+            "start": "1947"
+          },
+          "titleKey": "eraAct.postWarTransition.3.title"
+        }
+      ],
       "period": {
         "end": "1949",
         "start": "1945"
@@ -11317,6 +11489,44 @@
       "titleKey": "milestone.postWarTransition.title"
     },
     {
+      "acts": [
+        {
+          "bodyKey": "eraAct.authoritarianEra.1.body",
+          "firstVolumeKey": "silentIsland.coldWarAndUSAid",
+          "period": {
+            "end": "1955",
+            "start": "1949"
+          },
+          "titleKey": "eraAct.authoritarianEra.1.title"
+        },
+        {
+          "bodyKey": "eraAct.authoritarianEra.2.body",
+          "firstVolumeKey": "silentIsland.kinmenArtilleryBattle",
+          "period": {
+            "end": "1964",
+            "start": "1956"
+          },
+          "titleKey": "eraAct.authoritarianEra.2.title"
+        },
+        {
+          "bodyKey": "eraAct.authoritarianEra.3.body",
+          "firstVolumeKey": "silentIsland.redLeafLittleLeague",
+          "period": {
+            "end": "1971",
+            "start": "1967"
+          },
+          "titleKey": "eraAct.authoritarianEra.3.title"
+        },
+        {
+          "bodyKey": "eraAct.authoritarianEra.4.body",
+          "firstVolumeKey": "silentIsland.cijinFerry",
+          "period": {
+            "end": "1979",
+            "start": "1966"
+          },
+          "titleKey": "eraAct.authoritarianEra.4.title"
+        }
+      ],
       "period": {
         "end": "1979",
         "start": "1950"
@@ -11330,6 +11540,44 @@
       "titleKey": "milestone.authoritarianEra.title"
     },
     {
+      "acts": [
+        {
+          "bodyKey": "eraAct.democraticTransition.1.body",
+          "firstVolumeKey": "breakingTheSilence.dangwaiMovement",
+          "period": {
+            "end": "1985",
+            "start": "1979"
+          },
+          "titleKey": "eraAct.democraticTransition.1.title"
+        },
+        {
+          "bodyKey": "eraAct.democraticTransition.2.body",
+          "firstVolumeKey": "breakingTheSilence.oppositionPartyFormation",
+          "period": {
+            "end": "1989",
+            "start": "1986"
+          },
+          "titleKey": "eraAct.democraticTransition.2.title"
+        },
+        {
+          "bodyKey": "eraAct.democraticTransition.3.body",
+          "firstVolumeKey": "breakingTheSilence.leeTenghuiSuccession",
+          "period": {
+            "end": "1992",
+            "start": "1988"
+          },
+          "titleKey": "eraAct.democraticTransition.3.title"
+        },
+        {
+          "bodyKey": "eraAct.democraticTransition.4.body",
+          "firstVolumeKey": "breakingTheSilence.nationalHealthInsurance",
+          "period": {
+            "end": "1999",
+            "start": "1995"
+          },
+          "titleKey": "eraAct.democraticTransition.4.title"
+        }
+      ],
       "period": {
         "end": "1999",
         "start": "1980"
@@ -11342,6 +11590,34 @@
       "titleKey": "milestone.democraticTransition.title"
     },
     {
+      "acts": [
+        {
+          "bodyKey": "eraAct.modernTaiwan.1.body",
+          "firstVolumeKey": "newFormosa.firstPartyTurnover",
+          "period": {
+            "end": "2008",
+            "start": "2000"
+          },
+          "titleKey": "eraAct.modernTaiwan.1.title"
+        },
+        {
+          "bodyKey": "eraAct.modernTaiwan.2.body",
+          "firstVolumeKey": "newFormosa.morakotTyphoon",
+          "period": {
+            "end": "2016",
+            "start": "2009"
+          },
+          "titleKey": "eraAct.modernTaiwan.2.title"
+        },
+        {
+          "bodyKey": "eraAct.modernTaiwan.3.body",
+          "firstVolumeKey": "newFormosa.sameSexMarriageLegalization",
+          "period": {
+            "start": "2016"
+          },
+          "titleKey": "eraAct.modernTaiwan.3.title"
+        }
+      ],
       "period": {
         "start": "2000"
       },
