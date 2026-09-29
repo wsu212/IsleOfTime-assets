@@ -5736,6 +5736,16 @@
               "descriptionKey": "image.dppFoundingGrandHotel.description",
               "sourceKey": "image.dppFoundingGrandHotel.source",
               "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/postWarTransition/lightAndShadow/dppFoundingGrandHotel.png"
+            },
+            {
+              "descriptionKey": "image.grandHotelTaipei2014.description",
+              "sourceKey": "image.grandHotelTaipei2014.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/grandHotelTaipei2014.jpg"
+            },
+            {
+              "descriptionKey": "image.dangwaiMagazinesWall.description",
+              "sourceKey": "image.dangwaiMagazinesWall.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/dangwaiMagazinesWall.jpg"
             }
           ],
           "key": "breakingTheSilence.oppositionPartyFormation",
@@ -5780,6 +5790,16 @@
               "descriptionKey": "image.julyFifteenthNewspaperFrontPage.description",
               "sourceKey": "image.julyFifteenthNewspaperFrontPage.source",
               "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/postWarTransition/lightAndShadow/julyFifteenthNewspaperFrontPage.png"
+            },
+            {
+              "descriptionKey": "image.martialLawOrder1949.description",
+              "sourceKey": "image.martialLawOrder1949.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/martialLawOrder1949.jpg"
+            },
+            {
+              "descriptionKey": "image.ctvMartialLawBulletin1987.description",
+              "sourceKey": "image.ctvMartialLawBulletin1987.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/ctvMartialLawBulletin1987.jpg"
             }
           ],
           "key": "breakingTheSilence.liftingMartialLaw",
@@ -5865,14 +5885,19 @@
           "descriptionKey": "volume.breakingTheSilence.returnOurLand.description",
           "images": [
             {
-              "descriptionKey": "image.ketagalanIndigenousTents2017.description",
-              "sourceKey": "image.ketagalanIndigenousTents2017.source",
-              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/ketagalanIndigenousTents2017.jpg"
+              "descriptionKey": "image.wuFengFilmStill1962.description",
+              "sourceKey": "image.wuFengFilmStill1962.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/wuFengFilmStill1962.jpg"
             },
             {
-              "descriptionKey": "image.panaiKusuiProtest2019.description",
-              "sourceKey": "image.panaiKusuiProtest2019.source",
-              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/panaiKusuiProtest2019.jpg"
+              "descriptionKey": "image.wuFengTemplePainting.description",
+              "sourceKey": "image.wuFengTemplePainting.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/wuFengTemplePainting.jpg"
+            },
+            {
+              "descriptionKey": "image.kimboHu2014.description",
+              "sourceKey": "image.kimboHu2014.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/kimboHu2014.jpg"
             }
           ],
           "key": "breakingTheSilence.returnOurLand",
@@ -5961,7 +5986,28 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/yilanNaphthaRefusal.png",
           "descriptionKey": "volume.breakingTheSilence.yilanNaphthaRefusal.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.chenDingnanPortrait.description",
+              "sourceKey": "image.chenDingnanPortrait.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/chenDingnanPortrait.jpg"
+            },
+            {
+              "descriptionKey": "image.wangYungching1966.description",
+              "sourceKey": "image.wangYungching1966.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/wangYungching1966.jpg"
+            },
+            {
+              "descriptionKey": "image.lizeIndustrialPark.description",
+              "sourceKey": "image.lizeIndustrialPark.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/lizeIndustrialPark.jpg"
+            },
+            {
+              "descriptionKey": "image.dongshanRiverInspection1990.description",
+              "sourceKey": "image.dongshanRiverInspection1990.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/breakingTheSilence/dongshanRiverInspection1990.jpg"
+            }
+          ],
           "key": "breakingTheSilence.yilanNaphthaRefusal",
           "location": {
             "x": 135.3,
