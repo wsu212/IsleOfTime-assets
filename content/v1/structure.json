@@ -22,8 +22,8 @@
           ],
           "key": "seaAndFortress.dongfanji",
           "location": {
-            "x": -120,
-            "y": 85
+            "x": -138.52,
+            "y": 104.76
           },
           "locationNameKey": "台南安平",
           "perspectives": [
@@ -115,8 +115,8 @@
           ],
           "key": "seaAndFortress.dutchArrival",
           "location": {
-            "x": -146.5,
-            "y": 98
+            "x": -138.52,
+            "y": 104.76
           },
           "locationNameKey": "台南安平",
           "perspectives": [],
@@ -173,8 +173,8 @@
           ],
           "key": "seaAndFortress.spanishNorthernTaiwan",
           "location": {
-            "x": 125,
-            "y": -270
+            "x": 126.06,
+            "y": -273
           },
           "locationNameKey": "基隆和平島",
           "perspectives": [],
@@ -197,8 +197,8 @@
           ],
           "key": "seaAndFortress.hamadaIncident",
           "location": {
-            "x": -150,
-            "y": 90
+            "x": -138.52,
+            "y": 104.76
           },
           "locationNameKey": "台南安平",
           "perspectives": [],
@@ -476,8 +476,8 @@
           ],
           "key": "seaAndFortress.fallOfSanSalvador",
           "location": {
-            "x": 125,
-            "y": -270
+            "x": 126.06,
+            "y": -273
           },
           "locationNameKey": "基隆和平島",
           "perspectives": [
@@ -514,8 +514,8 @@
           "images": [],
           "key": "seaAndFortress.farmerUprising",
           "location": {
-            "x": -127,
-            "y": 95
+            "x": -131.59,
+            "y": 105.44
           },
           "locationNameKey": "台南赤崁",
           "perspectives": [],
@@ -527,8 +527,8 @@
           "images": [],
           "key": "seaAndFortress.heTingbinMap",
           "location": {
-            "x": -135,
-            "y": 100
+            "x": -138.52,
+            "y": 104.76
           },
           "locationNameKey": "台南安平",
           "perspectives": [],
@@ -556,8 +556,8 @@
           ],
           "key": "seaAndFortress.koxingaSiege",
           "location": {
-            "x": -135,
-            "y": 112
+            "x": -138.52,
+            "y": 104.76
           },
           "locationNameKey": "台南安平",
           "perspectives": [],
@@ -592,8 +592,8 @@
           ],
           "key": "tungningDynasty.koxingaKingdom",
           "location": {
-            "x": -130,
-            "y": 103
+            "x": -130.85,
+            "y": 107.1
           },
           "locationNameKey": "台南延平郡王祠",
           "perspectives": [],
@@ -640,8 +640,8 @@
           ],
           "key": "tungningDynasty.zhengJingsEasternConquest",
           "location": {
-            "x": -126,
-            "y": 100
+            "x": -131.59,
+            "y": 105.44
           },
           "locationNameKey": "台南",
           "perspectives": [],
@@ -669,8 +669,8 @@
           ],
           "key": "tungningDynasty.zhengJingReforms",
           "location": {
-            "x": -125,
-            "y": 107.5
+            "x": -131.34,
+            "y": 106.66
           },
           "locationNameKey": "台南孔廟",
           "perspectives": [],
@@ -688,8 +688,8 @@
           ],
           "key": "tungningDynasty.chenYonghuasBlueprintForTaiwan",
           "location": {
-            "x": -123,
-            "y": 111
+            "x": -131.34,
+            "y": 106.66
           },
           "locationNameKey": "台南孔廟",
           "perspectives": [],
@@ -717,8 +717,8 @@
           ],
           "key": "tungningDynasty.dutchReturnToKeelung",
           "location": {
-            "x": 125,
-            "y": -270
+            "x": 126.06,
+            "y": -273
           },
           "locationNameKey": "基隆和平島",
           "perspectives": [
@@ -766,8 +766,8 @@
           ],
           "key": "tungningDynasty.hanSettlement",
           "location": {
-            "x": -92,
-            "y": -76
+            "x": -93.22,
+            "y": -79.97
           },
           "locationNameKey": "彰化鹿港",
           "perspectives": [],
@@ -843,8 +843,8 @@
           ],
           "key": "tungningDynasty.zhengJingsWestwardCampaign",
           "location": {
-            "x": -130,
-            "y": 95
+            "x": -131.59,
+            "y": 105.44
           },
           "locationNameKey": "台南",
           "perspectives": [],
@@ -856,8 +856,8 @@
           "images": [],
           "key": "tungningDynasty.coupOfEasternNing1681",
           "location": {
-            "x": -133,
-            "y": 109
+            "x": -131.59,
+            "y": 105.44
           },
           "locationNameKey": "台南",
           "perspectives": [],
@@ -875,8 +875,8 @@
           ],
           "key": "tungningDynasty.twilightOfTheBoyKing",
           "location": {
-            "x": -122,
-            "y": 102
+            "x": -131.59,
+            "y": 105.44
           },
           "locationNameKey": "台南",
           "perspectives": [],
@@ -912,8 +912,8 @@
           ],
           "key": "tungningDynasty.mingDynastyLoyalistTragedy1683",
           "location": {
-            "x": -128,
-            "y": 113
+            "x": -130.71,
+            "y": 107.89
           },
           "locationNameKey": "台南五妃廟",
           "perspectives": [],
@@ -1040,8 +1040,8 @@
           ],
           "key": "imperialFrontier.luohanjiaoCrossing",
           "location": {
-            "x": -94,
-            "y": -79
+            "x": -93.22,
+            "y": -79.97
           },
           "locationNameKey": "彰化鹿港",
           "perspectives": [
@@ -1089,8 +1089,8 @@
           ],
           "key": "imperialFrontier.earlyQingRecords",
           "location": {
-            "x": -130,
-            "y": 108
+            "x": -131.59,
+            "y": 105.44
           },
           "locationNameKey": "台南",
           "perspectives": [],
@@ -1118,8 +1118,8 @@
           ],
           "key": "imperialFrontier.zhuqianCity",
           "location": {
-            "x": 5,
-            "y": -210
+            "x": -5.28,
+            "y": -210.7
           },
           "locationNameKey": "新竹",
           "perspectives": [],
@@ -1131,8 +1131,8 @@
           "images": [],
           "key": "imperialFrontier.babaoCanal",
           "location": {
-            "x": -70,
-            "y": -45
+            "x": -63.03,
+            "y": -36.75
           },
           "locationNameKey": "彰化二水",
           "perspectives": [
@@ -1169,8 +1169,8 @@
           "images": [],
           "key": "imperialFrontier.liugongCanal",
           "location": {
-            "x": 68,
-            "y": -258
+            "x": 89.26,
+            "y": -239.4
           },
           "locationNameKey": "新北新店",
           "perspectives": [],
@@ -1264,8 +1264,8 @@
           "images": [],
           "key": "imperialFrontier.dajiaxiUprising",
           "location": {
-            "x": -30,
-            "y": -95
+            "x": -62.2,
+            "y": -130.9
           },
           "locationNameKey": "台中大甲",
           "perspectives": [
@@ -1302,8 +1302,8 @@
           "images": [],
           "key": "imperialFrontier.indigenousLandContracts",
           "location": {
-            "x": -68,
-            "y": -108
+            "x": -46.53,
+            "y": -114.1
           },
           "locationNameKey": "台中豐原",
           "perspectives": [
@@ -1487,8 +1487,8 @@
           ],
           "key": "imperialFrontier.kavalanOpening",
           "location": {
-            "x": 110,
-            "y": -200
+            "x": 124.25,
+            "y": -202.47
           },
           "locationNameKey": "宜蘭",
           "perspectives": [
@@ -1538,8 +1538,8 @@
           "images": [],
           "key": "imperialFrontier.caogongCanal",
           "location": {
-            "x": -95,
-            "y": 185
+            "x": -106.1,
+            "y": 170.28
           },
           "locationNameKey": "高雄鳳山",
           "perspectives": [],
@@ -1551,8 +1551,8 @@
           "images": [],
           "key": "imperialFrontier.dazhongyeAndWanshan",
           "location": {
-            "x": -115,
-            "y": 108
+            "x": -131.59,
+            "y": 105.44
           },
           "locationNameKey": "台南",
           "perspectives": [],
@@ -1608,8 +1608,8 @@
           ],
           "key": "imperialFrontier.zhuqianLiterati",
           "location": {
-            "x": 10,
-            "y": -185
+            "x": -5.94,
+            "y": -211.05
           },
           "locationNameKey": "新竹潛園",
           "perspectives": [],
@@ -1621,8 +1621,8 @@
           "images": [],
           "key": "imperialFrontier.ethnicFeuds",
           "location": {
-            "x": 96,
-            "y": -248
+            "x": 82.48,
+            "y": -251.49
           },
           "locationNameKey": "艋舺",
           "perspectives": [
@@ -1670,8 +1670,8 @@
           ],
           "key": "imperialFrontier.openingOfPorts",
           "location": {
-            "x": -116,
-            "y": 171.5
+            "x": -121.11,
+            "y": 171.68
           },
           "locationNameKey": "高雄打狗",
           "perspectives": [
@@ -1724,8 +1724,8 @@
           ],
           "key": "imperialFrontier.foreignNaturalists",
           "location": {
-            "x": 72,
-            "y": -275
+            "x": 72.6,
+            "y": -274.75
           },
           "locationNameKey": "淡水",
           "perspectives": [],
@@ -1748,8 +1748,8 @@
           ],
           "key": "imperialFrontier.daiChaochunUprising",
           "location": {
-            "x": -76,
-            "y": -78
+            "x": -75.57,
+            "y": -84.17
           },
           "locationNameKey": "彰化",
           "perspectives": [
@@ -1786,8 +1786,8 @@
           "images": [],
           "key": "imperialFrontier.presbyterianMission",
           "location": {
-            "x": -120,
-            "y": 85
+            "x": -138.52,
+            "y": 104.76
           },
           "locationNameKey": "台南安平",
           "perspectives": [
@@ -1840,8 +1840,8 @@
           ],
           "key": "imperialFrontier.roverIncident",
           "location": {
-            "x": -30,
-            "y": 250
+            "x": -28.22,
+            "y": 287.35
           },
           "locationNameKey": "恆春南岬",
           "perspectives": [
@@ -2079,8 +2079,8 @@
           ],
           "key": "imperialFrontier.sinoFrenchWar",
           "location": {
-            "x": 118,
-            "y": -262
+            "x": 71.45,
+            "y": -276.15
           },
           "locationNameKey": "淡水",
           "perspectives": [
@@ -2117,8 +2117,8 @@
           "images": [],
           "key": "imperialFrontier.taiwanAsProvince",
           "location": {
-            "x": 80,
-            "y": -270
+            "x": 84.81,
+            "y": -252.7
           },
           "locationNameKey": "台北",
           "perspectives": [
@@ -2166,8 +2166,8 @@
           ],
           "key": "imperialFrontier.firstSteamLocomotive",
           "location": {
-            "x": 86,
-            "y": -258
+            "x": 84.15,
+            "y": -254.8
           },
           "locationNameKey": "台北大稻埕",
           "perspectives": [
@@ -2204,8 +2204,8 @@
           "images": [],
           "key": "imperialFrontier.lastQingElites",
           "location": {
-            "x": 91,
-            "y": -275
+            "x": 84.15,
+            "y": -254.8
           },
           "locationNameKey": "台北大稻埕",
           "perspectives": [],
@@ -2370,8 +2370,8 @@
           ],
           "key": "underTheRisingSun.gotoShinpei",
           "location": {
-            "x": 88,
-            "y": -251
+            "x": 84.46,
+            "y": -252.02
           },
           "locationNameKey": "台北",
           "perspectives": [
@@ -2473,8 +2473,8 @@
           ],
           "key": "underTheRisingSun.opiumWar",
           "location": {
-            "x": 94,
-            "y": -255
+            "x": 84.65,
+            "y": -256.02
           },
           "locationNameKey": "台北大同",
           "perspectives": [
@@ -2527,8 +2527,8 @@
           ],
           "key": "underTheRisingSun.modernInfrastructure",
           "location": {
-            "x": 92,
-            "y": -242
+            "x": 84.46,
+            "y": -252.02
           },
           "locationNameKey": "台北總督府",
           "perspectives": [],
@@ -2546,8 +2546,8 @@
           ],
           "key": "underTheRisingSun.worldsGreatestThief",
           "location": {
-            "x": 91,
-            "y": -265
+            "x": 84.65,
+            "y": -256.02
           },
           "locationNameKey": "台北大同",
           "perspectives": [
@@ -2692,8 +2692,8 @@
           ],
           "key": "underTheRisingSun.sunMoonLakeHydropower",
           "location": {
-            "x": 5,
-            "y": 8
+            "x": -13.86,
+            "y": -44.97
           },
           "locationNameKey": "南投日月潭",
           "perspectives": [
@@ -2854,8 +2854,8 @@
           ],
           "key": "underTheRisingSun.awakeningTaiwaneseSoul",
           "location": {
-            "x": 88,
-            "y": -270
+            "x": 84.15,
+            "y": -254.8
           },
           "locationNameKey": "台北大稻埕",
           "perspectives": [
@@ -2898,8 +2898,8 @@
           ],
           "key": "underTheRisingSun.keiseiIncident",
           "location": {
-            "x": 95,
-            "y": -260
+            "x": 84.81,
+            "y": -252.7
           },
           "locationNameKey": "台北",
           "perspectives": [
@@ -2952,8 +2952,8 @@
           ],
           "key": "underTheRisingSun.newLiteratureMovement",
           "location": {
-            "x": -76,
-            "y": -78
+            "x": -75.57,
+            "y": -84.17
           },
           "locationNameKey": "彰化",
           "perspectives": [
@@ -3001,8 +3001,8 @@
           ],
           "key": "underTheRisingSun.erlinIncident",
           "location": {
-            "x": -78,
-            "y": -54
+            "x": -103.29,
+            "y": -52.32
           },
           "locationNameKey": "彰化二林",
           "perspectives": [
@@ -3050,8 +3050,8 @@
           ],
           "key": "underTheRisingSun.horaiRice",
           "location": {
-            "x": 90.4,
-            "y": -272.1
+            "x": 89.69,
+            "y": -271.9
           },
           "locationNameKey": "台北陽明山",
           "perspectives": [
@@ -3104,8 +3104,8 @@
           ],
           "key": "underTheRisingSun.taiwanPeoplesParty",
           "location": {
-            "x": 88,
-            "y": -274
+            "x": 84.15,
+            "y": -254.8
           },
           "locationNameKey": "台北大稻埕",
           "perspectives": [
@@ -3158,8 +3158,8 @@
           ],
           "key": "underTheRisingSun.taitenArtExhibition",
           "location": {
-            "x": 93,
-            "y": -270
+            "x": 84.98,
+            "y": -250.6
           },
           "locationNameKey": "台北",
           "perspectives": [
@@ -3266,8 +3266,8 @@
           ],
           "key": "underTheRisingSun.kanoBaseball",
           "location": {
-            "x": -42,
-            "y": 35
+            "x": -89.1,
+            "y": 20.48
           },
           "locationNameKey": "嘉義",
           "perspectives": [
@@ -3353,8 +3353,8 @@
           ],
           "key": "underTheRisingSun.taiwanExposition1935",
           "location": {
-            "x": 82,
-            "y": -252
+            "x": 84.18,
+            "y": -252.51
           },
           "locationNameKey": "台北中山堂",
           "perspectives": [
@@ -3704,8 +3704,8 @@
           ],
           "key": "lightAndShadow.postWarOccupationAndTransfer",
           "location": {
-            "x": 82,
-            "y": -252
+            "x": 84.18,
+            "y": -252.51
           },
           "locationNameKey": "台北中山堂",
           "perspectives": [
@@ -3781,8 +3781,8 @@
           ],
           "key": "lightAndShadow.overseasTaiwaneseRepatriation",
           "location": {
-            "x": 120,
-            "y": -258
+            "x": 122.76,
+            "y": -268.45
           },
           "locationNameKey": "基隆港",
           "perspectives": [
@@ -4016,8 +4016,8 @@
           "images": [],
           "key": "lightAndShadow.keelungHarbourMassacre",
           "location": {
-            "x": 122.1,
-            "y": -269.5
+            "x": 122.76,
+            "y": -268.45
           },
           "locationNameKey": "基隆港",
           "perspectives": [
@@ -4060,8 +4060,8 @@
           ],
           "key": "lightAndShadow.twentySevenBrigade",
           "location": {
-            "x": -30,
-            "y": -110
+            "x": -52.14,
+            "y": -94.5
           },
           "locationNameKey": "台中",
           "perspectives": [
@@ -4228,8 +4228,8 @@
           ],
           "key": "lightAndShadow.chiangDiary",
           "location": {
-            "x": 89,
-            "y": -260
+            "x": 85.92,
+            "y": -253.1
           },
           "locationNameKey": "台北行政長官公署",
           "perspectives": [
@@ -4448,8 +4448,8 @@
           ],
           "key": "lightAndShadow.year1949",
           "location": {
-            "x": 122.1,
-            "y": -269.5
+            "x": 122.76,
+            "y": -268.45
           },
           "locationNameKey": "基隆港",
           "perspectives": [
@@ -4493,8 +4493,8 @@
           "images": [],
           "key": "silentIsland.coldWarAndUSAid",
           "location": {
-            "x": 100,
-            "y": -248
+            "x": 84.81,
+            "y": -252.7
           },
           "locationNameKey": "台北",
           "perspectives": [
@@ -4705,8 +4705,8 @@
           "images": [],
           "key": "silentIsland.intellectualDisillusionment",
           "location": {
-            "x": 115,
-            "y": -272
+            "x": 122.76,
+            "y": -268.45
           },
           "locationNameKey": "基隆",
           "perspectives": [
@@ -4830,8 +4830,8 @@
           ],
           "key": "silentIsland.dachenEvacuation",
           "location": {
-            "x": 122.1,
-            "y": -269.5
+            "x": 122.76,
+            "y": -268.45
           },
           "locationNameKey": "基隆港",
           "perspectives": [
@@ -4868,8 +4868,8 @@
           "images": [],
           "key": "silentIsland.militaryInternalPurge",
           "location": {
-            "x": -58,
-            "y": -98
+            "x": -52.14,
+            "y": -94.85
           },
           "locationNameKey": "台中",
           "perspectives": [
@@ -5072,8 +5072,8 @@
           "images": [],
           "key": "silentIsland.crossProvincialDemocracyAlliance",
           "location": {
-            "x": 99,
-            "y": -268
+            "x": 84.81,
+            "y": -252.7
           },
           "locationNameKey": "台北",
           "perspectives": [
@@ -5110,8 +5110,8 @@
           "images": [],
           "key": "silentIsland.institutionalIndependenceDeclaration",
           "location": {
-            "x": 101,
-            "y": -260
+            "x": 84.81,
+            "y": -252.7
           },
           "locationNameKey": "台北",
           "perspectives": [
@@ -5148,8 +5148,8 @@
           "images": [],
           "key": "silentIsland.redLeafLittleLeague",
           "location": {
-            "x": 17.3,
-            "y": 121.6
+            "x": 13.86,
+            "y": 122.15
           },
           "locationNameKey": "台東延平",
           "perspectives": [
@@ -5180,8 +5180,8 @@
           "images": [],
           "key": "silentIsland.nineYearCompulsoryEducation",
           "location": {
-            "x": 92,
-            "y": -248
+            "x": 84.81,
+            "y": -252.7
           },
           "locationNameKey": "台北",
           "perspectives": [
@@ -5244,8 +5244,8 @@
           "images": [],
           "key": "silentIsland.withdrawalFromUnitedNations",
           "location": {
-            "x": 88,
-            "y": -251
+            "x": 84.81,
+            "y": -252.7
           },
           "locationNameKey": "台北",
           "perspectives": [
@@ -5287,8 +5287,8 @@
           ],
           "key": "silentIsland.cijinFerry",
           "location": {
-            "x": -119,
-            "y": 178
+            "x": -120.61,
+            "y": 174.13
           },
           "locationNameKey": "高雄旗津",
           "perspectives": [
@@ -5446,8 +5446,8 @@
           ],
           "key": "breakingTheSilence.dangwaiMovement",
           "location": {
-            "x": -112,
-            "y": 166
+            "x": -115.17,
+            "y": 169.58
           },
           "locationNameKey": "高雄美麗島",
           "perspectives": [
@@ -5538,8 +5538,8 @@
           "images": [],
           "key": "breakingTheSilence.linFamilyMassacre",
           "location": {
-            "x": 87.45,
-            "y": -250.25
+            "x": 88.44,
+            "y": -250.77
           },
           "locationNameKey": "台北信義",
           "perspectives": [
@@ -5750,8 +5750,8 @@
           ],
           "key": "breakingTheSilence.oppositionPartyFormation",
           "location": {
-            "x": 78,
-            "y": -263
+            "x": 86.79,
+            "y": -258.74
           },
           "locationNameKey": "台北圓山",
           "perspectives": [
@@ -5804,8 +5804,8 @@
           ],
           "key": "breakingTheSilence.liftingMartialLaw",
           "location": {
-            "x": 98,
-            "y": -257
+            "x": 84.46,
+            "y": -252.02
           },
           "locationNameKey": "台北總統府",
           "perspectives": [
@@ -5848,8 +5848,8 @@
           ],
           "key": "breakingTheSilence.socialMovements",
           "location": {
-            "x": 91,
-            "y": -243
+            "x": 86.08,
+            "y": -251.05
           },
           "locationNameKey": "台北中正紀念堂",
           "perspectives": [
@@ -5902,8 +5902,8 @@
           ],
           "key": "breakingTheSilence.returnOurLand",
           "location": {
-            "x": 88,
-            "y": -251
+            "x": 84.81,
+            "y": -252.7
           },
           "locationNameKey": "台北",
           "perspectives": [
@@ -5951,8 +5951,8 @@
           ],
           "key": "breakingTheSilence.houjinNaphthaCracker",
           "location": {
-            "x": -108,
-            "y": 156
+            "x": -114.18,
+            "y": 154.7
           },
           "locationNameKey": "高雄後勁",
           "perspectives": [
@@ -6146,8 +6146,8 @@
           "images": [],
           "key": "breakingTheSilence.leeTenghuiSuccession",
           "location": {
-            "x": 98,
-            "y": -257
+            "x": 84.46,
+            "y": -252.02
           },
           "locationNameKey": "台北總統府",
           "perspectives": [
@@ -6184,8 +6184,8 @@
           "images": [],
           "key": "breakingTheSilence.wildLilyMovement",
           "location": {
-            "x": 93,
-            "y": -243
+            "x": 86.08,
+            "y": -251.05
           },
           "locationNameKey": "台北中正紀念堂",
           "perspectives": [
@@ -6222,8 +6222,8 @@
           "images": [],
           "key": "breakingTheSilence.endOfMobilizationPeriod",
           "location": {
-            "x": 90.4,
-            "y": -272.1
+            "x": 89.69,
+            "y": -271.9
           },
           "locationNameKey": "台北陽明山",
           "perspectives": [
@@ -6347,8 +6347,8 @@
           ],
           "key": "breakingTheSilence.nationalHealthInsurance",
           "location": {
-            "x": 88,
-            "y": -251
+            "x": 84.81,
+            "y": -252.7
           },
           "locationNameKey": "台北",
           "perspectives": [
@@ -6385,8 +6385,8 @@
           "images": [],
           "key": "breakingTheSilence.firstPresidentialDirectElection",
           "location": {
-            "x": 90,
-            "y": -254
+            "x": 84.46,
+            "y": -252.02
           },
           "locationNameKey": "台北總統府",
           "perspectives": [
@@ -6484,8 +6484,8 @@
           ],
           "key": "newFormosa.firstPartyTurnover",
           "location": {
-            "x": 86,
-            "y": -265
+            "x": 84.46,
+            "y": -252.02
           },
           "locationNameKey": "台北總統府",
           "perspectives": [
@@ -6934,8 +6934,8 @@
           ],
           "key": "newFormosa.palaceMuseumSouthernBranch",
           "location": {
-            "x": -110.55,
-            "y": 15.75
+            "x": -116.82,
+            "y": 22.75
           },
           "locationNameKey": "嘉義太保",
           "perspectives": [],
@@ -7012,8 +7012,8 @@
           ],
           "key": "newFormosa.sameSexMarriageLegalization",
           "location": {
-            "x": 84.98,
-            "y": -252
+            "x": 85.72,
+            "y": -252.72
           },
           "locationNameKey": "台北立法院",
           "perspectives": [
@@ -7169,8 +7169,8 @@
           ],
           "key": "newFormosa.siliconShield",
           "location": {
-            "x": 0.5,
-            "y": -205.5
+            "x": 0,
+            "y": -206.5
           },
           "locationNameKey": "新竹科學園區",
           "perspectives": [
@@ -7223,8 +7223,8 @@
           ],
           "key": "newFormosa.crossStraitRelations",
           "location": {
-            "x": 99,
-            "y": -254
+            "x": 85.72,
+            "y": -252.72
           },
           "locationNameKey": "台北立法院",
           "perspectives": [
