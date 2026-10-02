@@ -3738,6 +3738,11 @@
               "descriptionKey": "image.nationalityRestorationOrder.description",
               "sourceKey": "image.nationalityRestorationOrder.source",
               "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/postWarTransition/lightAndShadow/nationalityRestorationOrder.png"
+            },
+            {
+              "descriptionKey": "image.shibuya1945.description",
+              "sourceKey": "image.shibuya1945.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/shibuya1945.jpg"
             }
           ],
           "key": "lightAndShadow.shibuyaIncidentAndNationalityStatus",
@@ -3816,7 +3821,13 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/deJapanization.png",
           "descriptionKey": "volume.lightAndShadow.deJapanization.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.mandarinSchoolGraduates1947.description",
+              "sourceKey": "image.mandarinSchoolGraduates1947.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/mandarinSchoolGraduates1947.jpg"
+            }
+          ],
           "key": "lightAndShadow.deJapanization",
           "perspectives": [
             {
@@ -3980,6 +3991,21 @@
               "descriptionKey": "image.februaryIncidentMemorial.description",
               "sourceKey": "image.februaryIncidentMemorial.source",
               "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/postWarTransition/lightAndShadow/februaryIncidentMemorial.png"
+            },
+            {
+              "descriptionKey": "image.monopolyBureauCrowd1947.description",
+              "sourceKey": "image.monopolyBureauCrowd1947.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/monopolyBureauCrowd1947.jpg"
+            },
+            {
+              "descriptionKey": "image.monopolyBureauBurntCar1947.description",
+              "sourceKey": "image.monopolyBureauBurntCar1947.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/monopolyBureauBurntCar1947.jpg"
+            },
+            {
+              "descriptionKey": "image.settlementCommitteeCharter1947.description",
+              "sourceKey": "image.settlementCommitteeCharter1947.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/settlementCommitteeCharter1947.jpg"
             }
           ],
           "key": "lightAndShadow.februaryIncident",
@@ -4013,7 +4039,13 @@
         {
           "coverImageURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/volumes/keelungHarbourMassacre.png",
           "descriptionKey": "volume.lightAndShadow.keelungHarbourMassacre.description",
-          "images": [],
+          "images": [
+            {
+              "descriptionKey": "image.seventiethArmyKeelung1945.description",
+              "sourceKey": "image.seventiethArmyKeelung1945.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/seventiethArmyKeelung1945.jpg"
+            }
+          ],
           "key": "lightAndShadow.keelungHarbourMassacre",
           "location": {
             "x": 122.76,
@@ -4056,6 +4088,11 @@
               "descriptionKey": "image.hsiehHsuehhungPortrait.description",
               "sourceKey": "image.hsiehHsuehhungPortrait.source",
               "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/hsiehHsuehhungPortrait.jpg"
+            },
+            {
+              "descriptionKey": "image.taichuNormalSchoolPostcards.description",
+              "sourceKey": "image.taichuNormalSchoolPostcards.source",
+              "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/historical/lightAndShadow/taichuNormalSchoolPostcards.jpg"
             }
           ],
           "key": "lightAndShadow.twentySevenBrigade",
