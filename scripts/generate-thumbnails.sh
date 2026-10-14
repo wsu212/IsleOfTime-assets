@@ -17,7 +17,7 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 THUMB_SIZE=256
-SOURCE_DIRS=(volumes figures_v2)
+SOURCE_DIRS=(volumes figures_v2 landmarks)
 
 FORCE=0
 if [[ "${1:-}" == "--force" ]]; then
