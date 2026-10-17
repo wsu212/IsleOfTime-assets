@@ -2,10 +2,8 @@
 
 Copyright © 2026 Studio Aspen. All rights reserved.
 
-This repository holds the published content of the Isle of Time app and
-isleoftime.com. It is public so the app can download it. That does not make
-it open source, and no license is granted to copy, redistribute, modify, or
-use it commercially, except as stated below.
+The contents of this repository are not open source. No license is granted
+to copy, redistribute, modify, or use them commercially, except as stated below.
 
 ## Original content
 
@@ -47,8 +45,7 @@ isleoftime.app@gmail.com
 
 著作權所有 © 2026 澄境工作室（Studio Aspen），保留一切權利。
 
-這個 repo 存放《海上的島》App 與 isleoftime.com 的已發布內容。公開是為了讓
-App 能下載，不代表開放原始碼。除下列情形外，未授權任何人重製、散布、改作或
+本 repo 的內容不是開放原始碼。除下列情形外，未授權任何人重製、散布、改作或
 商業使用。
 
 **原創內容**：卷冊與人物誌文字、特刊、`content/` 裡的所有字串、封面、肖像、
