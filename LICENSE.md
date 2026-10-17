@@ -1,6 +1,6 @@
 # License / 授權聲明
 
-Copyright © 2026 Wei-lun Su. All rights reserved.
+Copyright © 2026 Studio Aspen. All rights reserved.
 
 This repository holds the published content of the Isle of Time app and
 isleoftime.com. It is public so the app can download it. That does not make
@@ -45,7 +45,7 @@ isleoftime.app@gmail.com
 
 ## 中文
 
-著作權所有 © 2026 Wei-lun Su，保留一切權利。
+著作權所有 © 2026 澄境工作室（Studio Aspen），保留一切權利。
 
 這個 repo 存放《海上的島》App 與 isleoftime.com 的已發布內容。公開是為了讓
 App 能下載，不代表開放原始碼。除下列情形外，未授權任何人重製、散布、改作或
