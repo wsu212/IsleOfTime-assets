@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "panels": [
+    {
+      "year": 2026,
+      "state": "open",
+      "heading": {
+        "zh-Hant": "開館贊助者",
+        "en": "Founding Supporters"
+      },
+      "fundedVolumeKeys": [],
+      "anonymousCount": 44,
+      "donors": [
+        {
+          "id": "6FC1D39C-B598-4E0D-ACC8-9FA0F371553B",
+          "name": "Yazmat"
+        }
+      ]
+    }
+  ]
+}
