@@ -29,8 +29,7 @@
         "style": "reading aloud a declaration from an old newspaper, each word clear and firm",
         "gap_before_ms": 500,
         "gap_after_ms": 700,
-        "cfg_scale": 1.0,
-        "filter": "highpass=f=250,lowpass=f=5000"
+        "cfg_scale": 1.0
       }
     },
     {
