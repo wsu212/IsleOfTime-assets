@@ -11943,41 +11943,54 @@
           "textKey": "issue.wuChangCheng.ch8.p7"
         },
         {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.wuChangCheng.ch9.blurb",
+            "headingKey": "issue.wuChangCheng.ch9.heading",
+            "numeralKey": "issue.wuChangCheng.ch9.numeral",
+            "yearsKey": "issue.wuChangCheng.ch9.years"
+          }
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.wuChangCheng.ch9.p1"
+        },
+        {
           "device": {
             "kind": "table",
             "table": {
-              "labelKey": "issue.wuChangCheng.ch8.table2.label",
-              "noteKey": "issue.wuChangCheng.ch8.table2.note",
+              "labelKey": "issue.wuChangCheng.ch9.table1.label",
+              "noteKey": "issue.wuChangCheng.ch9.table1.note",
               "rows": [
                 {
-                  "leadKey": "issue.wuChangCheng.ch8.table2.row1.lead",
-                  "textKey": "issue.wuChangCheng.ch8.table2.row1.text",
-                  "trailKey": "issue.wuChangCheng.ch8.table2.row1.trail"
+                  "leadKey": "issue.wuChangCheng.ch9.table1.row1.lead",
+                  "textKey": "issue.wuChangCheng.ch9.table1.row1.text",
+                  "trailKey": "issue.wuChangCheng.ch9.table1.row1.trail"
                 },
                 {
-                  "leadKey": "issue.wuChangCheng.ch8.table2.row2.lead",
-                  "textKey": "issue.wuChangCheng.ch8.table2.row2.text",
-                  "trailKey": "issue.wuChangCheng.ch8.table2.row2.trail"
+                  "leadKey": "issue.wuChangCheng.ch9.table1.row2.lead",
+                  "textKey": "issue.wuChangCheng.ch9.table1.row2.text",
+                  "trailKey": "issue.wuChangCheng.ch9.table1.row2.trail"
                 },
                 {
-                  "leadKey": "issue.wuChangCheng.ch8.table2.row3.lead",
-                  "textKey": "issue.wuChangCheng.ch8.table2.row3.text",
-                  "trailKey": "issue.wuChangCheng.ch8.table2.row3.trail"
+                  "leadKey": "issue.wuChangCheng.ch9.table1.row3.lead",
+                  "textKey": "issue.wuChangCheng.ch9.table1.row3.text",
+                  "trailKey": "issue.wuChangCheng.ch9.table1.row3.trail"
                 },
                 {
-                  "leadKey": "issue.wuChangCheng.ch8.table2.row4.lead",
-                  "textKey": "issue.wuChangCheng.ch8.table2.row4.text",
-                  "trailKey": "issue.wuChangCheng.ch8.table2.row4.trail"
+                  "leadKey": "issue.wuChangCheng.ch9.table1.row4.lead",
+                  "textKey": "issue.wuChangCheng.ch9.table1.row4.text",
+                  "trailKey": "issue.wuChangCheng.ch9.table1.row4.trail"
                 },
                 {
-                  "leadKey": "issue.wuChangCheng.ch8.table2.row5.lead",
-                  "textKey": "issue.wuChangCheng.ch8.table2.row5.text",
-                  "trailKey": "issue.wuChangCheng.ch8.table2.row5.trail"
+                  "leadKey": "issue.wuChangCheng.ch9.table1.row5.lead",
+                  "textKey": "issue.wuChangCheng.ch9.table1.row5.text",
+                  "trailKey": "issue.wuChangCheng.ch9.table1.row5.trail"
                 },
                 {
-                  "leadKey": "issue.wuChangCheng.ch8.table2.row6.lead",
-                  "textKey": "issue.wuChangCheng.ch8.table2.row6.text",
-                  "trailKey": "issue.wuChangCheng.ch8.table2.row6.trail"
+                  "leadKey": "issue.wuChangCheng.ch9.table1.row6.lead",
+                  "textKey": "issue.wuChangCheng.ch9.table1.row6.text",
+                  "trailKey": "issue.wuChangCheng.ch9.table1.row6.trail"
                 }
               ],
               "style": "ledger"
@@ -11987,18 +12000,18 @@
         },
         {
           "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch8.p8"
+          "textKey": "issue.wuChangCheng.ch9.p2"
         },
         {
           "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch8.p9"
+          "textKey": "issue.wuChangCheng.ch9.p3"
         },
         {
           "figure": {
             "aspect": 1.018728053062817,
-            "briefKey": "issue.wuChangCheng.ch8.fig1.brief",
-            "captionKey": "issue.wuChangCheng.ch8.fig1.caption",
-            "creditKey": "issue.wuChangCheng.ch8.fig1.credit",
+            "briefKey": "issue.wuChangCheng.ch9.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch9.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch9.fig1.credit",
             "showsFullFrame": false,
             "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/wang-chien-ming-2007.jpg",
             "weight": "standard"
@@ -12007,18 +12020,14 @@
         },
         {
           "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch8.p10"
-        },
-        {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch8.p11"
+          "textKey": "issue.wuChangCheng.ch9.p4"
         },
         {
           "figure": {
             "aspect": 1.4970059880239521,
-            "briefKey": "issue.wuChangCheng.ch8.fig2.brief",
-            "captionKey": "issue.wuChangCheng.ch8.fig2.caption",
-            "creditKey": "issue.wuChangCheng.ch8.fig2.credit",
+            "briefKey": "issue.wuChangCheng.ch9.fig2.brief",
+            "captionKey": "issue.wuChangCheng.ch9.fig2.caption",
+            "creditKey": "issue.wuChangCheng.ch9.fig2.credit",
             "showsFullFrame": false,
             "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/premier12-champions-2024.jpg",
             "weight": "plate"
@@ -12026,12 +12035,8 @@
           "kind": "figure"
         },
         {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch8.p12"
-        },
-        {
           "kind": "closing",
-          "textKey": "issue.wuChangCheng.ch8.p13"
+          "textKey": "issue.wuChangCheng.ch9.p5"
         }
       ],
       "bylineKey": "issue.wuChangCheng.byline",
