@@ -12040,6 +12040,12 @@
         }
       ],
       "bylineKey": "issue.wuChangCheng.byline",
+      "closingAudio": {
+        "captionKey": "issue.wuChangCheng.closingAudio.caption",
+        "creditKey": "issue.wuChangCheng.closingAudio.credit",
+        "duration": 20,
+        "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/cheer.mp3"
+      },
       "colophonNotes": [
         {
           "labelKey": "issue.wuChangCheng.note1.label",
@@ -12221,6 +12227,11 @@
           "titleKey": "issue.wuChangCheng.source23.title",
           "url": "https://www.worldjournal.com/wj/story/121617/9666014",
           "venueKey": "issue.wuChangCheng.source23.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source24.title",
+          "url": "https://commons.wikimedia.org/wiki/File:%E8%B6%85%E7%B4%9A%E6%99%83%E5%8B%95_%E4%B8%B9%E4%B8%B9_%E8%8C%83%E5%9C%8B%E5%AE%B8_%E6%87%89%E6%8F%B4~.webm",
+          "venueKey": "issue.wuChangCheng.source24.venue"
         }
       ],
       "standfirstFigure": {
