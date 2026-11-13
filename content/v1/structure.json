@@ -11466,12 +11466,8 @@
           "textKey": "issue.wuChangCheng.ch2.p3"
         },
         {
-          "kind": "caveat",
-          "textKey": "issue.wuChangCheng.ch2.p4"
-        },
-        {
           "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch2.p5"
+          "textKey": "issue.wuChangCheng.ch2.p4"
         },
         {
           "kind": "section",
@@ -11484,12 +11480,12 @@
         },
         {
           "figure": {
-            "aspect": 1.4782608695652173,
+            "aspect": 1.5892857142857142,
             "briefKey": "issue.wuChangCheng.ch3.fig1.brief",
             "captionKey": "issue.wuChangCheng.ch3.fig1.caption",
             "creditKey": "issue.wuChangCheng.ch3.fig1.credit",
             "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/chiayi-celebration-1933.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/kano-1931.jpg",
             "weight": "standard"
           },
           "kind": "figure"
@@ -11503,18 +11499,6 @@
           "textKey": "issue.wuChangCheng.ch3.p2"
         },
         {
-          "figure": {
-            "aspect": 1.5892857142857142,
-            "briefKey": "issue.wuChangCheng.ch3.fig2.brief",
-            "captionKey": "issue.wuChangCheng.ch3.fig2.caption",
-            "creditKey": "issue.wuChangCheng.ch3.fig2.credit",
-            "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/kano-1931.jpg",
-            "weight": "plate"
-          },
-          "kind": "figure"
-        },
-        {
           "kind": "caveat",
           "textKey": "issue.wuChangCheng.ch3.p3"
         },
@@ -11524,13 +11508,25 @@
         },
         {
           "figure": {
+            "aspect": 1.4782608695652173,
+            "briefKey": "issue.wuChangCheng.ch3.fig2.brief",
+            "captionKey": "issue.wuChangCheng.ch3.fig2.caption",
+            "creditKey": "issue.wuChangCheng.ch3.fig2.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/chiayi-celebration-1933.jpg",
+            "weight": "spot"
+          },
+          "kind": "figure"
+        },
+        {
+          "figure": {
             "aspect": 1.6666666666666667,
             "briefKey": "issue.wuChangCheng.ch3.fig3.brief",
             "captionKey": "issue.wuChangCheng.ch3.fig3.caption",
             "creditKey": "issue.wuChangCheng.ch3.fig3.credit",
             "showsFullFrame": false,
             "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/kano-1935.jpg",
-            "weight": "plate"
+            "weight": "standard"
           },
           "kind": "figure"
         },
@@ -11568,18 +11564,6 @@
           }
         },
         {
-          "kind": "opening",
-          "textKey": "issue.wuChangCheng.ch4.p1"
-        },
-        {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch4.p2"
-        },
-        {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch4.p3"
-        },
-        {
           "figure": {
             "aspect": 0.7995867768595041,
             "briefKey": "issue.wuChangCheng.ch4.fig1.brief",
@@ -11590,6 +11574,18 @@
             "weight": "spot"
           },
           "kind": "figure"
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.wuChangCheng.ch4.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch4.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch4.p3"
         },
         {
           "kind": "paragraph",
@@ -11604,10 +11600,6 @@
           "textKey": "issue.wuChangCheng.ch4.p6"
         },
         {
-          "kind": "caveat",
-          "textKey": "issue.wuChangCheng.ch4.p7"
-        },
-        {
           "kind": "section",
           "section": {
             "blurbKey": "issue.wuChangCheng.ch5.blurb",
@@ -11615,6 +11607,18 @@
             "numeralKey": "issue.wuChangCheng.ch5.numeral",
             "yearsKey": "issue.wuChangCheng.ch5.years"
           }
+        },
+        {
+          "figure": {
+            "aspect": 1.455511288180611,
+            "briefKey": "issue.wuChangCheng.ch5.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch5.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch5.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/hanshin-1944.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
         },
         {
           "kind": "opening",
@@ -11631,18 +11635,6 @@
         {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch5.p4"
-        },
-        {
-          "figure": {
-            "aspect": 1.455511288180611,
-            "briefKey": "issue.wuChangCheng.ch5.fig1.brief",
-            "captionKey": "issue.wuChangCheng.ch5.fig1.caption",
-            "creditKey": "issue.wuChangCheng.ch5.fig1.credit",
-            "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/hanshin-1944.jpg",
-            "weight": "plate"
-          },
-          "kind": "figure"
         },
         {
           "kind": "paragraph",
@@ -11682,10 +11674,6 @@
           }
         },
         {
-          "kind": "opening",
-          "textKey": "issue.wuChangCheng.ch6.p1"
-        },
-        {
           "figure": {
             "aspect": 0.6913092550790068,
             "briefKey": "issue.wuChangCheng.ch6.fig1.brief",
@@ -11696,6 +11684,10 @@
             "weight": "standard"
           },
           "kind": "figure"
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.wuChangCheng.ch6.p1"
         },
         {
           "kind": "paragraph",
@@ -11709,13 +11701,17 @@
             "creditKey": "issue.wuChangCheng.ch6.fig2.credit",
             "showsFullFrame": false,
             "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/fujimura-1948.jpg",
-            "weight": "standard"
+            "weight": "spot"
           },
           "kind": "figure"
         },
         {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch6.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch6.p4"
         },
         {
           "device": {
@@ -11752,10 +11748,6 @@
           "kind": "device"
         },
         {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch6.p4"
-        },
-        {
           "kind": "section",
           "section": {
             "blurbKey": "issue.wuChangCheng.ch7.blurb",
@@ -11763,6 +11755,18 @@
             "numeralKey": "issue.wuChangCheng.ch7.numeral",
             "yearsKey": "issue.wuChangCheng.ch7.years"
           }
+        },
+        {
+          "figure": {
+            "aspect": 0.6726893676164003,
+            "briefKey": "issue.wuChangCheng.ch7.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch7.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch7.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/doigaki-1950.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
         },
         {
           "kind": "opening",
@@ -11787,8 +11791,8 @@
         {
           "figure": {
             "aspect": 1.7777777777777777,
-            "briefKey": "issue.wuChangCheng.ch7.fig1.brief",
-            "captionKey": "issue.wuChangCheng.ch7.fig1.caption",
+            "briefKey": "issue.wuChangCheng.ch7.fig2.brief",
+            "captionKey": "issue.wuChangCheng.ch7.fig2.caption",
             "chart": {
               "kind": "spans",
               "spans": {
@@ -11798,28 +11802,28 @@
                 "rows": [
                   {
                     "first": 1931,
-                    "labelKey": "issue.wuChangCheng.ch7.fig1.row1",
+                    "labelKey": "issue.wuChangCheng.ch7.fig2.row1",
                     "last": 1936
                   },
                   {
                     "first": 1937,
-                    "labelKey": "issue.wuChangCheng.ch7.fig1.row2",
+                    "labelKey": "issue.wuChangCheng.ch7.fig2.row2",
                     "last": 1943
                   },
                   {
                     "first": 1944,
-                    "labelKey": "issue.wuChangCheng.ch7.fig1.row3",
+                    "labelKey": "issue.wuChangCheng.ch7.fig2.row3",
                     "last": 1949
                   },
                   {
                     "first": 1950,
-                    "labelKey": "issue.wuChangCheng.ch7.fig1.row4",
+                    "labelKey": "issue.wuChangCheng.ch7.fig2.row4",
                     "last": 1957
                   }
                 ]
               }
             },
-            "creditKey": "issue.wuChangCheng.ch7.fig1.credit",
+            "creditKey": "issue.wuChangCheng.ch7.fig2.credit",
             "showsFullFrame": false,
             "weight": "spot"
           },
@@ -11888,6 +11892,18 @@
           }
         },
         {
+          "figure": {
+            "aspect": 1.5003750937734435,
+            "briefKey": "issue.wuChangCheng.ch8.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch8.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch8.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/hall-of-fame-2022.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
           "kind": "opening",
           "textKey": "issue.wuChangCheng.ch8.p1"
         },
@@ -11927,11 +11943,11 @@
           "textKey": "issue.wuChangCheng.ch8.p3"
         },
         {
-          "kind": "paragraph",
+          "kind": "caveat",
           "textKey": "issue.wuChangCheng.ch8.p4"
         },
         {
-          "kind": "caveat",
+          "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch8.p5"
         },
         {
@@ -11954,6 +11970,10 @@
         {
           "kind": "opening",
           "textKey": "issue.wuChangCheng.ch9.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch9.p2"
         },
         {
           "device": {
@@ -12000,11 +12020,11 @@
         },
         {
           "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch9.p2"
+          "textKey": "issue.wuChangCheng.ch9.p3"
         },
         {
           "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch9.p3"
+          "textKey": "issue.wuChangCheng.ch9.p4"
         },
         {
           "figure": {
@@ -12020,7 +12040,7 @@
         },
         {
           "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch9.p4"
+          "textKey": "issue.wuChangCheng.ch9.p5"
         },
         {
           "figure": {
@@ -12036,7 +12056,7 @@
         },
         {
           "kind": "closing",
-          "textKey": "issue.wuChangCheng.ch9.p5"
+          "textKey": "issue.wuChangCheng.ch9.p6"
         }
       ],
       "bylineKey": "issue.wuChangCheng.byline",
@@ -12309,12 +12329,12 @@
         },
         {
           "figure": {
-            "aspect": 1.7777777777777777,
+            "aspect": 3,
             "briefKey": "issue.wuChangCheng.voice4.figure.brief",
             "captionKey": "issue.wuChangCheng.voice4.figure.caption",
             "creditKey": "issue.wuChangCheng.voice4.figure.credit",
             "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/tokyo-dome-2024.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/korakuen-nighter-1950.jpg",
             "weight": "standard"
           },
           "labelKey": "issue.wuChangCheng.voice4.label"
