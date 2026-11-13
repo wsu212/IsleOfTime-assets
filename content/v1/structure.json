@@ -11923,6 +11923,18 @@
           "textKey": "issue.wuChangCheng.ch8.p10"
         },
         {
+          "figure": {
+            "aspect": 1.4970059880239521,
+            "briefKey": "issue.wuChangCheng.ch8.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch8.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch8.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/premier12-champions-2024.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch8.p11"
         },
