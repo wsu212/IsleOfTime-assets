@@ -11397,13 +11397,13 @@
         },
         {
           "figure": {
-            "aspect": 1.2911555842479019,
+            "aspect": 0.6260623229461756,
             "briefKey": "issue.wuChangCheng.ch1.fig1.brief",
             "captionKey": "issue.wuChangCheng.ch1.fig1.caption",
             "creditKey": "issue.wuChangCheng.ch1.fig1.credit",
             "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/fujimura-1948.jpg",
-            "weight": "plate"
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/go-shosei-1952.jpg",
+            "weight": "standard"
           },
           "kind": "figure"
         },
@@ -11442,6 +11442,18 @@
           }
         },
         {
+          "figure": {
+            "aspect": 1.6039963669391462,
+            "briefKey": "issue.wuChangCheng.ch2.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch2.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch2.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/kyoshito-mill-1903.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
           "kind": "opening",
           "textKey": "issue.wuChangCheng.ch2.p1"
         },
@@ -11454,16 +11466,12 @@
           "textKey": "issue.wuChangCheng.ch2.p3"
         },
         {
-          "kind": "paragraph",
+          "kind": "caveat",
           "textKey": "issue.wuChangCheng.ch2.p4"
         },
         {
-          "kind": "caveat",
-          "textKey": "issue.wuChangCheng.ch2.p5"
-        },
-        {
           "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch2.p6"
+          "textKey": "issue.wuChangCheng.ch2.p5"
         },
         {
           "kind": "section",
@@ -11495,6 +11503,18 @@
           "textKey": "issue.wuChangCheng.ch3.p2"
         },
         {
+          "figure": {
+            "aspect": 1.5892857142857142,
+            "briefKey": "issue.wuChangCheng.ch3.fig2.brief",
+            "captionKey": "issue.wuChangCheng.ch3.fig2.caption",
+            "creditKey": "issue.wuChangCheng.ch3.fig2.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/kano-1931.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
           "kind": "caveat",
           "textKey": "issue.wuChangCheng.ch3.p3"
         },
@@ -11505,9 +11525,9 @@
         {
           "figure": {
             "aspect": 1.6666666666666667,
-            "briefKey": "issue.wuChangCheng.ch3.fig2.brief",
-            "captionKey": "issue.wuChangCheng.ch3.fig2.caption",
-            "creditKey": "issue.wuChangCheng.ch3.fig2.credit",
+            "briefKey": "issue.wuChangCheng.ch3.fig3.brief",
+            "captionKey": "issue.wuChangCheng.ch3.fig3.caption",
+            "creditKey": "issue.wuChangCheng.ch3.fig3.credit",
             "showsFullFrame": false,
             "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/kano-1935.jpg",
             "weight": "plate"
@@ -11560,6 +11580,18 @@
           "textKey": "issue.wuChangCheng.ch4.p3"
         },
         {
+          "figure": {
+            "aspect": 0.7995867768595041,
+            "briefKey": "issue.wuChangCheng.ch4.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch4.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch4.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/sawamura-1936.jpg",
+            "weight": "spot"
+          },
+          "kind": "figure"
+        },
+        {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch4.p4"
         },
@@ -11572,12 +11604,8 @@
           "textKey": "issue.wuChangCheng.ch4.p6"
         },
         {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch4.p7"
-        },
-        {
           "kind": "caveat",
-          "textKey": "issue.wuChangCheng.ch4.p8"
+          "textKey": "issue.wuChangCheng.ch4.p7"
         },
         {
           "kind": "section",
@@ -11605,6 +11633,18 @@
           "textKey": "issue.wuChangCheng.ch5.p4"
         },
         {
+          "figure": {
+            "aspect": 1.455511288180611,
+            "briefKey": "issue.wuChangCheng.ch5.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch5.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch5.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/hanshin-1944.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch5.p5"
         },
@@ -11613,15 +11653,11 @@
           "textKey": "issue.wuChangCheng.ch5.p6"
         },
         {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch5.p7"
-        },
-        {
           "figure": {
             "aspect": 1.7550274223034734,
-            "briefKey": "issue.wuChangCheng.ch5.fig1.brief",
-            "captionKey": "issue.wuChangCheng.ch5.fig1.caption",
-            "creditKey": "issue.wuChangCheng.ch5.fig1.credit",
+            "briefKey": "issue.wuChangCheng.ch5.fig2.brief",
+            "captionKey": "issue.wuChangCheng.ch5.fig2.caption",
+            "creditKey": "issue.wuChangCheng.ch5.fig2.credit",
             "showsFullFrame": false,
             "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/koshien-1947.jpg",
             "weight": "plate"
@@ -11630,11 +11666,11 @@
         },
         {
           "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch5.p8"
+          "textKey": "issue.wuChangCheng.ch5.p7"
         },
         {
           "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch5.p9"
+          "textKey": "issue.wuChangCheng.ch5.p8"
         },
         {
           "kind": "section",
@@ -11650,8 +11686,32 @@
           "textKey": "issue.wuChangCheng.ch6.p1"
         },
         {
+          "figure": {
+            "aspect": 0.6913092550790068,
+            "briefKey": "issue.wuChangCheng.ch6.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch6.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch6.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/wakabayashi-1946.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch6.p2"
+        },
+        {
+          "figure": {
+            "aspect": 1.2911555842479019,
+            "briefKey": "issue.wuChangCheng.ch6.fig2.brief",
+            "captionKey": "issue.wuChangCheng.ch6.fig2.caption",
+            "creditKey": "issue.wuChangCheng.ch6.fig2.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/fujimura-1948.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
         },
         {
           "kind": "paragraph",
@@ -11696,26 +11756,6 @@
           "textKey": "issue.wuChangCheng.ch6.p4"
         },
         {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch6.p5"
-        },
-        {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch6.p6"
-        },
-        {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch6.p7"
-        },
-        {
-          "kind": "caveat",
-          "textKey": "issue.wuChangCheng.ch6.p8"
-        },
-        {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch6.p9"
-        },
-        {
           "kind": "section",
           "section": {
             "blurbKey": "issue.wuChangCheng.ch7.blurb",
@@ -11733,18 +11773,6 @@
           "textKey": "issue.wuChangCheng.ch7.p2"
         },
         {
-          "figure": {
-            "aspect": 0.6260623229461756,
-            "briefKey": "issue.wuChangCheng.ch7.fig1.brief",
-            "captionKey": "issue.wuChangCheng.ch7.fig1.caption",
-            "creditKey": "issue.wuChangCheng.ch7.fig1.credit",
-            "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/go-shosei-1952.jpg",
-            "weight": "standard"
-          },
-          "kind": "figure"
-        },
-        {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch7.p3"
         },
@@ -11753,10 +11781,14 @@
           "textKey": "issue.wuChangCheng.ch7.p4"
         },
         {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch7.p5"
+        },
+        {
           "figure": {
             "aspect": 1.7777777777777777,
-            "briefKey": "issue.wuChangCheng.ch7.fig2.brief",
-            "captionKey": "issue.wuChangCheng.ch7.fig2.caption",
+            "briefKey": "issue.wuChangCheng.ch7.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch7.fig1.caption",
             "chart": {
               "kind": "spans",
               "spans": {
@@ -11766,28 +11798,28 @@
                 "rows": [
                   {
                     "first": 1931,
-                    "labelKey": "issue.wuChangCheng.ch7.fig2.row1",
+                    "labelKey": "issue.wuChangCheng.ch7.fig1.row1",
                     "last": 1936
                   },
                   {
                     "first": 1937,
-                    "labelKey": "issue.wuChangCheng.ch7.fig2.row2",
+                    "labelKey": "issue.wuChangCheng.ch7.fig1.row2",
                     "last": 1943
                   },
                   {
                     "first": 1944,
-                    "labelKey": "issue.wuChangCheng.ch7.fig2.row3",
+                    "labelKey": "issue.wuChangCheng.ch7.fig1.row3",
                     "last": 1949
                   },
                   {
                     "first": 1950,
-                    "labelKey": "issue.wuChangCheng.ch7.fig2.row4",
+                    "labelKey": "issue.wuChangCheng.ch7.fig1.row4",
                     "last": 1957
                   }
                 ]
               }
             },
-            "creditKey": "issue.wuChangCheng.ch7.fig2.credit",
+            "creditKey": "issue.wuChangCheng.ch7.fig1.credit",
             "showsFullFrame": false,
             "weight": "spot"
           },
@@ -11795,7 +11827,7 @@
         },
         {
           "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch7.p5"
+          "textKey": "issue.wuChangCheng.ch7.p6"
         },
         {
           "device": {
@@ -11891,15 +11923,15 @@
           "kind": "device"
         },
         {
-          "kind": "paragraph",
+          "kind": "caveat",
           "textKey": "issue.wuChangCheng.ch8.p3"
         },
         {
-          "kind": "caveat",
+          "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch8.p4"
         },
         {
-          "kind": "paragraph",
+          "kind": "caveat",
           "textKey": "issue.wuChangCheng.ch8.p5"
         },
         {
@@ -11911,6 +11943,49 @@
           "textKey": "issue.wuChangCheng.ch8.p7"
         },
         {
+          "device": {
+            "kind": "table",
+            "table": {
+              "labelKey": "issue.wuChangCheng.ch8.table2.label",
+              "noteKey": "issue.wuChangCheng.ch8.table2.note",
+              "rows": [
+                {
+                  "leadKey": "issue.wuChangCheng.ch8.table2.row1.lead",
+                  "textKey": "issue.wuChangCheng.ch8.table2.row1.text",
+                  "trailKey": "issue.wuChangCheng.ch8.table2.row1.trail"
+                },
+                {
+                  "leadKey": "issue.wuChangCheng.ch8.table2.row2.lead",
+                  "textKey": "issue.wuChangCheng.ch8.table2.row2.text",
+                  "trailKey": "issue.wuChangCheng.ch8.table2.row2.trail"
+                },
+                {
+                  "leadKey": "issue.wuChangCheng.ch8.table2.row3.lead",
+                  "textKey": "issue.wuChangCheng.ch8.table2.row3.text",
+                  "trailKey": "issue.wuChangCheng.ch8.table2.row3.trail"
+                },
+                {
+                  "leadKey": "issue.wuChangCheng.ch8.table2.row4.lead",
+                  "textKey": "issue.wuChangCheng.ch8.table2.row4.text",
+                  "trailKey": "issue.wuChangCheng.ch8.table2.row4.trail"
+                },
+                {
+                  "leadKey": "issue.wuChangCheng.ch8.table2.row5.lead",
+                  "textKey": "issue.wuChangCheng.ch8.table2.row5.text",
+                  "trailKey": "issue.wuChangCheng.ch8.table2.row5.trail"
+                },
+                {
+                  "leadKey": "issue.wuChangCheng.ch8.table2.row6.lead",
+                  "textKey": "issue.wuChangCheng.ch8.table2.row6.text",
+                  "trailKey": "issue.wuChangCheng.ch8.table2.row6.trail"
+                }
+              ],
+              "style": "ledger"
+            }
+          },
+          "kind": "device"
+        },
+        {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch8.p8"
         },
@@ -11919,15 +11994,31 @@
           "textKey": "issue.wuChangCheng.ch8.p9"
         },
         {
+          "figure": {
+            "aspect": 1.018728053062817,
+            "briefKey": "issue.wuChangCheng.ch8.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch8.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch8.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/wang-chien-ming-2007.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch8.p10"
         },
         {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch8.p11"
+        },
+        {
           "figure": {
             "aspect": 1.4970059880239521,
-            "briefKey": "issue.wuChangCheng.ch8.fig1.brief",
-            "captionKey": "issue.wuChangCheng.ch8.fig1.caption",
-            "creditKey": "issue.wuChangCheng.ch8.fig1.credit",
+            "briefKey": "issue.wuChangCheng.ch8.fig2.brief",
+            "captionKey": "issue.wuChangCheng.ch8.fig2.caption",
+            "creditKey": "issue.wuChangCheng.ch8.fig2.credit",
             "showsFullFrame": false,
             "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/premier12-champions-2024.jpg",
             "weight": "plate"
@@ -11936,11 +12027,11 @@
         },
         {
           "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch8.p11"
+          "textKey": "issue.wuChangCheng.ch8.p12"
         },
         {
           "kind": "closing",
-          "textKey": "issue.wuChangCheng.ch8.p12"
+          "textKey": "issue.wuChangCheng.ch8.p13"
         }
       ],
       "bylineKey": "issue.wuChangCheng.byline",
@@ -12105,6 +12196,26 @@
           "titleKey": "issue.wuChangCheng.source19.title",
           "url": "https://www.storm.mg/article/5280027",
           "venueKey": "issue.wuChangCheng.source19.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source20.title",
+          "url": "https://www.baseballchannel.jp/npb/79973/2/",
+          "venueKey": "issue.wuChangCheng.source20.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source21.title",
+          "url": "https://www.baseball-reference.com/bullpen/Ming-Tsu_Lu",
+          "venueKey": "issue.wuChangCheng.source21.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source22.title",
+          "url": "https://www.cw.com.tw/article/5080002",
+          "venueKey": "issue.wuChangCheng.source22.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source23.title",
+          "url": "https://www.worldjournal.com/wj/story/121617/9666014",
+          "venueKey": "issue.wuChangCheng.source23.venue"
         }
       ],
       "standfirstFigure": {
@@ -12119,7 +12230,80 @@
       "standfirstKey": "issue.wuChangCheng.standfirst",
       "subtitleKey": "issue.wuChangCheng.subtitle",
       "titleKey": "issue.wuChangCheng.title",
-      "voiceFigures": [],
+      "voiceFigures": [
+        {
+          "figure": {
+            "aspect": 0.8,
+            "briefKey": "issue.wuChangCheng.voice1.figure.brief",
+            "captionKey": "issue.wuChangCheng.voice1.figure.caption",
+            "creditKey": "issue.wuChangCheng.voice1.figure.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/kondo-1936.jpg",
+            "weight": "standard"
+          },
+          "labelKey": "issue.wuChangCheng.voice1.label"
+        },
+        {
+          "figure": {
+            "aspect": 0.6919014084507042,
+            "briefKey": "issue.wuChangCheng.voice2.figure.brief",
+            "captionKey": "issue.wuChangCheng.voice2.figure.caption",
+            "creditKey": "issue.wuChangCheng.voice2.figure.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/sumo-yakyu-1943.jpg",
+            "weight": "spot"
+          },
+          "labelKey": "issue.wuChangCheng.voice2.label"
+        },
+        {
+          "figure": {
+            "aspect": 1.7777777777777777,
+            "briefKey": "issue.wuChangCheng.voice3.figure.brief",
+            "captionKey": "issue.wuChangCheng.voice3.figure.caption",
+            "chart": {
+              "kind": "spans",
+              "spans": {
+                "axisFirst": 1935,
+                "axisLast": 1985,
+                "marker": 1945,
+                "rows": [
+                  {
+                    "first": 1937,
+                    "labelKey": "issue.wuChangCheng.voice3.figure.row1",
+                    "last": 1957
+                  },
+                  {
+                    "first": 1943,
+                    "labelKey": "issue.wuChangCheng.voice3.figure.row2",
+                    "last": 1952
+                  },
+                  {
+                    "first": 1955,
+                    "labelKey": "issue.wuChangCheng.voice3.figure.row3",
+                    "last": 1980
+                  }
+                ]
+              }
+            },
+            "creditKey": "issue.wuChangCheng.voice3.figure.credit",
+            "showsFullFrame": false,
+            "weight": "spot"
+          },
+          "labelKey": "issue.wuChangCheng.voice3.label"
+        },
+        {
+          "figure": {
+            "aspect": 1.7777777777777777,
+            "briefKey": "issue.wuChangCheng.voice4.figure.brief",
+            "captionKey": "issue.wuChangCheng.voice4.figure.caption",
+            "creditKey": "issue.wuChangCheng.voice4.figure.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/tokyo-dome-2024.jpg",
+            "weight": "standard"
+          },
+          "labelKey": "issue.wuChangCheng.voice4.label"
+        }
+      ],
       "voicesTitleKey": "issue.wuChangCheng.voicesTitle"
     },
     {
