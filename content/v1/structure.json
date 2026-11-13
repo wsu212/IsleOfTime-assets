@@ -11383,6 +11383,1638 @@
       "titleKey": "figure.weitesheng.title"
     }
   ],
+  "issues": [
+    {
+      "blocks": [
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.wuChangCheng.ch1.blurb",
+            "headingKey": "issue.wuChangCheng.ch1.heading",
+            "numeralKey": "issue.wuChangCheng.ch1.numeral",
+            "yearsKey": "issue.wuChangCheng.ch1.years"
+          }
+        },
+        {
+          "figure": {
+            "aspect": 1.2911555842479019,
+            "briefKey": "issue.wuChangCheng.ch1.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch1.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch1.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/fujimura-1948.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.wuChangCheng.ch1.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch1.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch1.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch1.p4"
+        },
+        {
+          "attributionKey": "issue.wuChangCheng.ch1.p5.attribution",
+          "kind": "quote",
+          "textKey": "issue.wuChangCheng.ch1.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch1.p6"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.wuChangCheng.ch2.blurb",
+            "headingKey": "issue.wuChangCheng.ch2.heading",
+            "numeralKey": "issue.wuChangCheng.ch2.numeral",
+            "yearsKey": "issue.wuChangCheng.ch2.years"
+          }
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.wuChangCheng.ch2.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch2.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch2.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch2.p4"
+        },
+        {
+          "kind": "caveat",
+          "textKey": "issue.wuChangCheng.ch2.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch2.p6"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.wuChangCheng.ch3.blurb",
+            "headingKey": "issue.wuChangCheng.ch3.heading",
+            "numeralKey": "issue.wuChangCheng.ch3.numeral",
+            "yearsKey": "issue.wuChangCheng.ch3.years"
+          }
+        },
+        {
+          "figure": {
+            "aspect": 1.4782608695652173,
+            "briefKey": "issue.wuChangCheng.ch3.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch3.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch3.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/chiayi-celebration-1933.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.wuChangCheng.ch3.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch3.p2"
+        },
+        {
+          "kind": "caveat",
+          "textKey": "issue.wuChangCheng.ch3.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch3.p4"
+        },
+        {
+          "figure": {
+            "aspect": 1.6666666666666667,
+            "briefKey": "issue.wuChangCheng.ch3.fig2.brief",
+            "captionKey": "issue.wuChangCheng.ch3.fig2.caption",
+            "creditKey": "issue.wuChangCheng.ch3.fig2.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/kano-1935.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch3.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch3.p6"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch3.p7"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch3.p8"
+        },
+        {
+          "kind": "caveat",
+          "textKey": "issue.wuChangCheng.ch3.p9"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch3.p10"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.wuChangCheng.ch4.blurb",
+            "headingKey": "issue.wuChangCheng.ch4.heading",
+            "numeralKey": "issue.wuChangCheng.ch4.numeral",
+            "yearsKey": "issue.wuChangCheng.ch4.years"
+          }
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.wuChangCheng.ch4.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch4.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch4.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch4.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch4.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch4.p6"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch4.p7"
+        },
+        {
+          "kind": "caveat",
+          "textKey": "issue.wuChangCheng.ch4.p8"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.wuChangCheng.ch5.blurb",
+            "headingKey": "issue.wuChangCheng.ch5.heading",
+            "numeralKey": "issue.wuChangCheng.ch5.numeral",
+            "yearsKey": "issue.wuChangCheng.ch5.years"
+          }
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.wuChangCheng.ch5.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch5.p2"
+        },
+        {
+          "kind": "caveat",
+          "textKey": "issue.wuChangCheng.ch5.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch5.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch5.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch5.p6"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch5.p7"
+        },
+        {
+          "figure": {
+            "aspect": 1.7550274223034734,
+            "briefKey": "issue.wuChangCheng.ch5.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch5.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch5.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/koshien-1947.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch5.p8"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch5.p9"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.wuChangCheng.ch6.blurb",
+            "headingKey": "issue.wuChangCheng.ch6.heading",
+            "numeralKey": "issue.wuChangCheng.ch6.numeral",
+            "yearsKey": "issue.wuChangCheng.ch6.years"
+          }
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.wuChangCheng.ch6.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch6.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch6.p3"
+        },
+        {
+          "device": {
+            "comparison": {
+              "panels": [
+                {
+                  "imprintKey": "issue.wuChangCheng.ch6.table1.panel1.imprint",
+                  "isEmphasized": true,
+                  "lineKeys": [
+                    "issue.wuChangCheng.ch6.table1.panel1.line1",
+                    "issue.wuChangCheng.ch6.table1.panel1.line2",
+                    "issue.wuChangCheng.ch6.table1.panel1.line3"
+                  ],
+                  "roleKey": "issue.wuChangCheng.ch6.table1.panel1.role",
+                  "tagKey": "issue.wuChangCheng.ch6.table1.panel1.tag",
+                  "titleKey": "issue.wuChangCheng.ch6.table1.panel1.title"
+                },
+                {
+                  "imprintKey": "issue.wuChangCheng.ch6.table1.panel2.imprint",
+                  "isEmphasized": false,
+                  "lineKeys": [
+                    "issue.wuChangCheng.ch6.table1.panel2.line1",
+                    "issue.wuChangCheng.ch6.table1.panel2.line2"
+                  ],
+                  "roleKey": "issue.wuChangCheng.ch6.table1.panel2.role",
+                  "tagKey": "issue.wuChangCheng.ch6.table1.panel2.tag",
+                  "titleKey": "issue.wuChangCheng.ch6.table1.panel2.title"
+                }
+              ],
+              "sourceKey": "issue.wuChangCheng.ch6.table1.source"
+            },
+            "kind": "comparison"
+          },
+          "kind": "device"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch6.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch6.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch6.p6"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch6.p7"
+        },
+        {
+          "kind": "caveat",
+          "textKey": "issue.wuChangCheng.ch6.p8"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch6.p9"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.wuChangCheng.ch7.blurb",
+            "headingKey": "issue.wuChangCheng.ch7.heading",
+            "numeralKey": "issue.wuChangCheng.ch7.numeral",
+            "yearsKey": "issue.wuChangCheng.ch7.years"
+          }
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.wuChangCheng.ch7.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch7.p2"
+        },
+        {
+          "figure": {
+            "aspect": 0.6260623229461756,
+            "briefKey": "issue.wuChangCheng.ch7.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch7.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch7.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/go-shosei-1952.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch7.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch7.p4"
+        },
+        {
+          "figure": {
+            "aspect": 1.7777777777777777,
+            "briefKey": "issue.wuChangCheng.ch7.fig2.brief",
+            "captionKey": "issue.wuChangCheng.ch7.fig2.caption",
+            "chart": {
+              "kind": "spans",
+              "spans": {
+                "axisFirst": 1930,
+                "axisLast": 1960,
+                "marker": 1945,
+                "rows": [
+                  {
+                    "first": 1931,
+                    "labelKey": "issue.wuChangCheng.ch7.fig2.row1",
+                    "last": 1936
+                  },
+                  {
+                    "first": 1937,
+                    "labelKey": "issue.wuChangCheng.ch7.fig2.row2",
+                    "last": 1943
+                  },
+                  {
+                    "first": 1944,
+                    "labelKey": "issue.wuChangCheng.ch7.fig2.row3",
+                    "last": 1949
+                  },
+                  {
+                    "first": 1950,
+                    "labelKey": "issue.wuChangCheng.ch7.fig2.row4",
+                    "last": 1957
+                  }
+                ]
+              }
+            },
+            "creditKey": "issue.wuChangCheng.ch7.fig2.credit",
+            "showsFullFrame": false,
+            "weight": "spot"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch7.p5"
+        },
+        {
+          "device": {
+            "kind": "table",
+            "table": {
+              "footRows": [
+                {
+                  "leadKey": "issue.wuChangCheng.ch7.table1.foot1.lead",
+                  "textKey": "issue.wuChangCheng.ch7.table1.foot1.text"
+                }
+              ],
+              "labelKey": "issue.wuChangCheng.ch7.table1.label",
+              "noteKey": "issue.wuChangCheng.ch7.table1.note",
+              "rows": [
+                {
+                  "leadKey": "issue.wuChangCheng.ch7.table1.row1.lead",
+                  "textKey": "issue.wuChangCheng.ch7.table1.row1.text",
+                  "trailKey": "issue.wuChangCheng.ch7.table1.row1.trail"
+                },
+                {
+                  "leadKey": "issue.wuChangCheng.ch7.table1.row2.lead",
+                  "textKey": "issue.wuChangCheng.ch7.table1.row2.text",
+                  "trailKey": "issue.wuChangCheng.ch7.table1.row2.trail"
+                },
+                {
+                  "leadKey": "issue.wuChangCheng.ch7.table1.row3.lead",
+                  "textKey": "issue.wuChangCheng.ch7.table1.row3.text",
+                  "trailKey": "issue.wuChangCheng.ch7.table1.row3.trail"
+                },
+                {
+                  "leadKey": "issue.wuChangCheng.ch7.table1.row4.lead",
+                  "textKey": "issue.wuChangCheng.ch7.table1.row4.text",
+                  "trailKey": "issue.wuChangCheng.ch7.table1.row4.trail"
+                },
+                {
+                  "leadKey": "issue.wuChangCheng.ch7.table1.row5.lead",
+                  "textKey": "issue.wuChangCheng.ch7.table1.row5.text",
+                  "trailKey": "issue.wuChangCheng.ch7.table1.row5.trail"
+                },
+                {
+                  "leadKey": "issue.wuChangCheng.ch7.table1.row6.lead",
+                  "textKey": "issue.wuChangCheng.ch7.table1.row6.text",
+                  "trailKey": "issue.wuChangCheng.ch7.table1.row6.trail"
+                }
+              ],
+              "style": "ledger"
+            }
+          },
+          "kind": "device"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.wuChangCheng.ch8.blurb",
+            "headingKey": "issue.wuChangCheng.ch8.heading",
+            "numeralKey": "issue.wuChangCheng.ch8.numeral",
+            "yearsKey": "issue.wuChangCheng.ch8.years"
+          }
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.wuChangCheng.ch8.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch8.p2"
+        },
+        {
+          "device": {
+            "kind": "table",
+            "table": {
+              "labelKey": "issue.wuChangCheng.ch8.table1.label",
+              "rows": [
+                {
+                  "leadKey": "issue.wuChangCheng.ch8.table1.row1.lead",
+                  "textKey": "issue.wuChangCheng.ch8.table1.row1.text",
+                  "trailKey": "issue.wuChangCheng.ch8.table1.row1.trail"
+                },
+                {
+                  "leadKey": "issue.wuChangCheng.ch8.table1.row2.lead",
+                  "textKey": "issue.wuChangCheng.ch8.table1.row2.text",
+                  "trailKey": "issue.wuChangCheng.ch8.table1.row2.trail"
+                },
+                {
+                  "leadKey": "issue.wuChangCheng.ch8.table1.row3.lead",
+                  "textKey": "issue.wuChangCheng.ch8.table1.row3.text",
+                  "trailKey": "issue.wuChangCheng.ch8.table1.row3.trail"
+                }
+              ],
+              "style": "decree"
+            }
+          },
+          "kind": "device"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch8.p3"
+        },
+        {
+          "kind": "caveat",
+          "textKey": "issue.wuChangCheng.ch8.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch8.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch8.p6"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch8.p7"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch8.p8"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch8.p9"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch8.p10"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch8.p11"
+        },
+        {
+          "kind": "closing",
+          "textKey": "issue.wuChangCheng.ch8.p12"
+        }
+      ],
+      "bylineKey": "issue.wuChangCheng.byline",
+      "colophonNotes": [
+        {
+          "labelKey": "issue.wuChangCheng.note1.label",
+          "valueKey": "issue.wuChangCheng.note1.value"
+        },
+        {
+          "labelKey": "issue.wuChangCheng.note2.label",
+          "valueKey": "issue.wuChangCheng.note2.value"
+        }
+      ],
+      "coverFigure": {
+        "aspect": 0.6666666666666666,
+        "briefKey": "issue.wuChangCheng.coverFigure.brief",
+        "captionKey": "issue.wuChangCheng.coverFigure.caption",
+        "creditKey": "issue.wuChangCheng.coverFigure.credit",
+        "showsFullFrame": false,
+        "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/cover.png",
+        "weight": "standard"
+      },
+      "epigraphKey": "issue.wuChangCheng.epigraph",
+      "epigraphSourceKey": "issue.wuChangCheng.epigraphSource",
+      "id": "wuChangCheng",
+      "issueLabelKey": "issue.wuChangCheng.issueLabel",
+      "kickerKey": "issue.wuChangCheng.kicker",
+      "perspectives": [
+        {
+          "anchorNumeral": "issue.wuChangCheng.ch3.numeral",
+          "icon": "figure.baseball",
+          "labelKey": "issue.wuChangCheng.voice1.label",
+          "ledeKey": "issue.wuChangCheng.voice1.lede",
+          "paragraphKeys": [
+            "issue.wuChangCheng.voice1.p1",
+            "issue.wuChangCheng.voice1.p2"
+          ]
+        },
+        {
+          "anchorNumeral": "issue.wuChangCheng.ch5.numeral",
+          "icon": "building.columns",
+          "labelKey": "issue.wuChangCheng.voice2.label",
+          "ledeKey": "issue.wuChangCheng.voice2.lede",
+          "paragraphKeys": [
+            "issue.wuChangCheng.voice2.p1",
+            "issue.wuChangCheng.voice2.p2"
+          ]
+        },
+        {
+          "anchorNumeral": "issue.wuChangCheng.ch6.numeral",
+          "icon": "person.2",
+          "labelKey": "issue.wuChangCheng.voice3.label",
+          "ledeKey": "issue.wuChangCheng.voice3.lede",
+          "paragraphKeys": [
+            "issue.wuChangCheng.voice3.p1",
+            "issue.wuChangCheng.voice3.p2"
+          ]
+        },
+        {
+          "anchorNumeral": "issue.wuChangCheng.ch4.numeral",
+          "icon": "building.2",
+          "labelKey": "issue.wuChangCheng.voice4.label",
+          "ledeKey": "issue.wuChangCheng.voice4.lede",
+          "paragraphKeys": [
+            "issue.wuChangCheng.voice4.p1",
+            "issue.wuChangCheng.voice4.p2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "titleKey": "issue.wuChangCheng.source1.title",
+          "url": "https://baseball-museum.or.jp/hall-of-famers/hof-116/",
+          "venueKey": "issue.wuChangCheng.source1.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source2.title",
+          "url": "https://www.nippon.com/ja/articles/-/6476",
+          "venueKey": "issue.wuChangCheng.source2.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source3.title",
+          "url": "https://ja.wikipedia.org/wiki/%E5%91%89%E6%98%8C%E5%BE%81",
+          "venueKey": "issue.wuChangCheng.source3.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source4.title",
+          "url": "https://zh.wikipedia.org/zh-tw/%E5%90%B3%E6%98%8C%E5%BE%81",
+          "venueKey": "issue.wuChangCheng.source4.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source5.title",
+          "url": "https://kotobank.jp/word/%E5%91%89%E6%98%8C%E5%BE%81-501482",
+          "venueKey": "issue.wuChangCheng.source5.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source6.title",
+          "url": "https://www.chiayi.gov.tw/News_Content.aspx?n=455&s=351479",
+          "venueKey": "issue.wuChangCheng.source6.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source7.title",
+          "url": "https://www.gjtaiwan.com/new/53899",
+          "venueKey": "issue.wuChangCheng.source7.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source8.title",
+          "url": "https://www.smcbook.com.tw/smc/index.php?route=product/product&product_id=277",
+          "venueKey": "issue.wuChangCheng.source8.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source9.title",
+          "url": "https://www.news-postseven.com/archives/20180615_670880.html",
+          "venueKey": "issue.wuChangCheng.source9.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source10.title",
+          "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%87%8E%E7%90%83%E9%80%A3%E7%9B%9F_(%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83)",
+          "venueKey": "issue.wuChangCheng.source10.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source11.title",
+          "url": "https://ja.wikipedia.org/wiki/%E8%90%A9%E5%8E%9F%E5%AF%9B",
+          "venueKey": "issue.wuChangCheng.source11.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source12.title",
+          "url": "https://ja.wikipedia.org/wiki/%E5%98%89%E7%BE%A9%E8%BE%B2%E6%9E%97%E5%AD%A6%E6%A0%A1",
+          "venueKey": "issue.wuChangCheng.source12.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source13.title",
+          "url": "https://www.cna.com.tw/news/aspt/201901190209.aspx",
+          "venueKey": "issue.wuChangCheng.source13.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source14.title",
+          "url": "https://toyokeizai.net/articles/-/5314",
+          "venueKey": "issue.wuChangCheng.source14.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source15.title",
+          "url": "https://gentosha-go.com/articles/-/57479",
+          "venueKey": "issue.wuChangCheng.source15.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source16.title",
+          "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9D%91%E5%AF%8C%E7%BE%8E%E7%94%B7",
+          "venueKey": "issue.wuChangCheng.source16.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source17.title",
+          "url": "https://ja.wikipedia.org/wiki/%E5%BE%8C%E6%A5%BD%E5%9C%92%E7%90%83%E5%A0%B4",
+          "venueKey": "issue.wuChangCheng.source17.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source18.title",
+          "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0",
+          "venueKey": "issue.wuChangCheng.source18.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source19.title",
+          "url": "https://www.storm.mg/article/5280027",
+          "venueKey": "issue.wuChangCheng.source19.venue"
+        }
+      ],
+      "standfirstFigure": {
+        "aspect": 1.3683589138134593,
+        "briefKey": "issue.wuChangCheng.standfirstFigure.brief",
+        "captionKey": "issue.wuChangCheng.standfirstFigure.caption",
+        "creditKey": "issue.wuChangCheng.standfirstFigure.credit",
+        "showsFullFrame": false,
+        "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/korakuen-1946.jpg",
+        "weight": "standard"
+      },
+      "standfirstKey": "issue.wuChangCheng.standfirst",
+      "subtitleKey": "issue.wuChangCheng.subtitle",
+      "titleKey": "issue.wuChangCheng.title",
+      "voiceFigures": [],
+      "voicesTitleKey": "issue.wuChangCheng.voicesTitle"
+    },
+    {
+      "blocks": [
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch1.blurb",
+            "headingKey": "issue.yangChienho.ch1.heading",
+            "numeralKey": "issue.yangChienho.ch1.numeral",
+            "yearsKey": "issue.yangChienho.ch1.years"
+          }
+        },
+        {
+          "figure": {
+            "aspect": 1.6622296173044926,
+            "briefKey": "issue.yangChienho.ch1.fig1.brief",
+            "captionKey": "issue.yangChienho.ch1.fig1.caption",
+            "creditKey": "issue.yangChienho.ch1.fig1.credit",
+            "showsFullFrame": true,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/nichinichi-1940-front.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.yangChienho.ch1.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch1.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch1.p3"
+        },
+        {
+          "kind": "caveat",
+          "textKey": "issue.yangChienho.ch1.p4"
+        },
+        {
+          "figure": {
+            "aspect": 2.2857142857142856,
+            "briefKey": "issue.yangChienho.ch1.fig2.brief",
+            "captionKey": "issue.yangChienho.ch1.fig2.caption",
+            "creditKey": "issue.yangChienho.ch1.fig2.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/beipu-funeral-1935.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch1.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch1.p6"
+        },
+        {
+          "figure": {
+            "aspect": 1.7777777777777777,
+            "briefKey": "issue.yangChienho.ch1.fig3.brief",
+            "captionKey": "issue.yangChienho.ch1.fig3.caption",
+            "chart": {
+              "kind": "ratio",
+              "ratio": {
+                "baseLabelKey": "issue.yangChienho.chart.supplement.base",
+                "columns": [
+                  {
+                    "extra": 0.6,
+                    "labelKey": "issue.yangChienho.chart.supplement.japanese"
+                  },
+                  {
+                    "extra": 0,
+                    "labelKey": "issue.yangChienho.chart.supplement.taiwanese"
+                  }
+                ],
+                "extraLabelKey": "issue.yangChienho.chart.supplement.extra"
+              }
+            },
+            "creditKey": "issue.yangChienho.ch1.fig3.credit",
+            "showsFullFrame": false,
+            "weight": "spot"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch1.p7"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch1.p8"
+        },
+        {
+          "kind": "caveat",
+          "textKey": "issue.yangChienho.ch1.p9"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch2.blurb",
+            "headingKey": "issue.yangChienho.ch2.heading",
+            "numeralKey": "issue.yangChienho.ch2.numeral",
+            "yearsKey": "issue.yangChienho.ch2.years"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p3"
+        },
+        {
+          "figure": {
+            "aspect": 1,
+            "briefKey": "issue.yangChienho.ch2.fig1.brief",
+            "captionKey": "issue.yangChienho.ch2.fig1.caption",
+            "creditKey": "issue.yangChienho.ch2.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/jingxiu-girls-school.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p6"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p7"
+        },
+        {
+          "figure": {
+            "aspect": 1.5003663003663004,
+            "briefKey": "issue.yangChienho.ch2.fig2.brief",
+            "captionKey": "issue.yangChienho.ch2.fig2.caption",
+            "creditKey": "issue.yangChienho.ch2.fig2.credit",
+            "showsFullFrame": true,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/taihoku-womens-college.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p8"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch2.p9"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch3.blurb",
+            "headingKey": "issue.yangChienho.ch3.heading",
+            "numeralKey": "issue.yangChienho.ch3.numeral",
+            "yearsKey": "issue.yangChienho.ch3.years"
+          }
+        },
+        {
+          "figure": {
+            "aspect": 0.6666666666666666,
+            "briefKey": "issue.yangChienho.ch3.fig1.brief",
+            "captionKey": "issue.yangChienho.ch3.fig1.caption",
+            "creditKey": "issue.yangChienho.ch3.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/nichinichi-1937-05-07-p1.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p6"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch3.p7"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch4.blurb",
+            "headingKey": "issue.yangChienho.ch4.heading",
+            "numeralKey": "issue.yangChienho.ch4.numeral",
+            "yearsKey": "issue.yangChienho.ch4.years"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p1"
+        },
+        {
+          "figure": {
+            "aspect": 2.0633312222925904,
+            "briefKey": "issue.yangChienho.ch4.fig1.brief",
+            "captionKey": "issue.yangChienho.ch4.fig1.caption",
+            "creditKey": "issue.yangChienho.ch4.fig1.credit",
+            "showsFullFrame": true,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/kokugo-household-plaque.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p5"
+        },
+        {
+          "attributionKey": "issue.yangChienho.ch4.p6.attribution",
+          "kind": "quote",
+          "textKey": "issue.yangChienho.ch4.p6"
+        },
+        {
+          "figure": {
+            "aspect": 1.344621513944223,
+            "briefKey": "issue.yangChienho.ch4.fig2.brief",
+            "captionKey": "issue.yangChienho.ch4.fig2.caption",
+            "creditKey": "issue.yangChienho.ch4.fig2.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/lai-he.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p7"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p8"
+        },
+        {
+          "device": {
+            "kind": "table",
+            "table": {
+              "footRows": [
+                {
+                  "leadKey": "issue.yangChienho.interviewsLead",
+                  "textKey": "issue.yangChienho.interviewees"
+                }
+              ],
+              "labelKey": "issue.yangChienho.bibliographyLabel",
+              "noteKey": "issue.yangChienho.bibliographyNote",
+              "rows": [
+                {
+                  "leadKey": "issue.yangChienho.bib1.date",
+                  "textKey": "issue.yangChienho.bib1.title",
+                  "trailKey": "issue.yangChienho.bib1.venue"
+                },
+                {
+                  "leadKey": "issue.yangChienho.bib2.date",
+                  "textKey": "issue.yangChienho.bib2.title",
+                  "trailKey": "issue.yangChienho.bib2.venue"
+                },
+                {
+                  "leadKey": "issue.yangChienho.bib3.date",
+                  "textKey": "issue.yangChienho.bib3.title",
+                  "trailKey": "issue.yangChienho.bib3.venue"
+                },
+                {
+                  "leadKey": "issue.yangChienho.bib4.date",
+                  "textKey": "issue.yangChienho.bib4.title",
+                  "trailKey": "issue.yangChienho.bib4.venue"
+                },
+                {
+                  "leadKey": "issue.yangChienho.bib5.date",
+                  "textKey": "issue.yangChienho.bib5.title",
+                  "trailKey": "issue.yangChienho.bib5.venue"
+                },
+                {
+                  "leadKey": "issue.yangChienho.bib6.date",
+                  "textKey": "issue.yangChienho.bib6.title",
+                  "trailKey": "issue.yangChienho.bib6.venue"
+                }
+              ],
+              "style": "ledger"
+            }
+          },
+          "kind": "device"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p9"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch4.p10"
+        },
+        {
+          "attributionKey": "issue.yangChienho.ch4.p11.attribution",
+          "kind": "quote",
+          "textKey": "issue.yangChienho.ch4.p11"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch5.blurb",
+            "headingKey": "issue.yangChienho.ch5.heading",
+            "numeralKey": "issue.yangChienho.ch5.numeral",
+            "yearsKey": "issue.yangChienho.ch5.years"
+          }
+        },
+        {
+          "figure": {
+            "aspect": 1.2073863636363635,
+            "briefKey": "issue.yangChienho.ch5.fig1.brief",
+            "captionKey": "issue.yangChienho.ch5.fig1.caption",
+            "creditKey": "issue.yangChienho.ch5.fig1.credit",
+            "showsFullFrame": true,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/lung-ying-tsung-1942.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch5.p1"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch5.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch5.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch5.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch5.p5"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch6.blurb",
+            "headingKey": "issue.yangChienho.ch6.heading",
+            "numeralKey": "issue.yangChienho.ch6.numeral",
+            "yearsKey": "issue.yangChienho.ch6.years"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch6.p1"
+        },
+        {
+          "figure": {
+            "aspect": 1.3220524017467248,
+            "briefKey": "issue.yangChienho.ch6.fig1.brief",
+            "captionKey": "issue.yangChienho.ch6.fig1.caption",
+            "creditKey": "issue.yangChienho.ch6.fig1.credit",
+            "showsFullFrame": true,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/min-pao-1946.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch6.p2"
+        },
+        {
+          "device": {
+            "kind": "table",
+            "table": {
+              "labelKey": "issue.yangChienho.decreesLabel",
+              "rows": [
+                {
+                  "leadKey": "issue.yangChienho.decree1.date",
+                  "textKey": "issue.yangChienho.decree1.action",
+                  "trailKey": "issue.yangChienho.decree1.issuer"
+                },
+                {
+                  "leadKey": "issue.yangChienho.decree2.date",
+                  "textKey": "issue.yangChienho.decree2.action",
+                  "trailKey": "issue.yangChienho.decree2.issuer"
+                }
+              ],
+              "style": "decree"
+            }
+          },
+          "kind": "device"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch6.p3"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch6.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch6.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch6.p6"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch7.blurb",
+            "headingKey": "issue.yangChienho.ch7.heading",
+            "numeralKey": "issue.yangChienho.ch7.numeral",
+            "yearsKey": "issue.yangChienho.ch7.years"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p1"
+        },
+        {
+          "figure": {
+            "aspect": 1.3333333333333333,
+            "briefKey": "issue.yangChienho.ch7.fig1.brief",
+            "captionKey": "issue.yangChienho.ch7.fig1.caption",
+            "chart": {
+              "kind": "spans",
+              "spans": {
+                "axisFirst": 1930,
+                "axisLast": 1950,
+                "marker": 1945,
+                "rows": [
+                  {
+                    "first": 1933,
+                    "labelKey": "issue.yangChienho.chart.generation.chang",
+                    "last": 1945
+                  },
+                  {
+                    "first": 1933,
+                    "labelKey": "issue.yangChienho.chart.generation.wu",
+                    "last": 1945
+                  },
+                  {
+                    "first": 1935,
+                    "labelKey": "issue.yangChienho.chart.generation.lu",
+                    "last": 1945
+                  },
+                  {
+                    "first": 1937,
+                    "labelKey": "issue.yangChienho.chart.generation.lung",
+                    "last": 1946
+                  },
+                  {
+                    "first": 1941,
+                    "labelKey": "issue.yangChienho.chart.generation.chou",
+                    "last": 1945
+                  },
+                  {
+                    "first": 1941,
+                    "labelKey": "issue.yangChienho.chart.generation.yang",
+                    "last": 1943
+                  },
+                  {
+                    "first": 1943,
+                    "labelKey": "issue.yangChienho.chart.generation.wang",
+                    "last": 1945
+                  },
+                  {
+                    "first": 1943,
+                    "labelKey": "issue.yangChienho.chart.generation.chen",
+                    "last": 1945
+                  }
+                ]
+              }
+            },
+            "creditKey": "issue.yangChienho.ch7.fig1.credit",
+            "showsFullFrame": false,
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p3"
+        },
+        {
+          "figure": {
+            "aspect": 1.135876042908224,
+            "briefKey": "issue.yangChienho.ch7.fig2.brief",
+            "captionKey": "issue.yangChienho.ch7.fig2.caption",
+            "creditKey": "issue.yangChienho.ch7.fig2.credit",
+            "showsFullFrame": true,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/tainan-election-1950.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p5"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p6"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch7.p7"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.yangChienho.ch8.blurb",
+            "headingKey": "issue.yangChienho.ch8.heading",
+            "numeralKey": "issue.yangChienho.ch8.numeral",
+            "yearsKey": "issue.yangChienho.ch8.years"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p1"
+        },
+        {
+          "figure": {
+            "aspect": 1.2831632653061225,
+            "briefKey": "issue.yangChienho.ch8.fig1.brief",
+            "captionKey": "issue.yangChienho.ch8.fig1.caption",
+            "creditKey": "issue.yangChienho.ch8.fig1.credit",
+            "showsFullFrame": true,
+            "url": "https://images.vocus.cc/01b93534-9a9d-48a0-8716-ddec5a269562.jpg",
+            "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p2"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p3"
+        },
+        {
+          "kind": "caveat",
+          "textKey": "issue.yangChienho.ch8.p4"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p5"
+        },
+        {
+          "figure": {
+            "aspect": 0.708984375,
+            "briefKey": "issue.yangChienho.ch8.fig2.brief",
+            "captionKey": "issue.yangChienho.ch8.fig2.caption",
+            "creditKey": "issue.yangChienho.ch8.fig2.credit",
+            "showsFullFrame": false,
+            "url": "https://taiwaneseamericanhistory.org/wp-content/uploads/2014/10/111_%E4%BA%BA%E7%94%9F%E7%9A%84%E4%B8%89%E7%B6%BE%E9%8F%A11-726x1024.jpg",
+            "weight": "spot"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p6"
+        },
+        {
+          "device": {
+            "comparison": {
+              "panels": [
+                {
+                  "imprintKey": "issue.yangChienho.book1.imprint",
+                  "isEmphasized": true,
+                  "lineKeys": [
+                    "issue.yangChienho.book1.line1",
+                    "issue.yangChienho.book1.line2"
+                  ],
+                  "roleKey": "issue.yangChienho.book1.role",
+                  "tagKey": "issue.yangChienho.books.original",
+                  "titleKey": "issue.yangChienho.book1.title"
+                },
+                {
+                  "imprintKey": "issue.yangChienho.book2.imprint",
+                  "isEmphasized": false,
+                  "lineKeys": [
+                    "issue.yangChienho.book2.line1",
+                    "issue.yangChienho.book2.line2"
+                  ],
+                  "roleKey": "issue.yangChienho.book2.role",
+                  "tagKey": "issue.yangChienho.books.translation",
+                  "titleKey": "issue.yangChienho.book2.title"
+                }
+              ],
+              "sourceKey": "issue.yangChienho.booksSource",
+              "wantsWholePage": true
+            },
+            "kind": "comparison"
+          },
+          "kind": "device"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p7"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p8"
+        },
+        {
+          "figure": {
+            "aspect": 0.7076923076923077,
+            "briefKey": "issue.yangChienho.ch8.fig3.brief",
+            "captionKey": "issue.yangChienho.ch8.fig3.caption",
+            "creditKey": "issue.yangChienho.ch8.fig3.credit",
+            "showsFullFrame": false,
+            "url": "https://taiwaneseamericanhistory.org/wp-content/uploads/2014/10/112_%E8%8A%B1%E9%96%8B%E6%99%82%E7%AF%80.jpg",
+            "weight": "spot"
+          },
+          "kind": "figure"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p9"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p10"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.yangChienho.ch8.p11"
+        },
+        {
+          "kind": "closing",
+          "textKey": "issue.yangChienho.ch8.p12"
+        }
+      ],
+      "bylineKey": "issue.yangChienho.byline",
+      "colophonNotes": [
+        {
+          "labelKey": "issue.yangChienho.note1.label",
+          "valueKey": "issue.yangChienho.note1.value"
+        },
+        {
+          "labelKey": "issue.yangChienho.note2.label",
+          "valueKey": "issue.yangChienho.note2.value"
+        }
+      ],
+      "coverFigure": {
+        "aspect": 0.6667,
+        "briefKey": "issue.yangChienho.coverFigure.brief",
+        "captionKey": "issue.yangChienho.coverFigure.caption",
+        "creditKey": "issue.yangChienho.coverFigure.credit",
+        "showsFullFrame": false,
+        "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/cover.png",
+        "weight": "standard"
+      },
+      "epigraphKey": "issue.yangChienho.epigraph",
+      "epigraphSourceKey": "issue.yangChienho.epigraphSource",
+      "id": "yangChienho",
+      "issueLabelKey": "issue.yangChienho.issueLabel",
+      "kickerKey": "issue.yangChienho.kicker",
+      "perspectives": [
+        {
+          "anchorNumeral": "issue.yangChienho.ch3.numeral",
+          "icon": "printer",
+          "labelKey": "issue.yangChienho.voice1.label",
+          "ledeKey": "issue.yangChienho.voice1.lede",
+          "paragraphKeys": [
+            "issue.yangChienho.voice1.p1",
+            "issue.yangChienho.voice1.p2"
+          ]
+        },
+        {
+          "anchorNumeral": "issue.yangChienho.ch2.numeral",
+          "icon": "person.3",
+          "labelKey": "issue.yangChienho.voice2.label",
+          "ledeKey": "issue.yangChienho.voice2.lede",
+          "paragraphKeys": [
+            "issue.yangChienho.voice2.p1",
+            "issue.yangChienho.voice2.p2"
+          ]
+        },
+        {
+          "anchorNumeral": "issue.yangChienho.ch1.numeral",
+          "icon": "book.closed",
+          "labelKey": "issue.yangChienho.voice3.label",
+          "ledeKey": "issue.yangChienho.voice3.lede",
+          "paragraphKeys": [
+            "issue.yangChienho.voice3.p1",
+            "issue.yangChienho.voice3.p2"
+          ]
+        },
+        {
+          "anchorNumeral": "issue.yangChienho.ch6.numeral",
+          "icon": "building.columns",
+          "labelKey": "issue.yangChienho.voice4.label",
+          "ledeKey": "issue.yangChienho.voice4.lede",
+          "paragraphKeys": [
+            "issue.yangChienho.voice4.p1",
+            "issue.yangChienho.voice4.p2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "titleKey": "issue.yangChienho.source1.title",
+          "url": "https://taiwanlit.org/essays/%E6%88%B0%E5%89%8D%E8%88%87%E6%88%B0%E5%BE%8C%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E4%B8%8A%E7%9A%84%E6%A5%8A%E5%8D%83%E9%B6%B41921-2011-%E5%85%BC%E8%AB%87%E6%A5%8A%E5%8D%83%E9%B6%B4-%E8%8A%B1%E9%96%8B%E6%99%82%E7%AF%80-%E7%9A%84%E6%88%91%E8%A6%8B",
+          "venueKey": "issue.yangChienho.source1.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source2.title",
+          "url": "https://activityfile.nmtl.gov.tw/nmtlhistory/almanac/almanacContent/People/Volume_2011/C2012112011175176FO.pdf",
+          "venueKey": "issue.yangChienho.source2.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source3.title",
+          "url": "https://www.ccat.tw/topic-article/1149",
+          "venueKey": "issue.yangChienho.source3.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source4.title",
+          "url": "https://www.cna.com.tw/culture/article/20250407w002",
+          "venueKey": "issue.yangChienho.source4.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source5.title",
+          "url": "https://tlvm.nmtl.gov.tw/zh/Create/CreatePlatformCont?Createid=42",
+          "venueKey": "issue.yangChienho.source5.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source6.title",
+          "url": "https://www.twmemory.org/?p=9219",
+          "venueKey": "issue.yangChienho.source6.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source7.title",
+          "url": "https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=304",
+          "venueKey": "issue.yangChienho.source7.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source8.title",
+          "url": "http://homepage.ntu.edu.tw/~ntut019/ltes/Yen-Wu-IncomeDistribution.pdf",
+          "venueKey": "issue.yangChienho.source8.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source9.title",
+          "url": "https://ubrand.udn.com/ubrand/story/123655/8438876",
+          "venueKey": "issue.yangChienho.source9.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source10.title",
+          "url": "https://brill.com/view/journals/ijts/6/1/article-p82_005.xml?language=en",
+          "venueKey": "issue.yangChienho.source10.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source11.title",
+          "url": "https://vocus.cc/article/6191ece1fd89780001ca7b68",
+          "venueKey": "issue.yangChienho.source11.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source12.title",
+          "url": "https://vocus.cc/article/6208cab3fd8978000153dbd7",
+          "venueKey": "issue.yangChienho.source12.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source13.title",
+          "url": "https://ir.lib.nchu.edu.tw/handle/11455/95518",
+          "venueKey": "issue.yangChienho.source13.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source14.title",
+          "url": "https://ir.lib.nchu.edu.tw/handle/11455/95518",
+          "venueKey": "issue.yangChienho.source14.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source15.title",
+          "url": "https://www.books.com.tw/products/0010767213",
+          "venueKey": "issue.yangChienho.source15.venue"
+        },
+        {
+          "titleKey": "issue.yangChienho.source16.title",
+          "url": "https://zh.wikipedia.org/zh-tw/%E6%A5%8A%E5%8D%83%E9%B6%B4",
+          "venueKey": "issue.yangChienho.source16.venue"
+        }
+      ],
+      "standfirstFigure": {
+        "aspect": 1.4992458521870287,
+        "briefKey": "issue.yangChienho.standfirstFigure.brief",
+        "captionKey": "issue.yangChienho.standfirstFigure.caption",
+        "creditKey": "issue.yangChienho.standfirstFigure.credit",
+        "showsFullFrame": false,
+        "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/sakaecho-1942.jpg",
+        "weight": "standard"
+      },
+      "standfirstKey": "issue.yangChienho.standfirst",
+      "subtitleKey": "issue.yangChienho.subtitle",
+      "titleKey": "issue.yangChienho.title",
+      "voiceFigures": [
+        {
+          "figure": {
+            "aspect": 0.6666666666666666,
+            "briefKey": "issue.yangChienho.voice1.figure.brief",
+            "captionKey": "issue.yangChienho.voice1.figure.caption",
+            "creditKey": "issue.yangChienho.voice1.figure.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/nichinichi-1937-05-07-p2.jpg",
+            "weight": "standard"
+          },
+          "labelKey": "issue.yangChienho.voice1.label"
+        },
+        {
+          "figure": {
+            "aspect": 1.5003663003663004,
+            "briefKey": "issue.yangChienho.voice2.figure.brief",
+            "captionKey": "issue.yangChienho.voice2.figure.caption",
+            "creditKey": "issue.yangChienho.voice2.figure.credit",
+            "showsFullFrame": true,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/taihoku-womens-college.jpg",
+            "weight": "standard"
+          },
+          "labelKey": "issue.yangChienho.voice2.label"
+        },
+        {
+          "figure": {
+            "aspect": 0.7175893482831114,
+            "briefKey": "issue.yangChienho.voice3.figure.brief",
+            "captionKey": "issue.yangChienho.voice3.figure.caption",
+            "creditKey": "issue.yangChienho.voice3.figure.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/nishikawa-mitsuru-1956.jpg",
+            "weight": "standard"
+          },
+          "labelKey": "issue.yangChienho.voice3.label"
+        },
+        {
+          "figure": {
+            "aspect": 0.8415147265077139,
+            "briefKey": "issue.yangChienho.voice4.figure.brief",
+            "captionKey": "issue.yangChienho.voice4.figure.caption",
+            "creditKey": "issue.yangChienho.voice4.figure.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/yangChienho/chen-yi.jpg",
+            "weight": "standard"
+          },
+          "labelKey": "issue.yangChienho.voice4.label"
+        }
+      ],
+      "voicesTitleKey": "issue.yangChienho.voicesTitle"
+    }
+  ],
   "milestones": [
     {
       "acts": [
