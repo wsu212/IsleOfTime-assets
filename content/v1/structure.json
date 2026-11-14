@@ -11578,11 +11578,11 @@
         {
           "figure": {
             "aspect": 0.6666666666666666,
-            "briefKey": "issue.wuChangCheng.ch4.fig3.brief",
-            "captionKey": "issue.wuChangCheng.ch4.fig3.caption",
-            "creditKey": "issue.wuChangCheng.ch4.fig3.credit",
+            "briefKey": "issue.wuChangCheng.ch4.fig2.brief",
+            "captionKey": "issue.wuChangCheng.ch4.fig2.caption",
+            "creditKey": "issue.wuChangCheng.ch4.fig2.credit",
             "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/giants-bat.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/giants-23-back.jpg",
             "weight": "standard"
           },
           "kind": "figure"
@@ -11606,18 +11606,6 @@
         {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch4.p5"
-        },
-        {
-          "figure": {
-            "aspect": 0.6666666666666666,
-            "briefKey": "issue.wuChangCheng.ch4.fig2.brief",
-            "captionKey": "issue.wuChangCheng.ch4.fig2.caption",
-            "creditKey": "issue.wuChangCheng.ch4.fig2.credit",
-            "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/giants-23-back.jpg",
-            "weight": "spot"
-          },
-          "kind": "figure"
         },
         {
           "kind": "paragraph",
