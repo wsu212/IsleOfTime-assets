@@ -11441,7 +11441,7 @@
           "kind": "figure"
         },
         {
-          "kind": "paragraph",
+          "kind": "coda",
           "textKey": "issue.wuChangCheng.ch1.p6"
         },
         {
@@ -11615,7 +11615,7 @@
             "creditKey": "issue.wuChangCheng.ch4.fig3.credit",
             "showsFullFrame": false,
             "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/giants-bat.jpg",
-            "weight": "standard"
+            "weight": "spot"
           },
           "kind": "figure"
         },
@@ -11685,7 +11685,7 @@
           "textKey": "issue.wuChangCheng.ch5.p7"
         },
         {
-          "kind": "paragraph",
+          "kind": "coda",
           "textKey": "issue.wuChangCheng.ch5.p8"
         },
         {
@@ -11849,7 +11849,7 @@
             },
             "creditKey": "issue.wuChangCheng.ch7.fig2.credit",
             "showsFullFrame": false,
-            "weight": "spot"
+            "weight": "standard"
           },
           "kind": "figure"
         },
