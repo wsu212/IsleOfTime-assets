@@ -11433,6 +11433,10 @@
           "textKey": "issue.wuChangCheng.ch1.p6"
         },
         {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch1.p6b"
+        },
+        {
           "kind": "section",
           "section": {
             "blurbKey": "issue.wuChangCheng.ch2.blurb",
