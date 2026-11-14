@@ -11568,18 +11568,6 @@
           }
         },
         {
-          "figure": {
-            "aspect": 0.7995867768595041,
-            "briefKey": "issue.wuChangCheng.ch4.fig1.brief",
-            "captionKey": "issue.wuChangCheng.ch4.fig1.caption",
-            "creditKey": "issue.wuChangCheng.ch4.fig1.credit",
-            "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/sawamura-1936.jpg",
-            "weight": "spot"
-          },
-          "kind": "figure"
-        },
-        {
           "kind": "opening",
           "textKey": "issue.wuChangCheng.ch4.p1"
         },
@@ -11590,6 +11578,18 @@
         {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch4.p3"
+        },
+        {
+          "figure": {
+            "aspect": 0.7995867768595041,
+            "briefKey": "issue.wuChangCheng.ch4.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch4.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch4.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/sawamura-1936.jpg",
+            "weight": "spot"
+          },
+          "kind": "figure"
         },
         {
           "kind": "paragraph",
