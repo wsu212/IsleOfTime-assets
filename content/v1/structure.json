@@ -11412,6 +11412,18 @@
           "textKey": "issue.wuChangCheng.ch1.p1"
         },
         {
+          "figure": {
+            "aspect": 1.3333333333333333,
+            "briefKey": "issue.wuChangCheng.ch1.fig2.brief",
+            "captionKey": "issue.wuChangCheng.ch1.fig2.caption",
+            "creditKey": "issue.wuChangCheng.ch1.fig2.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/nishinomiya-1948.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch1.p2"
         },
@@ -11474,15 +11486,6 @@
           "textKey": "issue.wuChangCheng.ch2.p4"
         },
         {
-          "kind": "section",
-          "section": {
-            "blurbKey": "issue.wuChangCheng.ch3.blurb",
-            "headingKey": "issue.wuChangCheng.ch3.heading",
-            "numeralKey": "issue.wuChangCheng.ch3.numeral",
-            "yearsKey": "issue.wuChangCheng.ch3.years"
-          }
-        },
-        {
           "figure": {
             "aspect": 1.5892857142857142,
             "briefKey": "issue.wuChangCheng.ch3.fig1.brief",
@@ -11493,6 +11496,15 @@
             "weight": "standard"
           },
           "kind": "figure"
+        },
+        {
+          "kind": "section",
+          "section": {
+            "blurbKey": "issue.wuChangCheng.ch3.blurb",
+            "headingKey": "issue.wuChangCheng.ch3.heading",
+            "numeralKey": "issue.wuChangCheng.ch3.numeral",
+            "yearsKey": "issue.wuChangCheng.ch3.years"
+          }
         },
         {
           "kind": "opening",
@@ -11568,6 +11580,18 @@
           }
         },
         {
+          "figure": {
+            "aspect": 0.6666666666666666,
+            "briefKey": "issue.wuChangCheng.ch4.fig2.brief",
+            "captionKey": "issue.wuChangCheng.ch4.fig2.caption",
+            "creditKey": "issue.wuChangCheng.ch4.fig2.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/giants-23-back.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
           "kind": "opening",
           "textKey": "issue.wuChangCheng.ch4.p1"
         },
@@ -11580,24 +11604,24 @@
           "textKey": "issue.wuChangCheng.ch4.p3"
         },
         {
-          "figure": {
-            "aspect": 0.7995867768595041,
-            "briefKey": "issue.wuChangCheng.ch4.fig1.brief",
-            "captionKey": "issue.wuChangCheng.ch4.fig1.caption",
-            "creditKey": "issue.wuChangCheng.ch4.fig1.credit",
-            "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/sawamura-1936.jpg",
-            "weight": "spot"
-          },
-          "kind": "figure"
-        },
-        {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch4.p4"
         },
         {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch4.p5"
+        },
+        {
+          "figure": {
+            "aspect": 0.6666666666666666,
+            "briefKey": "issue.wuChangCheng.ch4.fig3.brief",
+            "captionKey": "issue.wuChangCheng.ch4.fig3.caption",
+            "creditKey": "issue.wuChangCheng.ch4.fig3.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/giants-bat.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
         },
         {
           "kind": "paragraph",
@@ -12279,6 +12303,11 @@
           "titleKey": "issue.wuChangCheng.source26.title",
           "url": "https://web.archive.org/web/20130625101407/http://www.sponichi.co.jp/baseball/yomimono/pro_calendar/1206/kiji/K20120616003458240.html",
           "venueKey": "issue.wuChangCheng.source26.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source27.title",
+          "url": "https://commons.wikimedia.org/wiki/File:Nishinomiya_Stadium_aerial_photograph_1948.jpg",
+          "venueKey": "issue.wuChangCheng.source27.venue"
         }
       ],
       "standfirstFigure": {
