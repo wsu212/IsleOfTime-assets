@@ -11698,6 +11698,18 @@
           }
         },
         {
+          "figure": {
+            "aspect": 0.6666666666666666,
+            "briefKey": "issue.wuChangCheng.ch6.fig3.brief",
+            "captionKey": "issue.wuChangCheng.ch6.fig3.caption",
+            "creditKey": "issue.wuChangCheng.ch6.fig3.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/tigers-1946-set.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
+        },
+        {
           "kind": "opening",
           "textKey": "issue.wuChangCheng.ch6.p1"
         },
