@@ -11963,6 +11963,10 @@
           "textKey": "issue.wuChangCheng.ch8.p7"
         },
         {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch8.p7b"
+        },
+        {
           "kind": "section",
           "section": {
             "blurbKey": "issue.wuChangCheng.ch9.blurb",
