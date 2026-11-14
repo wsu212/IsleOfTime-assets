@@ -12266,6 +12266,11 @@
           "titleKey": "issue.wuChangCheng.source25.title",
           "url": "https://commons.wikimedia.org/wiki/File:TWN-JPN_Crowd_at_2007_Baseball_World_Cup.JPG",
           "venueKey": "issue.wuChangCheng.source25.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source26.title",
+          "url": "https://web.archive.org/web/20130625101407/http://www.sponichi.co.jp/baseball/yomimono/pro_calendar/1206/kiji/K20120616003458240.html",
+          "venueKey": "issue.wuChangCheng.source26.venue"
         }
       ],
       "standfirstFigure": {
