@@ -12066,6 +12066,15 @@
         "duration": 20,
         "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/cheer.mp3"
       },
+      "closingFigure": {
+        "aspect": 1.3333333333333333,
+        "briefKey": "issue.wuChangCheng.closingFigure.brief",
+        "captionKey": "issue.wuChangCheng.closingFigure.caption",
+        "creditKey": "issue.wuChangCheng.closingFigure.credit",
+        "showsFullFrame": false,
+        "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/closing-crowd.jpg",
+        "weight": "plate"
+      },
       "colophonNotes": [
         {
           "labelKey": "issue.wuChangCheng.note1.label",
@@ -12252,6 +12261,11 @@
           "titleKey": "issue.wuChangCheng.source24.title",
           "url": "https://commons.wikimedia.org/wiki/File:%E8%B6%85%E7%B4%9A%E6%99%83%E5%8B%95_%E4%B8%B9%E4%B8%B9_%E8%8C%83%E5%9C%8B%E5%AE%B8_%E6%87%89%E6%8F%B4~.webm",
           "venueKey": "issue.wuChangCheng.source24.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source25.title",
+          "url": "https://commons.wikimedia.org/wiki/File:TWN-JPN_Crowd_at_2007_Baseball_World_Cup.JPG",
+          "venueKey": "issue.wuChangCheng.source25.venue"
         }
       ],
       "standfirstFigure": {
