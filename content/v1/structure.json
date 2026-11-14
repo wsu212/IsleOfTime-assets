@@ -12063,13 +12063,25 @@
         },
         {
           "figure": {
-            "aspect": 1.4970059880239521,
+            "aspect": 1.5003750937734435,
             "briefKey": "issue.wuChangCheng.ch9.fig2.brief",
             "captionKey": "issue.wuChangCheng.ch9.fig2.caption",
             "creditKey": "issue.wuChangCheng.ch9.fig2.credit",
             "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/premier12-champions-2024.jpg",
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/premier12-final-2024.jpg",
             "weight": "plate"
+          },
+          "kind": "figure"
+        },
+        {
+          "figure": {
+            "aspect": 1.4970059880239521,
+            "briefKey": "issue.wuChangCheng.ch9.fig3.brief",
+            "captionKey": "issue.wuChangCheng.ch9.fig3.caption",
+            "creditKey": "issue.wuChangCheng.ch9.fig3.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/premier12-champions-2024.jpg",
+            "weight": "standard"
           },
           "kind": "figure"
         },
