@@ -11678,6 +11678,10 @@
           }
         },
         {
+          "kind": "opening",
+          "textKey": "issue.wuChangCheng.ch6.p1"
+        },
+        {
           "figure": {
             "aspect": 0.6913092550790068,
             "briefKey": "issue.wuChangCheng.ch6.fig1.brief",
@@ -11688,10 +11692,6 @@
             "weight": "standard"
           },
           "kind": "figure"
-        },
-        {
-          "kind": "opening",
-          "textKey": "issue.wuChangCheng.ch6.p1"
         },
         {
           "kind": "paragraph",
