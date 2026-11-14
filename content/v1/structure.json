@@ -11397,31 +11397,19 @@
         },
         {
           "figure": {
-            "aspect": 0.6260623229461756,
-            "briefKey": "issue.wuChangCheng.ch1.fig1.brief",
-            "captionKey": "issue.wuChangCheng.ch1.fig1.caption",
-            "creditKey": "issue.wuChangCheng.ch1.fig1.credit",
-            "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/go-shosei-1952.jpg",
-            "weight": "standard"
-          },
-          "kind": "figure"
-        },
-        {
-          "kind": "opening",
-          "textKey": "issue.wuChangCheng.ch1.p1"
-        },
-        {
-          "figure": {
             "aspect": 1.3333333333333333,
             "briefKey": "issue.wuChangCheng.ch1.fig2.brief",
             "captionKey": "issue.wuChangCheng.ch1.fig2.caption",
             "creditKey": "issue.wuChangCheng.ch1.fig2.credit",
             "showsFullFrame": false,
             "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/nishinomiya-1948.jpg",
-            "weight": "standard"
+            "weight": "plate"
           },
           "kind": "figure"
+        },
+        {
+          "kind": "opening",
+          "textKey": "issue.wuChangCheng.ch1.p1"
         },
         {
           "kind": "paragraph",
@@ -11439,6 +11427,18 @@
           "attributionKey": "issue.wuChangCheng.ch1.p5.attribution",
           "kind": "quote",
           "textKey": "issue.wuChangCheng.ch1.p5"
+        },
+        {
+          "figure": {
+            "aspect": 0.6260623229461756,
+            "briefKey": "issue.wuChangCheng.ch1.fig1.brief",
+            "captionKey": "issue.wuChangCheng.ch1.fig1.caption",
+            "creditKey": "issue.wuChangCheng.ch1.fig1.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/go-shosei-1952.jpg",
+            "weight": "standard"
+          },
+          "kind": "figure"
         },
         {
           "kind": "paragraph",
@@ -11561,10 +11561,6 @@
         {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch3.p8"
-        },
-        {
-          "kind": "caveat",
-          "textKey": "issue.wuChangCheng.ch3.p9"
         },
         {
           "kind": "paragraph",
@@ -11704,18 +11700,6 @@
         {
           "kind": "opening",
           "textKey": "issue.wuChangCheng.ch6.p1"
-        },
-        {
-          "figure": {
-            "aspect": 0.6913092550790068,
-            "briefKey": "issue.wuChangCheng.ch6.fig1.brief",
-            "captionKey": "issue.wuChangCheng.ch6.fig1.caption",
-            "creditKey": "issue.wuChangCheng.ch6.fig1.credit",
-            "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/wakabayashi-1946.jpg",
-            "weight": "standard"
-          },
-          "kind": "figure"
         },
         {
           "kind": "paragraph",
@@ -11968,10 +11952,6 @@
         },
         {
           "kind": "caveat",
-          "textKey": "issue.wuChangCheng.ch8.p3"
-        },
-        {
-          "kind": "caveat",
           "textKey": "issue.wuChangCheng.ch8.p4"
         },
         {
@@ -11981,6 +11961,10 @@
         {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch8.p6"
+        },
+        {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch9.p1"
         },
         {
           "kind": "paragraph",
@@ -12001,10 +11985,6 @@
         },
         {
           "kind": "opening",
-          "textKey": "issue.wuChangCheng.ch9.p1"
-        },
-        {
-          "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch9.p2"
         },
         {
@@ -12053,10 +12033,6 @@
         {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch9.p3"
-        },
-        {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch9.p4"
         },
         {
           "figure": {
