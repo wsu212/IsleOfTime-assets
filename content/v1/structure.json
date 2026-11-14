@@ -12058,7 +12058,7 @@
           "kind": "figure"
         },
         {
-          "kind": "paragraph",
+          "kind": "coda",
           "textKey": "issue.wuChangCheng.ch9.p5"
         },
         {
@@ -12069,7 +12069,7 @@
             "creditKey": "issue.wuChangCheng.ch9.fig2.credit",
             "showsFullFrame": false,
             "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/premier12-final-2024.jpg",
-            "weight": "plate"
+            "weight": "standard"
           },
           "kind": "figure"
         },
