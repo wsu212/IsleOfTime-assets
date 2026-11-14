@@ -12001,26 +12001,37 @@
                 },
                 {
                   "leadKey": "issue.wuChangCheng.ch9.table1.row2.lead",
+                  "portraitURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/portraits/kuo-tai-yuan.jpg",
                   "textKey": "issue.wuChangCheng.ch9.table1.row2.text",
                   "trailKey": "issue.wuChangCheng.ch9.table1.row2.trail"
                 },
                 {
+                  "leadKey": "issue.wuChangCheng.ch9.table1.row2b.lead",
+                  "portraitURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/portraits/chuang-sheng-hsiung.jpg",
+                  "textKey": "issue.wuChangCheng.ch9.table1.row2b.text",
+                  "trailKey": "issue.wuChangCheng.ch9.table1.row2b.trail"
+                },
+                {
                   "leadKey": "issue.wuChangCheng.ch9.table1.row3.lead",
+                  "portraitURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/portraits/lu-ming-tsu.jpg",
                   "textKey": "issue.wuChangCheng.ch9.table1.row3.text",
                   "trailKey": "issue.wuChangCheng.ch9.table1.row3.trail"
                 },
                 {
                   "leadKey": "issue.wuChangCheng.ch9.table1.row4.lead",
+                  "portraitURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/portraits/chen-chin-feng.jpg",
                   "textKey": "issue.wuChangCheng.ch9.table1.row4.text",
                   "trailKey": "issue.wuChangCheng.ch9.table1.row4.trail"
                 },
                 {
                   "leadKey": "issue.wuChangCheng.ch9.table1.row5.lead",
+                  "portraitURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/portraits/wang-chien-ming.jpg",
                   "textKey": "issue.wuChangCheng.ch9.table1.row5.text",
                   "trailKey": "issue.wuChangCheng.ch9.table1.row5.trail"
                 },
                 {
                   "leadKey": "issue.wuChangCheng.ch9.table1.row6.lead",
+                  "portraitURL": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/portraits/chen-wei-yin.jpg",
                   "textKey": "issue.wuChangCheng.ch9.table1.row6.text",
                   "trailKey": "issue.wuChangCheng.ch9.table1.row6.trail"
                 }
@@ -12284,6 +12295,41 @@
           "titleKey": "issue.wuChangCheng.source27.title",
           "url": "https://commons.wikimedia.org/wiki/File:Nishinomiya_Stadium_aerial_photograph_1948.jpg",
           "venueKey": "issue.wuChangCheng.source27.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source28.title",
+          "url": "https://commons.wikimedia.org/wiki/File:HAWKS83-Tai-Yuan_Kuo.jpg",
+          "venueKey": "issue.wuChangCheng.source28.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source29.title",
+          "url": "https://commons.wikimedia.org/wiki/File:%E8%8D%98%E5%8B%9D%E9%9B%84%E3%82%B3%E3%83%BC%E3%83%81_April_20,_2014_(13924006116)_(cropped).jpg",
+          "venueKey": "issue.wuChangCheng.source29.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source30.title",
+          "url": "https://commons.wikimedia.org/wiki/File:%E5%91%82%E6%98%8E%E8%B3%9C.jpg",
+          "venueKey": "issue.wuChangCheng.source30.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source31.title",
+          "url": "https://commons.wikimedia.org/wiki/File:%E9%99%B3%E9%87%91%E9%8B%92%E5%BC%95%E9%80%80%E8%B3%BD_(Cropped).jpg",
+          "venueKey": "issue.wuChangCheng.source31.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source32.title",
+          "url": "https://commons.wikimedia.org/wiki/File:Chien-Ming_Wang_(2312095486).jpg",
+          "venueKey": "issue.wuChangCheng.source32.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source33.title",
+          "url": "https://commons.wikimedia.org/wiki/File:Wei-Yin_Chen_on_May_15,_2012.jpg",
+          "venueKey": "issue.wuChangCheng.source33.venue"
+        },
+        {
+          "titleKey": "issue.wuChangCheng.source34.title",
+          "url": "https://ja.wikipedia.org/wiki/%E8%8D%98%E5%8B%9D%E9%9B%84",
+          "venueKey": "issue.wuChangCheng.source34.venue"
         }
       ],
       "standfirstFigure": {
