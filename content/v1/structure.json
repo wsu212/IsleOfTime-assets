@@ -12154,7 +12154,17 @@
           ]
         },
         {
-          "anchorNumeral": "issue.wuChangCheng.ch5.numeral",
+          "anchorNumeral": "issue.wuChangCheng.ch4.numeral",
+          "icon": "building.2",
+          "labelKey": "issue.wuChangCheng.voice4.label",
+          "ledeKey": "issue.wuChangCheng.voice4.lede",
+          "paragraphKeys": [
+            "issue.wuChangCheng.voice4.p1",
+            "issue.wuChangCheng.voice4.p2"
+          ]
+        },
+        {
+          "anchorNumeral": "issue.wuChangCheng.ch4.numeral",
           "icon": "building.columns",
           "labelKey": "issue.wuChangCheng.voice2.label",
           "ledeKey": "issue.wuChangCheng.voice2.lede",
@@ -12164,23 +12174,13 @@
           ]
         },
         {
-          "anchorNumeral": "issue.wuChangCheng.ch6.numeral",
+          "anchorNumeral": "issue.wuChangCheng.ch5.numeral",
           "icon": "person.2",
           "labelKey": "issue.wuChangCheng.voice3.label",
           "ledeKey": "issue.wuChangCheng.voice3.lede",
           "paragraphKeys": [
             "issue.wuChangCheng.voice3.p1",
             "issue.wuChangCheng.voice3.p2"
-          ]
-        },
-        {
-          "anchorNumeral": "issue.wuChangCheng.ch4.numeral",
-          "icon": "building.2",
-          "labelKey": "issue.wuChangCheng.voice4.label",
-          "ledeKey": "issue.wuChangCheng.voice4.lede",
-          "paragraphKeys": [
-            "issue.wuChangCheng.voice4.p1",
-            "issue.wuChangCheng.voice4.p2"
           ]
         }
       ],
@@ -12383,6 +12383,18 @@
         },
         {
           "figure": {
+            "aspect": 3,
+            "briefKey": "issue.wuChangCheng.voice4.figure.brief",
+            "captionKey": "issue.wuChangCheng.voice4.figure.caption",
+            "creditKey": "issue.wuChangCheng.voice4.figure.credit",
+            "showsFullFrame": false,
+            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/korakuen-nighter-1950.jpg",
+            "weight": "standard"
+          },
+          "labelKey": "issue.wuChangCheng.voice4.label"
+        },
+        {
+          "figure": {
             "aspect": 0.6919014084507042,
             "briefKey": "issue.wuChangCheng.voice2.figure.brief",
             "captionKey": "issue.wuChangCheng.voice2.figure.caption",
@@ -12428,18 +12440,6 @@
             "weight": "spot"
           },
           "labelKey": "issue.wuChangCheng.voice3.label"
-        },
-        {
-          "figure": {
-            "aspect": 3,
-            "briefKey": "issue.wuChangCheng.voice4.figure.brief",
-            "captionKey": "issue.wuChangCheng.voice4.figure.caption",
-            "creditKey": "issue.wuChangCheng.voice4.figure.credit",
-            "showsFullFrame": false,
-            "url": "https://raw.githubusercontent.com/wsu212/IsleOfTime-assets/main/specialIssues/wuChangCheng/korakuen-nighter-1950.jpg",
-            "weight": "standard"
-          },
-          "labelKey": "issue.wuChangCheng.voice4.label"
         }
       ],
       "voicesTitleKey": "issue.wuChangCheng.voicesTitle"
