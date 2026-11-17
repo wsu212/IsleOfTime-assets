@@ -12062,6 +12062,10 @@
           "textKey": "issue.wuChangCheng.ch9.p3"
         },
         {
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch9.mlb1"
+        },
+        {
           "figure": {
             "aspect": 1.018728053062817,
             "briefKey": "issue.wuChangCheng.ch9.fig1.brief",
