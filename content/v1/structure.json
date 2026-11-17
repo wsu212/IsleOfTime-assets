@@ -11895,6 +11895,10 @@
           "kind": "device"
         },
         {
+          "kind": "coda",
+          "textKey": "issue.wuChangCheng.ch7.coda1"
+        },
+        {
           "kind": "section",
           "section": {
             "blurbKey": "issue.wuChangCheng.ch8.blurb",
