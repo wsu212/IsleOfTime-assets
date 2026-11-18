@@ -11515,10 +11515,6 @@
           "textKey": "issue.wuChangCheng.ch3.p2"
         },
         {
-          "kind": "caveat",
-          "textKey": "issue.wuChangCheng.ch3.p3"
-        },
-        {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch3.p4"
         },
@@ -11653,10 +11649,6 @@
           "textKey": "issue.wuChangCheng.ch5.p5"
         },
         {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch5.p6"
-        },
-        {
           "figure": {
             "aspect": 1.7550274223034734,
             "briefKey": "issue.wuChangCheng.ch5.fig2.brief",
@@ -11735,7 +11727,8 @@
                   "lineKeys": [
                     "issue.wuChangCheng.ch6.table1.panel1.line1",
                     "issue.wuChangCheng.ch6.table1.panel1.line2",
-                    "issue.wuChangCheng.ch6.table1.panel1.line3"
+                    "issue.wuChangCheng.ch6.table1.panel1.line3",
+                    "issue.wuChangCheng.ch6.table1.panel1.line4"
                   ],
                   "roleKey": "issue.wuChangCheng.ch6.table1.panel1.role",
                   "tagKey": "issue.wuChangCheng.ch6.table1.panel1.tag",
@@ -11746,7 +11739,8 @@
                   "isEmphasized": false,
                   "lineKeys": [
                     "issue.wuChangCheng.ch6.table1.panel2.line1",
-                    "issue.wuChangCheng.ch6.table1.panel2.line2"
+                    "issue.wuChangCheng.ch6.table1.panel2.line2",
+                    "issue.wuChangCheng.ch6.table1.panel2.line3"
                   ],
                   "roleKey": "issue.wuChangCheng.ch6.table1.panel2.role",
                   "tagKey": "issue.wuChangCheng.ch6.table1.panel2.tag",
@@ -11795,10 +11789,6 @@
         {
           "kind": "paragraph",
           "textKey": "issue.wuChangCheng.ch7.p4"
-        },
-        {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch7.p5"
         },
         {
           "figure": {
@@ -11963,28 +11953,8 @@
           "textKey": "issue.wuChangCheng.ch8.p5"
         },
         {
-          "kind": "timeline",
-          "timeline": {
-            "entries": [
-              {
-                "textKey": "issue.wuChangCheng.ch8.timeline1.e1.text",
-                "yearKey": "issue.wuChangCheng.ch8.timeline1.e1.year"
-              },
-              {
-                "textKey": "issue.wuChangCheng.ch8.timeline1.e2.text",
-                "yearKey": "issue.wuChangCheng.ch8.timeline1.e2.year"
-              },
-              {
-                "textKey": "issue.wuChangCheng.ch8.timeline1.e3.text",
-                "yearKey": "issue.wuChangCheng.ch8.timeline1.e3.year"
-              },
-              {
-                "sameYear": true,
-                "textKey": "issue.wuChangCheng.ch8.timeline1.e4.text",
-                "yearKey": "issue.wuChangCheng.ch8.timeline1.e4.year"
-              }
-            ]
-          }
+          "kind": "paragraph",
+          "textKey": "issue.wuChangCheng.ch8.p7"
         },
         {
           "kind": "coda",
@@ -12078,10 +12048,6 @@
           "kind": "figure"
         },
         {
-          "kind": "paragraph",
-          "textKey": "issue.wuChangCheng.ch9.final1"
-        },
-        {
           "kind": "coda",
           "textKey": "issue.wuChangCheng.ch9.p5"
         },
@@ -12166,7 +12132,7 @@
           ]
         },
         {
-          "anchorNumeral": "issue.wuChangCheng.ch4.numeral",
+          "anchorNumeral": "issue.wuChangCheng.ch8.numeral",
           "icon": "building.2",
           "labelKey": "issue.wuChangCheng.voice4.label",
           "ledeKey": "issue.wuChangCheng.voice4.lede",
