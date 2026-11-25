@@ -1,0 +1,21 @@
+{
+  "contentHash": "1eb59b805163f7a3732ad69f3e8a901c317bbed76b3959ca2b1f532387bdbb2d",
+  "contentVersion": 130,
+  "files": {
+    "strings.en.json": {
+      "bytes": 2247791,
+      "sha256": "e264cf29a6a3fdccd1bf9baaa7065e6b5e63be0b92e29a886faa35ed27fb3294"
+    },
+    "strings.zh-Hant.json": {
+      "bytes": 1824556,
+      "sha256": "9d09909e6eda03c90166b8984c6190809691ced3bf635c564f631f439918c38c"
+    },
+    "structure.json": {
+      "bytes": 633243,
+      "sha256": "4d7ed2c2f8e7ba151b9814a42abd47303e607ad6d0abcd08fcb5eecd680319fc"
+    }
+  },
+  "generatedAt": "2026-11-25T12:26:04Z",
+  "minAppVersion": "1.0",
+  "schemaVersion": 1
+}

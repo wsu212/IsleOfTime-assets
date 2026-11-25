@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "panels": [
+    {
+      "year": 2026,
+      "state": "open",
+      "heading": {
+        "zh-Hant": "開館贊助者",
+        "en": "Founding Supporters"
+      },
+      "fundedVolumeKeys": [
+        "seaAndFortress.dongfanji",
+        "tungningDynasty.zhengJingsEasternConquest",
+        "imperialFrontier.zhuqianCity",
+        "imperialFrontier.dajiaxiUprising",
+        "imperialFrontier.ethnicFeuds",
+        "imperialFrontier.daiChaochunUprising",
+        "underTheRisingSun.taitenArtExhibition",
+        "underTheRisingSun.takasagoVolunteers",
+        "underTheRisingSun.orphanOfAsia",
+        "underTheRisingSun.taihokuRaid",
+        "silentIsland.kinmenArtilleryBattle",
+        "newFormosa.seeingTaiwanFromAbove"
+      ],
+      "anonymousCount": 30,
+      "donors": []
+    }
+  ]
+}
